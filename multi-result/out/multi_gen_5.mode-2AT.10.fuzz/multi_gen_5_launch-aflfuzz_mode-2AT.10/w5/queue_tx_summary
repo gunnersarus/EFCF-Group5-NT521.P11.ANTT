@@ -1,0 +1,543 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[];
+TX []
+    0x100001b()[🪙];
+TX []
+    0x60100()[];
+TX []
+    0xd00()[];
+TX []
+    0xfff60000()[];
+TX []
+    echidna_oracle():(bool)[];
+    0x0()[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+    ether_oracle()[];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    ether_oracle()[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f5(uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ];
+    f1(uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+TX []
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    0x0()[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    ether_oracle()[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f5(uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f1(uint256)[↕️ ↩️ ];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    f1(uint256)[↕️ ];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    echidna_oracle():(bool)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    echidna_oracle():(bool)[↕️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    ether_oracle()[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f1(uint256)[];
+    f3(uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    0x0()[🪙];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    0xffffffff()[🪙];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f3(uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f3(uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    ether_oracle()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ];
+    ether_oracle()[];
+    f3(uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    fallback()[🪙];
+    0x0()[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f5(uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f5(uint256,uint256,uint256)[];
+TX [🪙]
+    f1(uint256)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f3(uint256,uint256)[];
+TX []
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f5(uint256,uint256,uint256)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙];
+    0x37()[];
+TX []
+    fallback()[🪙];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ];
+    ether_oracle()[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+37 ==> 1
+d00 ==> 1
+60100 ==> 1
+100001b ==> 1
+fff60000 ==> 1
+ffffffff ==> 1
+f5(uint256,uint256,uint256) ==> 6
+ether_oracle() ==> 12
+0 ==> 13
+f3(uint256,uint256) ==> 13
+f4(uint256,uint256,uint256,uint256,uint256,uint256) ==> 29
+f2(uint256,uint256,uint256,uint256) ==> 82
+echidna_oracle():(bool) ==> 125
+f1(uint256) ==> 220
+
+Maximum ABI coverage with: ./w5/crashes/../queue/id:000079,src:000065,time:42698,execs:234663,EM-_____-____ml_____AI__d__o__-b__E_-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 124
+Average number of TXs: 4.080645161290323
+Number of unique TX sequences: 81
+Number of unique TX sequences (consecutive deduplicated): 53

@@ -1,0 +1,4 @@
+Reading 534 bytes from ./queue/id:000258,src:000200,time:432020,execs:3096430,EM-_____-_____l__sS_A___d_____-___E_-a____-A_H_
+Contract leaks ether to potentially controllable address: 0x3bf8f560008a000000000001
+account 0xc2018c3f08417e77b94fb541fed2bf1e09093edd has balance 0x1000000000000000000000000000000000213217539ebc000( > 0x1000000000000000000000000000000000000000000000000)
+Execution successful.

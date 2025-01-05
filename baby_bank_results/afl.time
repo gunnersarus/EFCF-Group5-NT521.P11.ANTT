@@ -1,0 +1,23 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/baby_bank.src.2b455400ac4da8796d9a28c5cc0d60d3.g0jw_x9y.fuzz/fuzz/dict/baby_bank.dict CONTRACT_ABI=/tmp/efcf/baby_bank.src.2b455400ac4da8796d9a28c5cc0d60d3.g0jw_x9y.fuzz/fuzz/abi/baby_bank.abi EM_ALLOW_COMPTRACE=1 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/baby_bank.src.2b455400ac4da8796d9a28c5cc0d60d3.g0jw_x9y.fuzz/fuzz/dict/baby_bank.dict -c /tmp/efcf/baby_bank.src.2b455400ac4da8796d9a28c5cc0d60d3.g0jw_x9y.fuzz/fuzz/build/afuzz_cmplog/baby_bank/fuzz_multitx -l 2AT -p rare -V 86400 -- /tmp/efcf/baby_bank.src.2b455400ac4da8796d9a28c5cc0d60d3.g0jw_x9y.fuzz/fuzz/build/afuzz/baby_bank/fuzz_multitx"
+	User time (seconds): 67.33
+	System time (seconds): 426.80
+	Percent of CPU this job got: 102%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:00.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 159464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 16496
+	Minor (reclaiming a frame) page faults: 29473
+	Voluntary context switches: 14818873
+	Involuntary context switches: 346
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 69416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

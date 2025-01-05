@@ -1,0 +1,251 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[];
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX [⏰]
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    depositEtherToContract()[🪙↕️ ↩️ ↩️ ↩️ ];
+    depositEtherToContract()[🪙];
+    freezeFunds(uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    depositEtherToContract()[🪙];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    freezeAccount(address,bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    fallback()[];
+TX []
+    burn(uint256):(bool)[];
+TX []
+    burn(uint256):(bool)[];
+    fallback()[];
+TX []
+    burnFrom(address,uint256):(bool)[];
+TX []
+    burnFrom(address,uint256):(bool)[];
+    fallback()[];
+TX [🪙]
+    burnFrom(address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+TX []
+    depositEtherToContract()[🪙];
+TX []
+    depositEtherToContract()[🪙↕️ ↩️ ↩️ ↩️ ];
+    depositEtherToContract()[🪙];
+TX []
+    depositEtherToContract()[🪙↕️ ↩️ ];
+    depositEtherToContract()[🪙];
+TX []
+    depositEtherToContract()[🪙↕️ ↩️ ];
+    depositEtherToContract()[🪙↕️ ↩️ ];
+    depositEtherToContract()[🪙];
+TX []
+    depositEtherToContract()[🪙↕️ ↩️ ↩️ ↩️ ];
+    depositEtherToContract()[🪙];
+    destoryContract(address)[↕️ ↩️ ];
+TX []
+    depositEtherToContract()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    depositEtherToContract()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    freezeFunds(uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    depositEtherToContract()[];
+    freezeFundsFrom(address,bool,uint256)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    destoryContract(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    freezeAccount(address,bool)[];
+TX []
+    freezeFunds(uint256):(bool)[];
+TX []
+    freezeFundsFrom(address,bool,uint256)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    freezeFunds(uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+    freezeAccount(address,bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ];
+TX [🪙]
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transferEtherToOwner(uint256)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    transferEtherToOwner(uint256)[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferOwner(address)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    transferOwner(address)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferOwner(address)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    approve(address,uint256):(bool)[];
+TX [⏰]
+    transferOwner(address)[↕️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[];
+    approve(address,uint256):(bool)[];
+    freezeFunds(uint256):(bool)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transferOwner(address)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferOwner(address)[];
+    transferEtherToOwner(uint256)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ↩️ ];
+    transferOwner(address)[];
+    increaseSupply(address,uint256,bool):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferOwner(address)[↕️ ↩️ ↩️ ];
+    transferOwner(address)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferTokenToOwner(uint256):(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+transferTokenToOwner(uint256):(uint256) ==> 1
+destoryContract(address) ==> 2
+freezeFundsFrom(address,bool,uint256) ==> 2
+transferEtherToOwner(uint256) ==> 3
+freezeAccount(address,bool) ==> 3
+burn(uint256):(bool) ==> 5
+decreaseApproval(address,uint256):(bool) ==> 7
+transfer(address,uint256):(bool) ==> 7
+burnFrom(address,uint256):(bool) ==> 8
+freezeFunds(uint256):(bool) ==> 9
+transferFrom(address,address,uint256):(bool) ==> 16
+transferOwner(address) ==> 16
+depositEtherToContract() ==> 16
+0 ==> 17
+increaseApproval(address,uint256):(bool) ==> 21
+increaseSupply(address,uint256,bool):(bool) ==> 22
+approve(address,uint256):(bool) ==> 34
+allowance(address,address):(uint256) ==> 0
+balanceOf(address):(uint256) ==> 0
+balanceOfAvailable(address):(uint256) ==> 0
+balanceOfFrozen(address):(uint256) ==> 0
+decimals():(uint8) ==> 0
+frozenAccount(address):(bool) ==> 0
+initialSupply():(uint256) ==> 0
+name():(string) ==> 0
+owner():(address) ==> 0
+symbol():(string) ==> 0
+totalSupply():(uint256) ==> 0
+
+Maximum ABI coverage with: ./w5/crashes/../queue/id:000068,src:000002,time:1207,execs:6972,EM-_____-___________AI_R______-_____-_____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 100
+Average number of TXs: 1.89
+Number of unique TX sequences: 57
+Number of unique TX sequences (consecutive deduplicated): 51

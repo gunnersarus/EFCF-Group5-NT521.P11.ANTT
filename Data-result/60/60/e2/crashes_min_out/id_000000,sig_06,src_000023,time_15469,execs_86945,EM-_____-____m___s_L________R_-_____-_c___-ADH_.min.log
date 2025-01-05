@@ -1,0 +1,89 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(0)] ❌
+[Trimmer Stage: TransactionWithValue(0)] ✔️
+[Trimmer Stage: TransactionHeader(0, CallValue(0))] ✔️
+[Trimmer Stage: Returns(0, 9)] ✔️
+[Trimmer Stage: Returns(0, 8)] ✔️
+[Trimmer Stage: Returns(0, 7)] ✔️
+[Trimmer Stage: Returns(0, 6)] ✔️
+[Trimmer Stage: Returns(0, 5)] ❌
+[Trimmer Stage: Returns(0, 4)] ❌
+[Trimmer Stage: Returns(0, 3)] ❌
+[Trimmer Stage: Returns(0, 2)] ❌
+[Trimmer Stage: Returns(0, 1)] ❌
+[Trimmer Stage: Returns(0, 0)] ❌
+[Trimmer Stage: ReturnData(0, 5, 0)] ✔️
+[Trimmer Stage: ReturnData(0, 4, 0)] ✔️
+[Trimmer Stage: ReturnData(0, 3, 0)] ❌
+[Trimmer Stage: ReturnData(0, 2, 0)] ❌
+[Trimmer Stage: ReturnData(0, 1, 0)] ❌
+[Trimmer Stage: ReturnData(0, 0, 0)] ✔️
+[Trimmer Stage: Reenter(0, 5, 0)] ✔️
+[Trimmer Stage: Reenter(0, 4, 0)] ✔️
+[Trimmer Stage: Reenter(0, 3, 0)] ✔️
+[Trimmer Stage: Reenter(0, 2, 0)] ✔️
+[Trimmer Stage: Reenter(0, 1, 0)] ✔️
+[Trimmer Stage: Reenter(0, 0, 0)] ✔️
+[Trimmer Stage: Inputs(0, 274)] ❌
+[Trimmer Stage: Inputs(0, 137)] ❌
+[Trimmer Stage: Inputs(0, 132)] ❌
+[Trimmer Stage: Inputs(0, 100)] ❌
+[Trimmer Stage: Inputs(0, 68)] ❌
+[Trimmer Stage: Inputs(0, 36)] ❌
+[Trimmer Stage: Inputs(0, 4)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(0, 1)] ✔️
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(5))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(2))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(1))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(0))] ❌
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ we try sorting the transaction list ]
+reduced testcases from 964 to 724 bytes (by 25 %) edit distance 262
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 10000
+
+TX[0] with tx_sender[1]; tx_receiver[0]; call_value: 0x1; length: 548; block+=0; #returns=10
+  func: buy(address,uint256,address,address[],bytes,uint256[],uint256[]) (0xb13bb160)
+  input: { address(0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2), uint(4294967295), address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d), array[1](address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d), ), bytes[52](0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c), array[2](uint(0), uint(7), ), array[1](uint(254), ),  }
+  returns:
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 10000
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 548; block+=0; #returns=6
+  func: buy(address,uint256,address,address[],bytes,uint256[],uint256[]) (0xb13bb160)
+  input: { address(0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2), uint(4294967295), address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d), array[1](address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d), ), bytes[52](0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c), array[2](uint(0), uint(7), ), array[1](uint(254), ),  }
+  returns:
+    return val: 1; allows reenter: 0; data: 0x
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 0; data: 0x
+    return val: 1; allows reenter: 0; data: 0x

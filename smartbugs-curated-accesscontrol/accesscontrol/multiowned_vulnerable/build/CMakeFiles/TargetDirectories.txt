@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/multiowned_vulnerable/3rdparty/CMakeFiles/rebuild_cache.dir

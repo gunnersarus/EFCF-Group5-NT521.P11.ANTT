@@ -1,0 +1,204 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    withdraw()[];
+TX []
+    0xee164aba()[];
+TX []
+    Constructor()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    0xffffffff()[];
+    withdraw()[];
+    Constructor()[];
+TX []
+    Constructor()[↕️ ↩️ ];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    Constructor()[↕️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+    Constructor()[];
+TX []
+    Constructor()[];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+TX []
+    Constructor()[];
+    fallback()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    Constructor()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+    Constructor()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    fallback()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    withdraw()[];
+TX []
+    fallback()[];
+    Constructor()[↕️ ↩️ ];
+    Constructor()[];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    Constructor()[];
+    Constructor()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    Constructor()[↕️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+TX []
+    fallback()[];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+    Constructor()[];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[🪙↕️ ↩️ ↩️ ];
+    withdraw()[];
+    Constructor()[];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX [⏰]
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+    Constructor()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    withdraw()[];
+    Constructor()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    Constructor()[];
+TX []
+    withdraw()[];
+    fallback()[];
+TX []
+    withdraw()[🪙];
+    withdraw()[↕️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+ee164aba ==> 1
+ffffffff ==> 1
+withdraw() ==> 40
+Constructor() ==> 49
+0 ==> 60
+
+Maximum ABI coverage with: ./w3/crashes/../queue/id:000021,src:000002,time:28,execs:1274,EM-_____-___M_______AI_R______-_C__r-ac__E-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 45
+Average number of TXs: 3.3555555555555556
+Number of unique TX sequences: 34
+Number of unique TX sequences (consecutive deduplicated): 18

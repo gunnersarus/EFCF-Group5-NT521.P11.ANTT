@@ -1,0 +1,15 @@
+TARGET_CONTRACT=multi_gen_5
+FUZZING_TIME=172800
+SOURCE_DIR=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz
+DICT_PATH=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/dict/multi_gen_5.dict
+AFL_MAP_SIZE=262144
+CONTRACT_ABI=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/abi/multi_gen_5.abi
+IGNORE_ABI=0
+ABI_PATH=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/abi/multi_gen_5.abi
+FUZZ_CWD=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/out/multi_gen_5_launch-aflfuzz_mode-2AT.10
+BUILD_DIR=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/build/afuzz/multi_gen_5
+CMP_BUILD_DIR=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/build/afuzz_cmplog/multi_gen_5
+FUZZ_CORES=7
+FUZZ_POWER_SCHED=rare
+USE_CUSTOM_MUTATOR=1
+AFL_LLVM_BLOCKLIST=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/cov-blocklist.txt

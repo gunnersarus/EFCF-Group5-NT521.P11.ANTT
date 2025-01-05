@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/BitherumToken/3rdparty/CMakeFiles/rebuild_cache.dir

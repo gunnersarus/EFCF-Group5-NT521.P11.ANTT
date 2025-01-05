@@ -1,0 +1,18 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+buy(address,uint256,address,address[],bytes,uint256[],uint256[]) ==> 1
+owner():(address) ==> 0
+reclaimToken(address) ==> 0
+renounceOwnership() ==> 0
+transferOwnership(address) ==> 0
+
+Maximum ABI coverage with: ./crashes_min/w3_id:000000,sig:06,src:000064,time:15452,execs:89476,EM-____e-_____l__s_L________R_-____r-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 1
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

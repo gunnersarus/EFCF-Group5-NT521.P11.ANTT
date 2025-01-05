@@ -1,0 +1,24 @@
+Command terminated by signal 6
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/parity_wallet_bug_2.bin.b9b0a4f2ae90421efd0a926073ed11aa.o3jzsv7a.fuzz/fuzz/dict/parity_wallet_bug_2.dict CONTRACT_ABI=/tmp/efcf/parity_wallet_bug_2.bin.b9b0a4f2ae90421efd0a926073ed11aa.o3jzsv7a.fuzz/fuzz/abi/parity_wallet_bug_2.abi EM_ALLOW_COMPTRACE=0 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/parity_wallet_bug_2.bin.b9b0a4f2ae90421efd0a926073ed11aa.o3jzsv7a.fuzz/fuzz/dict/parity_wallet_bug_2.dict -S w6 -p fast -V 3600 -- /tmp/efcf/parity_wallet_bug_2.bin.b9b0a4f2ae90421efd0a926073ed11aa.o3jzsv7a.fuzz/fuzz/build/afuzz/parity_wallet_bug_2/fuzz_multitx"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 1%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 579
+	Voluntary context switches: 3
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 64
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

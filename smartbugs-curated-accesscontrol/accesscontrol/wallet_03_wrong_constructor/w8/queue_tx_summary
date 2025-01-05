@@ -1,0 +1,198 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[↕️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+    initWallet()[];
+TX []
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    initWallet()[];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    initWallet()[];
+TX []
+    deposit()[🪙];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    fallback()[🪙];
+TX []
+    deposit()[🪙];
+    initWallet()[];
+    fallback()[↕️ ↩️ ];
+TX []
+    deposit()[🪙];
+    initWallet()[];
+    migrateTo(address)[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    initWallet()[];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    fallback()[↕️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    initWallet()[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    initWallet()[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[];
+    initWallet()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    initWallet()[];
+TX []
+    initWallet()[];
+    deposit()[🪙↕️ ↩️ ];
+    migrateTo(address)[];
+    withdraw(uint256)[↕️ ↩️ ];
+TX []
+    initWallet()[];
+    fallback()[];
+TX []
+    initWallet()[];
+    initWallet()[];
+TX []
+    initWallet()[];
+    initWallet()[↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    initWallet()[];
+    initWallet()[];
+    deposit()[🪙];
+    migrateTo(address)[];
+TX []
+    initWallet()[↕️ ↩️ ];
+    initWallet()[↕️ ↩️ ↩️ ];
+    initWallet()[];
+    initWallet()[];
+    initWallet()[];
+    initWallet()[];
+TX []
+    initWallet()[↕️ ↩️ ];
+    initWallet()[↕️ ↩️ ↩️ ];
+    initWallet()[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    initWallet()[];
+    migrateTo(address)[];
+TX []
+    initWallet()[];
+    migrateTo(address)[];
+    migrateTo(address)[];
+    deposit()[🪙];
+TX []
+    initWallet()[];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+TX []
+    initWallet()[];
+    migrateTo(address)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+TX []
+    initWallet()[];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+    initWallet()[];
+TX []
+    initWallet()[];
+    withdraw(uint256)[];
+TX []
+    initWallet()[];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    initWallet()[];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    initWallet()[↕️ ↩️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    initWallet()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    initWallet()[];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+    migrateTo(address)[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    deposit()[🪙];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 14
+migrateTo(address) ==> 17
+deposit() ==> 33
+initWallet() ==> 40
+withdraw(uint256) ==> 44
+
+Maximum ABI coverage with: ./w8/crashes/../queue/id:000052,src:000002,time:302,execs:13068,EM-_____-D___m_____LA_LR__O___-_____-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 56
+Average number of TXs: 2.642857142857143
+Number of unique TX sequences: 40
+Number of unique TX sequences (consecutive deduplicated): 31

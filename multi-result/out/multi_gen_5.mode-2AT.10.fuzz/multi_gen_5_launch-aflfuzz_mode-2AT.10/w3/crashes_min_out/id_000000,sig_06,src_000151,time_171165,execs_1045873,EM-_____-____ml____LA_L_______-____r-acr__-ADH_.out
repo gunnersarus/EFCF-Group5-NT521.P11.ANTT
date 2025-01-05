@@ -1,0 +1,560 @@
+Reading 672 bytes from ./w3/crashes/../crashes_min/id:000000,sig:06,src:000151,time:171165,execs:1045873,EM-_____-____ml____LA_L_______-____r-acr__-ADH_
+= Constructing global state =
+target contract address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+with 6 attacker accounts with initial funds: 0x1000000000000000000000000000000000000000000000000
+Running constructor transaction with total input length 1473 (built-in constructor code is 1473 + 0)
+constructor finished
+returned code of length 1324 (compare to built-in code size 1324)
+== GLOBAL STATE Block 100000 timestamp 1420066800 ==
+  ATTACKER address: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc2018c3f08417e77b94fb541fed2bf1e09093edd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  ATTACKER address: 0xc5442b23ea5ca66c3441e62bf6456f010646ae94 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  CREATOR  address: 0xcc079239d48f83be71dbbd18487f4acc279ee929 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  FRIEND   address: 0xcf7c6611373327e75f8ef1beef8227afb89816dd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 0
+  TARGET   address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d balance: 0x0 code length: 1324 specialized: 1 is_mocked: 0
+           address: 0xe0af163ebeab9bb2968fee294a22ca4fe2fa3a06 balance: 0x0 code length: 0 specialized: 0 is_mocked: 0
+
+running fuzzcase
+Block Header
+setting initial balance from 0 to 0
+
+-- TRANSACTION 0 --
+found input with length: 36
+Running Transaction 0
+input bytes: 0x9adbf6910000000000000000000000000000000000000000000000000000000000000001
+4byte sig: 0x9adbf691
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 417
+LOGs: 0
+
+72 (1): DUP1
+stack before:
+ 0: 0x9adbf691
+
+83 (1): DUP1
+stack before:
+ 0: 0x9adbf691
+
+373 (1): JUMPDEST
+stack before:
+ 0: 0x9adbf691
+
+395 (1): JUMPDEST
+stack before:
+ 0: 0x20
+ 1: 0x4
+ 2: 0x1a1
+ 3: 0x9adbf691
+
+990 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1a1
+ 2: 0x9adbf691
+
+1003 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1a1
+ 2: 0x9adbf691
+
+417 (1): JUMPDEST
+stack before:
+ 0: 0x9adbf691
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 1 --
+found input with length: 132
+Running Transaction 1
+input bytes: 0x13f7c8930000000000000000000000000000000000000000000000000000000000000001000000000000000000000000cf7c6611373327e75f8ef1beef8227afb89816dcffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+4byte sig: 0x13f7c893
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 233
+LOGs: 0
+
+564 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+578 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+604 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+617 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+662 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+674 (1): JUMPDEST
+stack before:
+ 0: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 1: 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 2: 0xcf7c6611373327e75f8ef1beef8227afb89816dc
+ 3: 0x1
+ 4: 0xe9
+ 5: 0x13f7c893
+
+233 (1): JUMPDEST
+stack before:
+ 0: 0x13f7c893
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 2 --
+found input with length: 68
+Running Transaction 2
+input bytes: 0xf6ad660b00000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000002710
+4byte sig: 0xf6ad660b
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 539
+LOGs: 0
+
+485 (1): JUMPDEST
+stack before:
+ 0: 0xf6ad660b
+
+507 (1): JUMPDEST
+stack before:
+ 0: 0x40
+ 1: 0x4
+ 2: 0x21b
+ 3: 0xf6ad660b
+
+1187 (1): JUMPDEST
+stack before:
+ 0: 0x2710
+ 1: 0x8000000000000000
+ 2: 0x21b
+ 3: 0xf6ad660b
+
+1212 (1): JUMPDEST
+stack before:
+ 0: 0x2710
+ 1: 0x8000000000000000
+ 2: 0x21b
+ 3: 0xf6ad660b
+
+1225 (1): JUMPDEST
+stack before:
+ 0: 0x2710
+ 1: 0x8000000000000000
+ 2: 0x21b
+ 3: 0xf6ad660b
+
+1239 (1): JUMPDEST
+stack before:
+ 0: 0x2710
+ 1: 0x8000000000000000
+ 2: 0x21b
+ 3: 0xf6ad660b
+
+539 (1): JUMPDEST
+stack before:
+ 0: 0xf6ad660b
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 3 --
+found input with length: 196
+Running Transaction 3
+input bytes: 0x350cc2cc00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001
+4byte sig: 0x350cc2cc
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 329
+LOGs: 0
+
+788 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+801 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+844 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+856 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+869 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+882 (1): JUMPDEST
+stack before:
+ 0: 0x1
+ 1: 0x1
+ 2: 0x1
+ 3: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 4: 0x1
+ 5: 0x1
+ 6: 0x149
+ 7: 0x350cc2cc
+
+329 (1): JUMPDEST
+stack before:
+ 0: 0x350cc2cc
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 4 --
+found input with length: 100
+Running Transaction 4
+input bytes: 0xbd239c5c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+4byte sig: 0xbd239c5c
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 483
+LOGs: 0
+
+1032 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+1057 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+1071 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+1097 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+1110 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+1155 (1): JUMPDEST
+stack before:
+ 0: 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe
+ 1: 0x7
+ 2: 0x0
+ 3: 0x1e3
+ 4: 0xbd239c5c
+
+483 (1): JUMPDEST
+stack before:
+ 0: 0xbd239c5c
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 5 --
+found input with length: 4
+Running Transaction 5
+input bytes: 0x729ebef3
+4byte sig: 0x729ebef3
+call value: 0x0
+from: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 965
+LOGs: 0
+
+0 (1): PUSH1
+stack before:
+
+16 (1): JUMPDEST
+stack before:
+ 0: 0x0
+
+26 (1): PUSH1
+stack before:
+
+72 (1): DUP1
+stack before:
+ 0: 0x729ebef3
+
+363 (1): JUMPDEST
+stack before:
+ 0: 0x729ebef3
+
+940 (1): JUMPDEST
+stack before:
+ 0: 0x173
+ 1: 0x729ebef3
+
+965 (1): JUMPDEST
+stack before:
+ 0: 0x173
+ 1: 0x729ebef3
+
+
+no response
+
+[STATS] top-level transaction count: 5
+[STATS] all transaction count: 6
+[STATS] all mocked returns: 0
+[BUG] controlled selfdestruct | selfdestruct to attacker 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+[STATS] top-level transaction count: 6
+[STATS] all transaction count: 6
+[STATS] all mocked returns: 0
+
+[DONE] all transactions executed
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+Execution successful.

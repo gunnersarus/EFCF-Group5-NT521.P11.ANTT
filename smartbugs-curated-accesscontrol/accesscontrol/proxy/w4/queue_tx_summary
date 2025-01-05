@@ -1,0 +1,75 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙];
+TX []
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    fallback()[🪙];
+TX []
+    forward(address,bytes)[];
+    fallback()[🪙];
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX [🪙]
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX [⏰]
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 9
+forward(address,bytes) ==> 58
+
+Maximum ABI coverage with: ./w4/crashes/../queue/id:000003,src:000000,time:1,execs:46,EM-_____-_____________________-_____-_c___-AD__,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 36
+Average number of TXs: 1.8611111111111112
+Number of unique TX sequences: 11
+Number of unique TX sequences (consecutive deduplicated): 5

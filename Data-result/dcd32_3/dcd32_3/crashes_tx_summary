@@ -1,0 +1,34 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    transferOwnership(address)[];
+    finalizeIco()[↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+finalizeIco() ==> 1
+transferOwnership(address) ==> 1
+allowance(address,address):(uint256) ==> 0
+approve(address,uint256):(bool) ==> 0
+balanceOf(address):(uint256) ==> 0
+basePrice():(uint256) ==> 0
+cap():(uint256) ==> 0
+decimals():(uint32) ==> 0
+decreaseApproval(address,uint256):(bool) ==> 0
+increaseApproval(address,uint256):(bool) ==> 0
+name():(string) ==> 0
+owner():(address) ==> 0
+remainingTokens():(uint256) ==> 0
+startIco() ==> 0
+symbol():(string) ==> 0
+tokenReserve():(uint256) ==> 0
+tokensSold():(uint256) ==> 0
+totalSupply():(uint256) ==> 0
+transfer(address,uint256):(bool) ==> 0
+transferFrom(address,address,uint256):(bool) ==> 0
+
+Maximum ABI coverage with: ./crashes_min/e2_id:000000,sig:06,src:000083,time:71389,execs:269565,EM-____e-________s__A_______R_-_____-_____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 2
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

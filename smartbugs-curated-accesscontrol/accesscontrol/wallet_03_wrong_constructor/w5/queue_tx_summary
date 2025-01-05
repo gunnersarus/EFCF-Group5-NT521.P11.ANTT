@@ -1,0 +1,65 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    initWallet()[];
+TX []
+    deposit()[🪙];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    initWallet()[];
+TX []
+    initWallet()[];
+    migrateTo(address)[];
+    withdraw(uint256)[↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    initWallet()[];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    fallback()[];
+    initWallet()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    initWallet()[];
+    fallback()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+migrateTo(address) ==> 3
+initWallet() ==> 7
+deposit() ==> 10
+0 ==> 11
+withdraw(uint256) ==> 14
+
+Maximum ABI coverage with: ./w5/crashes/../queue/id:000021,src:000002,time:97,execs:1280,EM-_____-___M____s__A_L___Oo__-_____-_c___-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 27
+Average number of TXs: 1.6666666666666667
+Number of unique TX sequences: 16
+Number of unique TX sequences (consecutive deduplicated): 15

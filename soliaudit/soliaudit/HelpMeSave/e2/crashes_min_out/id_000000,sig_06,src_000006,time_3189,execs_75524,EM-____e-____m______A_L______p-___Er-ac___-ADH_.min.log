@@ -1,0 +1,86 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(3)] ✔️
+[Trimmer Stage: Transactions(2)] ❌
+[Trimmer Stage: Transactions(1)] ❌
+[Trimmer Stage: Transactions(0)] ✔️
+[Trimmer Stage: TransactionHeader(1, BlockAdvance(0))] ✔️
+[Trimmer Stage: TransactionHeader(0, BlockAdvance(0))] ✔️
+[Trimmer Stage: Returns(1, 1)] ✔️
+[Trimmer Stage: Returns(1, 0)] ✔️
+[Trimmer Stage: Returns(0, 3)] ✔️
+[Trimmer Stage: Returns(0, 2)] ✔️
+[Trimmer Stage: Returns(0, 1)] ✔️
+[Trimmer Stage: Returns(0, 0)] ✔️
+[Trimmer Stage: Inputs(1, 0)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(1, 5)] ✔️
+[Trimmer Stage: Sender(1, 4)] ❌
+[Trimmer Stage: Sender(1, 3)] ❌
+[Trimmer Stage: Sender(1, 2)] ❌
+[Trimmer Stage: Sender(1, 1)] ❌
+[Trimmer Stage: Sender(1, 0)] ❌
+[Trimmer Stage: Sender(0, 5)] ✔️
+[Trimmer Stage: Sender(0, 4)] ❌
+[Trimmer Stage: Sender(0, 3)] ❌
+[Trimmer Stage: Sender(0, 2)] ❌
+[Trimmer Stage: Sender(0, 1)] ❌
+[Trimmer Stage: Sender(0, 0)] ❌
+[Trimmer Stage: Receiver(1, 0)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(3814697265625))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(100000))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(10))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(5))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(2))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(1))] ❌
+[Trimmer Stage: BlockHeader(InitialEther(0))] ❌
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ sender/receiver selector TX[1] ]
+[ we try sorting the transaction list ]
+reduced testcases from 1328 to 80 bytes (by 94 %) edit distance 1261
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 9367487224930631680
+
+TX[0] with tx_sender[5]; tx_receiver[0]; call_value: 0x0; length: 132; block+=1; #returns=0
+  func: recovery(string,address):(uint256) (0x6b5ad18)
+  input: { string[32]("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"), address(0xc5442b23ea5ca66c3441e62bf6456f010646ae94),  }
+TX[1] with tx_sender[5]; tx_receiver[0]; call_value: 0x0; length: 4; block+=1; #returns=4
+  func: MyTestWallet7() (0x22d122a9)
+  input: {  }
+  returns:
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000001
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000003006c58423851745368667737577766774b4932686a634d7835444d4f476b6b48474e7369687178366a484e694a556467434b6d39693647626949634b4e4e67416538424564733334716453565956516376584c4f563255623479455656537a4c646c66426f4e504d716e785563373132623970595566726c73477636536b4664357252383661364a4246436b64484c695848746368633837357465364e413750674e784d4c39333266336535746d364b726e546d314251764f526a626542626e6d7a62524972364d5772576e5a426c336a366b70756d79696271496a47467054566d386d75347650724f76305979663653723168706936797771706e454a4437626b48547133567a4573376e757a75464f4c716e73346e7330644f6b6e5a45386f4338387848474e5a7a4f7942787a49483161307168626978673754496f7a6d72526655356b5a636e74474e54514466554946394d376c68476b6735786e715a714d5757753053655038754b746237464f7045414155734f584d5036553365793330457979477954535749506f3843626d475971434438596836737955783857434d5a75425830463050436e6773516452357339626242757064686157416f4648713630464673427668414757396469617958634d3836453345715770445a4975363870764378536936524c654c584a4471524852526b69325650706e5266617467706d594a444f6d47766942515057594763354630704b6f5264564b67386f4d79487575573343354d50506d584f7175414946445955705552706543753975576a774b4154496761356841374b39616c55745a5073424d74376e45497035426d503063484870594f506f5a314169655956634a4e664779434f6b327657584d455043584b6134476435484873306653306f4c48763038453953486d4a626b6937376936654d36764368386d4b434a776a354c746b324d6c74705648454f6d646e636833715338576830646f59325a42537735504b6153784d3845396b7748336174765257644b35696a684a51664f49754a65754d6437575a483967394d563759
+    return val: 1; allows reenter: 1; data: 0x
+    return val: 1; allows reenter: 0; data: 0x
+TX[2] with tx_sender[5]; tx_receiver[0]; call_value: 0x0; length: 4; block+=1; #returns=2
+  func: withdraw() (0x3ccfd60b)
+  input: {  }
+  returns:
+    return val: 1; allows reenter: 1; data: 0x
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000001
+TX[3] with tx_sender[187]; tx_receiver[134]; call_value: 0x0; length: 132; block+=1; #returns=0
+  func: recovery(string,address):(uint256) (0x6b5ad18)
+  input: { string[32]("\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{14}"), address(0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61),  }
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 9367487224930631680
+
+TX[0] with tx_sender[4]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: MyTestWallet7() (0x22d122a9)
+  input: {  }
+TX[1] with tx_sender[4]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: withdraw() (0x3ccfd60b)
+  input: {  }

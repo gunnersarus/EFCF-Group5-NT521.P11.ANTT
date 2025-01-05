@@ -1,0 +1,66 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    fallback()[];
+TX []
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    fallback()[↕️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    fallback()[];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    fallback()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 7
+disperseTokenSimple(address,address[],uint256[]) ==> 15
+disperseToken(address,address[],uint256[]) ==> 22
+disperseEther(address[],uint256[]) ==> 27
+
+Maximum ABI coverage with: ./w7/crashes/../queue/id:000049,src:000002,time:440,execs:1264,EM-_____-_____l__s__A_L___O__p-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 53
+Average number of TXs: 1.3396226415094339
+Number of unique TX sequences: 15
+Number of unique TX sequences (consecutive deduplicated): 15

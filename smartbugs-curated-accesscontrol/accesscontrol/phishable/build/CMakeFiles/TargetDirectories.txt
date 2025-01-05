@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/phishable/3rdparty/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,83 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(8)] ❌
+[Trimmer Stage: Transactions(7)] ✔️
+[Trimmer Stage: Transactions(6)] ✔️
+[Trimmer Stage: Transactions(5)] ✔️
+[Trimmer Stage: Transactions(4)] ✔️
+[Trimmer Stage: Transactions(3)] ❌
+[Trimmer Stage: Transactions(2)] ✔️
+[Trimmer Stage: Transactions(1)] ✔️
+[Trimmer Stage: Transactions(0)] ❌
+[Trimmer Stage: Inputs(2, 0)] ❌
+[Trimmer Stage: Inputs(1, 36)] ❌
+[Trimmer Stage: Inputs(1, 4)] ❌
+[Trimmer Stage: Inputs(1, 0)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(2, 0)] ✔️
+[Trimmer Stage: Sender(1, 0)] ✔️
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(2, 0)] ✔️
+[Trimmer Stage: Receiver(1, 0)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ sender/receiver selector TX[1] ]
+[ sender/receiver selector TX[2] ]
+[ we try sorting the transaction list ]
+reduced testcases from 444 to 164 bytes (by 64 %) edit distance 357
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 0
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: PopBonusCode() (0x7adde4ef)
+  input: {  }
+TX[1] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[2] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: PopBonusCode() (0x7adde4ef)
+  input: {  }
+TX[3] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 68; block+=0; #returns=0
+  func: UpdateBonusCodeAt(uint256,uint256) (0x4f798da7)
+  input: { uint(97222658762210312835982718871080339316596872691747246639997364149093866936990), uint(1097699280142422972620898207684899649437270855741),  }
+TX[4] with tx_sender[1]; tx_receiver[0]; call_value: 0x1; length: 0; block+=0; #returns=0
+  input: 
+TX[5] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: PushBonusCode(uint256) (0xfd10d655)
+  input: { uint(38685626227668133590597647),  }
+TX[6] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=1
+  func: PopBonusCode() (0x7adde4ef)
+  input: {  }
+  returns:
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c4b803ea8bc30894cc4672a9159ca000d377d9a3
+TX[7] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=1
+  func: PushBonusCode(uint256) (0xfd10d655)
+  input: { uint(4611686018427387904),  }
+  returns:
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+TX[8] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: Destroy() (0xf58fef8e)
+  input: {  }
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 0
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: PopBonusCode() (0x7adde4ef)
+  input: {  }
+TX[1] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 68; block+=0; #returns=0
+  func: UpdateBonusCodeAt(uint256,uint256) (0x4f798da7)
+  input: { uint(97222658762210312835982718871080339316596872691747246639997364149093866936990), uint(1097699280142422972620898207684899649437270855741),  }
+TX[2] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: Destroy() (0xf58fef8e)
+  input: {  }

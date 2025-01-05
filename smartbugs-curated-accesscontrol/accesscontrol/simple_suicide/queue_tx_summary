@@ -1,0 +1,20 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [🪙]
+    0x0()[🪙];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX [#⏰🪙]
+    fallback()[🪙];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 37
+sudicideAnyone() ==> 0
+--------------------------------------------------------------
+Number of fuzzcases: 48
+Average number of TXs: 0.7708333333333334
+Number of unique TX sequences: 2
+Number of unique TX sequences (consecutive deduplicated): 2

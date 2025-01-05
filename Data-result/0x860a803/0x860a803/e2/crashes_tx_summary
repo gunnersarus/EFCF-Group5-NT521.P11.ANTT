@@ -1,0 +1,41 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+    transferOwner(address)[];
+    destoryContract(address)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+transferOwner(address) ==> 1
+destoryContract(address) ==> 1
+allowance(address,address):(uint256) ==> 0
+approve(address,uint256):(bool) ==> 0
+balanceOf(address):(uint256) ==> 0
+balanceOfAvailable(address):(uint256) ==> 0
+balanceOfFrozen(address):(uint256) ==> 0
+burn(uint256):(bool) ==> 0
+burnFrom(address,uint256):(bool) ==> 0
+decimals():(uint8) ==> 0
+decreaseApproval(address,uint256):(bool) ==> 0
+depositEtherToContract() ==> 0
+freezeAccount(address,bool) ==> 0
+freezeFunds(uint256):(bool) ==> 0
+freezeFundsFrom(address,bool,uint256) ==> 0
+frozenAccount(address):(bool) ==> 0
+increaseApproval(address,uint256):(bool) ==> 0
+increaseSupply(address,uint256,bool):(bool) ==> 0
+initialSupply():(uint256) ==> 0
+name():(string) ==> 0
+owner():(address) ==> 0
+symbol():(string) ==> 0
+totalSupply():(uint256) ==> 0
+transfer(address,uint256):(bool) ==> 0
+transferEtherToOwner(uint256) ==> 0
+transferFrom(address,address,uint256):(bool) ==> 0
+transferTokenToOwner(uint256):(uint256) ==> 0
+
+Maximum ABI coverage with: ./e2/crashes/../crashes_min/id:000000,sig:06,src:000002,time:3542,execs:21759,EM-_____-____m___s___I__d_____-___E_-_c___-A_H_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 2
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

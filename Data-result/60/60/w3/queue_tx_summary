@@ -1,0 +1,364 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [⏰🪙]
+    0x0()[🪙];
+TX [#🪙]
+    0x0()[];
+TX []
+    0x0()[🪙];
+TX [#⏰]
+    0x0()[🪙];
+TX [⏰]
+    0x1()[🪙];
+TX []
+    0x18160ddd()[];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+TX [⏰🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+    fallback()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+    reclaimToken(address)[↕️ ↩️ ];
+    renounceOwnership()[];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    renounceOwnership()[];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    reclaimToken(address)[];
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+    renounceOwnership()[↕️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    transferOwnership(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+    renounceOwnership()[];
+    fallback()[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    transferOwnership(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    reclaimToken(address)[];
+TX []
+    renounceOwnership()[];
+TX [⏰🪙]
+    transferOwnership(address)[];
+TX []
+    transferOwnership(address)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+1 ==> 1
+18160ddd ==> 1
+transferOwnership(address) ==> 12
+0 ==> 20
+renounceOwnership() ==> 32
+reclaimToken(address) ==> 52
+buy(address,uint256,address,address[],bytes,uint256[],uint256[]) ==> 198
+owner():(address) ==> 0
+
+Maximum ABI coverage with: ./w3/crashes/../queue/id:000081,src:000028,time:14420,execs:86510,EM-_____-D__________AI_Rd_O___-___E_-_____-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 141
+Average number of TXs: 2.2411347517730498
+Number of unique TX sequences: 43
+Number of unique TX sequences (consecutive deduplicated): 30

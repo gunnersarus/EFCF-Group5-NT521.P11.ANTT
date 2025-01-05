@@ -1,0 +1,12 @@
+# environment variables:
+AFL_BENCH_UNTIL_CRASH=True
+AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_NO_AFFINITY=1
+AFL_NO_AUTODICT=1
+AFL_NO_UI=1
+AFL_MAP_SIZE=262144
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-m' '2000' '-i' 'seeds' '-o' '.' '-x' '/tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/dict/incorrect_constructor_name1.dict' '-S' 'w8' '-p' 'rare' '-V' '86400' '--' '/tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/build/afuzz/incorrect_constructor_name1/fuzz_multitx'

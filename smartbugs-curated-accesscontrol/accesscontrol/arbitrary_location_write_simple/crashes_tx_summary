@@ -1,0 +1,31 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+    PopBonusCode()[];
+    UpdateBonusCodeAt(uint256,uint256)[];
+    Destroy()[];
+TX []
+    PopBonusCode()[];
+    UpdateBonusCodeAt(uint256,uint256)[];
+    PushBonusCode(uint256)[];
+    Destroy()[];
+TX []
+    PopBonusCode()[];
+    UpdateBonusCodeAt(uint256,uint256)[];
+    PushBonusCode(uint256)[];
+    PopBonusCode()[];
+    PushBonusCode(uint256)[];
+    Destroy()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+UpdateBonusCodeAt(uint256,uint256) ==> 3
+Destroy() ==> 3
+PushBonusCode(uint256) ==> 3
+PopBonusCode() ==> 4
+
+Maximum ABI coverage with: ./crashes_min/w5_id:000000,sig:06,src:000402,time:737659,execs:13655932,EM-___t_-____m_Z___LA__R___o__-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 3
+Average number of TXs: 4.333333333333333
+Number of unique TX sequences: 3
+Number of unique TX sequences (consecutive deduplicated): 3

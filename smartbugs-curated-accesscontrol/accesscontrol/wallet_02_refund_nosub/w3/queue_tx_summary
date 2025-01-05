@@ -1,0 +1,380 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [#⏰🪙]
+    0x0()[🪙];
+TX []
+    0x0()[];
+TX []
+    0x0()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    0xb6d70000()[🪙];
+TX [#⏰🪙]
+    0xe4e4e4e4()[🪙];
+TX []
+    deposit()[🪙];
+TX []
+    deposit()[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    refund()[];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    refund()[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX [⏰]
+    deposit()[🪙↕️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+    refund()[];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    withdraw(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    refund()[];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+    refund()[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[];
+    fallback()[↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX [#⏰🪙]
+    migrateTo(address)[🪙];
+TX []
+    migrateTo(address)[];
+TX [⏰]
+    migrateTo(address)[];
+TX [🪙]
+    migrateTo(address)[];
+TX [#🪙]
+    migrateTo(address)[];
+TX [#]
+    migrateTo(address)[];
+TX [🪙]
+    migrateTo(address)[];
+    fallback()[🪙];
+TX [⏰]
+    migrateTo(address)[];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    refund()[];
+TX []
+    refund()[↕️ ];
+TX [🪙]
+    refund()[🪙];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ];
+TX []
+    refund()[];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+    refund()[];
+    refund()[];
+    refund()[];
+    fallback()[🪙↕️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[];
+    refund()[↕️ ↩️ ];
+    refund()[];
+    refund()[];
+    refund()[];
+    refund()[];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    refund()[];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ];
+TX []
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX [⏰🪙]
+    withdraw(uint256)[🪙];
+TX [⏰🪙]
+    withdraw(uint256)[];
+TX [🪙]
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[];
+    fallback()[];
+TX [#⏰🪙]
+    withdraw(uint256)[];
+    fallback()[🪙↕️ ];
+TX [⏰🪙]
+    withdraw(uint256)[];
+    fallback()[🪙];
+TX []
+    withdraw(uint256)[];
+    fallback()[↕️ ↩️ ];
+TX []
+    withdraw(uint256)[];
+    refund()[];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+    deposit()[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+    refund()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    fallback()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+b6d70000 ==> 1
+e4e4e4e4 ==> 1
+0 ==> 24
+migrateTo(address) ==> 30
+refund() ==> 66
+deposit() ==> 86
+withdraw(uint256) ==> 88
+
+Maximum ABI coverage with: ./w3/crashes/../queue/id:000051,src:000002,time:474,execs:11434,EM-_____-_____l__s__AI__d____p-___E_-_c___-A_H_
+--------------------------------------------------------------
+Number of fuzzcases: 104
+Average number of TXs: 2.8461538461538463
+Number of unique TX sequences: 57
+Number of unique TX sequences (consecutive deduplicated): 36

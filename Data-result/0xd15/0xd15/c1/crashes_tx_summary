@@ -1,0 +1,16 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    disperseEther(address[],uint256[])[];
+--------------------------------------------------------------
+== ABI coverage: ==
+disperseEther(address[],uint256[]) ==> 1
+disperseToken(address,address[],uint256[]) ==> 0
+disperseTokenSimple(address,address[],uint256[]) ==> 0
+
+Maximum ABI coverage with: ./c1/crashes/../crashes_min/id:000000,sig:06,src:000001,time:2485,execs:6050,EM-____e-___________AIL_______-_____-_____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 1
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

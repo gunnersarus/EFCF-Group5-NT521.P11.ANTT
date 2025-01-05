@@ -1,0 +1,23 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/dict/incorrect_constructor_name1.dict CONTRACT_ABI=/tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/abi/incorrect_constructor_name1.abi EM_ALLOW_COMPTRACE=0 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/dict/incorrect_constructor_name1.dict -S w10 -p explore -V 86400 -- /tmp/efcf/incorrect_constructor_name1.bin.4b5e16535beadb38cc7b32c76450ae15.u4oqcva7.fuzz/fuzz/build/afuzz/incorrect_constructor_name1/fuzz_multitx"
+	User time (seconds): 0.06
+	System time (seconds): 0.15
+	Percent of CPU this job got: 18%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1421
+	Voluntary context switches: 48093
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

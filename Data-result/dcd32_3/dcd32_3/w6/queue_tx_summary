@@ -1,0 +1,802 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [#⏰🪙]
+    fallback()[];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    0x3c3c3c3c()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX [#⏰🪙]
+    0x652abea4()[🪙];
+TX []
+    0x7fffffff()[];
+TX []
+    allowance(address,address):(uint256)[🪙];
+TX []
+    allowance(address,address):(uint256)[↕️ ↩️ ];
+    allowance(address,address):(uint256)[↕️ ↩️ ];
+    finalizeIco()[];
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[🪙];
+TX []
+    approve(address,uint256):(bool)[];
+    allowance(address,address):(uint256)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ];
+    approve(address,uint256):(bool)[↕️ ];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    owner():(address)[🪙];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    owner():(address)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[🪙];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    finalizeIco()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+    startIco()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    owner():(address)[🪙↕️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    owner():(address)[🪙];
+TX [⏰]
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    finalizeIco()[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+    fallback()[🪙];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    transferOwnership(address)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    owner():(address)[↕️ ↩️ ];
+    transferOwnership(address)[];
+    finalizeIco()[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    totalSupply():(uint256)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferOwnership(address)[];
+    finalizeIco()[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferOwnership(address)[↕️ ↩️ ];
+    startIco()[↕️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    transferOwnership(address)[↕️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ];
+    transferOwnership(address)[↕️ ↩️ ];
+    transferOwnership(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+    transferOwnership(address)[];
+TX []
+    balanceOf(address):(uint256)[];
+TX []
+    balanceOf(address):(uint256)[🪙];
+TX []
+    basePrice():(uint256)[];
+TX []
+    basePrice():(uint256)[🪙];
+    startIco()[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    cap():(uint256)[];
+TX []
+    cap():(uint256)[🪙];
+TX []
+    cap():(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    cap():(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    decimals():(uint32)[];
+TX []
+    decimals():(uint32)[🪙];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    startIco()[];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX [🪙]
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    finalizeIco()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ];
+TX [⏰]
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[🪙];
+TX []
+    finalizeIco()[🪙];
+TX [#⏰🪙]
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    fallback()[🪙];
+TX []
+    increaseApproval(address,uint256):(bool)[🪙];
+    approve(address,uint256):(bool)[];
+    transferOwnership(address)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    name():(string)[];
+TX []
+    name():(string)[🪙];
+TX []
+    name():(string)[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    owner():(address)[🪙];
+TX []
+    owner():(address)[];
+    approve(address,uint256):(bool)[];
+    startIco()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    finalizeIco()[↕️ ↩️ ];
+TX []
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+    approve(address,uint256):(bool)[];
+TX []
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    remainingTokens():(uint256)[🪙↕️ ↩️ ];
+TX []
+    remainingTokens():(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    startIco()[🪙];
+TX []
+    startIco()[];
+    fallback()[];
+TX []
+    symbol():(string)[🪙];
+TX []
+    symbol():(string)[];
+TX []
+    symbol():(string)[↕️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    finalizeIco()[];
+TX []
+    tokenReserve():(uint256)[↕️ ];
+TX []
+    tokenReserve():(uint256)[🪙↕️ ↩️ ];
+    transferOwnership(address)[];
+TX [⏰]
+    tokensSold():(uint256)[🪙];
+TX []
+    tokensSold():(uint256)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ];
+TX []
+    totalSupply():(uint256)[↕️ ];
+TX []
+    transfer(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[🪙↕️ ↩️ ];
+TX []
+    transfer(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transfer(address,uint256):(bool)[↕️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[🪙];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    allowance(address,address):(uint256)[↕️ ↩️ ];
+    startIco()[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[↕️ ↩️ ];
+    finalizeIco()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    fallback()[];
+    startIco()[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    increaseApproval(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    startIco()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    startIco()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+    finalizeIco()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+    startIco()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX [🪙]
+    transferFrom(address,address,uint256):(bool)[];
+    transferOwnership(address)[↕️ ↩️ ];
+    finalizeIco()[];
+TX []
+    transferOwnership(address)[🪙];
+TX []
+    transferOwnership(address)[];
+TX [⏰🪙]
+    transferOwnership(address)[];
+TX []
+    transferOwnership(address)[];
+    approve(address,uint256):(bool)[];
+    finalizeIco()[];
+TX []
+    transferOwnership(address)[];
+    approve(address,uint256):(bool)[];
+    finalizeIco()[];
+    owner():(address)[🪙↕️ ↩️ ↩️ ];
+TX []
+    transferOwnership(address)[];
+    approve(address,uint256):(bool)[];
+    startIco()[];
+    transferFrom(address,address,uint256):(bool)[];
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    transferOwnership(address)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    transferOwnership(address)[];
+    fallback()[];
+TX []
+    transferOwnership(address)[];
+    finalizeIco()[↕️ ↩️ ];
+    fallback()[];
+    approve(address,uint256):(bool)[];
+TX []
+    transferOwnership(address)[↕️ ↩️ ];
+    transferOwnership(address)[↕️ ↩️ ];
+TX [🪙]
+    transferOwnership(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferOwnership(address)[↕️ ↩️ ];
+    transferOwnership(address)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+3c3c3c3c ==> 1
+652abea4 ==> 1
+7fffffff ==> 1
+totalSupply():(uint256) ==> 2
+decimals():(uint32) ==> 2
+tokensSold():(uint256) ==> 2
+balanceOf(address):(uint256) ==> 2
+remainingTokens():(uint256) ==> 2
+basePrice():(uint256) ==> 2
+tokenReserve():(uint256) ==> 2
+name():(string) ==> 3
+symbol():(string) ==> 3
+cap():(uint256) ==> 4
+allowance(address,address):(uint256) ==> 5
+finalizeIco() ==> 15
+startIco() ==> 19
+transfer(address,uint256):(bool) ==> 23
+owner():(address) ==> 24
+transferOwnership(address) ==> 27
+0 ==> 42
+increaseApproval(address,uint256):(bool) ==> 49
+decreaseApproval(address,uint256):(bool) ==> 90
+transferFrom(address,address,uint256):(bool) ==> 137
+approve(address,uint256):(bool) ==> 165
+
+Maximum ABI coverage with: ./w6/crashes/../queue/id:000160,src:000072,time:17247,execs:73642,EM-_____-____ml_____AI____O__p-__F_r-_cr__-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 200
+Average number of TXs: 3.115
+Number of unique TX sequences: 152
+Number of unique TX sequences (consecutive deduplicated): 117

@@ -1,0 +1,40 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+createChannel(bytes32,address,uint256,address,uint256[2]) ==> 1
+LCOpenTimeout(bytes32) ==> 2
+Channels(bytes32):(uint256,uint256,bytes32,uint256,uint256,bool,bool,uint256,address) ==> 0
+NAME():(string) ==> 0
+VERSION():(string) ==> 0
+byzantineCloseChannel(bytes32) ==> 0
+closeVirtualChannel(bytes32,bytes32) ==> 0
+consensusCloseChannel(bytes32,uint256,uint256[4],string,string) ==> 0
+deposit(bytes32,address,uint256,bool) ==> 0
+getChannel(bytes32):(address[2],uint256[4],uint256[4],uint256[2],uint256,uint256,bytes32,uint256,uint256,bool,bool,uint256) ==> 0
+getVirtualChannel(bytes32):(bool,bool,uint256,address,uint256,address,address,address,uint256[2],uint256[2],uint256[2]) ==> 0
+hexstrToBytes(string):(bytes) ==> 0
+initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string) ==> 0
+isSignedBy(bytes32,string,address):(bool) ==> 0
+joinChannel(bytes32,uint256[2]) ==> 0
+numChannels():(uint256) ==> 0
+parseInt16Char(string):(uint256) ==> 0
+recoverSigner(bytes32,string):(address) ==> 0
+settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string) ==> 0
+substring(string,uint256,uint256):(string) ==> 0
+toEthereumSignedMessage(string):(bytes32) ==> 0
+uintToBytes32(uint256):(bytes) ==> 0
+uintToString(uint256):(string) ==> 0
+updateLCstate(bytes32,uint256[6],bytes32,string,string) ==> 0
+virtualChannels(bytes32):(bool,bool,uint256,address,uint256,address,address,address,address) ==> 0
+
+Maximum ABI coverage with: ./e2/crashes/../crashes_min/id:000000,sig:06,src:000534,time:272027,execs:3065788,EM-____e-_______________d_____-___E_-_____-_DH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 3
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

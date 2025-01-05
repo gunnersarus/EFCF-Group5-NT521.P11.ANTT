@@ -1,0 +1,188 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ];
+    Set(address,uint256)[];
+TX []
+    Limit():(uint256)[🪙↕️ ↩️ ];
+TX []
+    Limit():(uint256)[];
+    kill()[];
+TX []
+    Set(address,uint256)[];
+    fallback()[🪙];
+TX []
+    Set(address,uint256)[🪙];
+    kill()[];
+    changeOwner(address)[];
+TX []
+    changeOwner(address)[];
+    changeOwner(address)[↕️ ↩️ ];
+    changeOwner(address)[];
+    kill()[];
+TX []
+    changeOwner(address)[];
+    changeOwner(address)[];
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ];
+    Set(address,uint256)[];
+TX []
+    changeOwner(address)[];
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    kill()[];
+    Set(address,uint256)[];
+TX []
+    changeOwner(address)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[];
+TX [🪙]
+    changeOwner(address)[];
+    kill()[↕️ ];
+    Set(address,uint256)[];
+    withdrawal()[🪙];
+TX []
+    fallback()[];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    fallback()[🪙];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    changeOwner(address)[];
+    changeOwner(address)[];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙];
+    changeOwner(address)[];
+    kill()[↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[↕️ ↩️ ↩️ ↩️ ];
+    changeOwner(address)[↕️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙↕️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    kill()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    kill()[↕️ ↩️ ↩️ ];
+    changeOwner(address)[];
+    withdrawal()[🪙];
+TX []
+    kill()[🪙];
+TX []
+    kill()[];
+    fallback()[🪙];
+TX []
+    withdrawal()[🪙↕️ ↩️ ↩️ ];
+TX []
+    withdrawal()[🪙↕️ ↩️ ];
+    Set(address,uint256)[];
+    changeOwner(address)[];
+    kill()[];
+    fallback()[🪙];
+TX []
+    withdrawal()[🪙];
+    changeOwner(address)[];
+    Set(address,uint256)[];
+    kill()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[];
+TX []
+    withdrawal()[🪙];
+    fallback()[🪙];
+TX [⏰]
+    withdrawal()[🪙];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX []
+    withdrawal()[🪙];
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ];
+    changeOwner(address)[];
+    withdrawal()[🪙];
+    fallback()[🪙↕️ ];
+TX []
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    changeOwner(address)[];
+    Set(address,uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+Limit():(uint256) ==> 2
+Set(address,uint256) ==> 9
+kill() ==> 22
+changeOwner(address) ==> 22
+withdrawal() ==> 34
+0 ==> 47
+
+Maximum ABI coverage with: ./c1/crashes/../queue/id:000020,src:000000,time:2324,execs:92459,EM-_____-___________AI_R__O__p-_____-a____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 51
+Average number of TXs: 2.6666666666666665
+Number of unique TX sequences: 37
+Number of unique TX sequences (consecutive deduplicated): 28

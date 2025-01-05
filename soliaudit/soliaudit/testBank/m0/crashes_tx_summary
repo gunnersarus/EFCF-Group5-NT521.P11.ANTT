@@ -1,0 +1,18 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    withdrawal()[🪙↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+withdrawal() ==> 1
+Limit():(uint256) ==> 0
+Update(address,uint256) ==> 0
+changeOwner(address) ==> 0
+kill() ==> 0
+
+Maximum ABI coverage with: ./m0/crashes/../crashes_min/id:000000,sig:06,src:000000,time:570,execs:22691,EM-____e-D_d_m___s__A_________-_____-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 1
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

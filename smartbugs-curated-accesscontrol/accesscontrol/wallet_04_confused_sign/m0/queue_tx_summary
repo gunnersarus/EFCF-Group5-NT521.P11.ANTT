@@ -1,0 +1,73 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [🪙]
+    0x0()[🪙];
+TX []
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    fallback()[🪙];
+TX []
+    deposit()[🪙];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[🪙];
+TX [#]
+    deposit()[🪙↕️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    migrateTo(address)[↕️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙];
+TX []
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[];
+    fallback()[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    fallback()[🪙];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    fallback()[🪙];
+TX []
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    fallback()[🪙];
+    migrateTo(address)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+migrateTo(address) ==> 9
+deposit() ==> 13
+0 ==> 33
+withdraw(uint256) ==> 41
+
+Maximum ABI coverage with: ./m0/crashes/../queue/id:000041,src:000000,time:453,execs:15871,EM-_____-____m______A_____O___-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 55
+Average number of TXs: 1.7454545454545454
+Number of unique TX sequences: 15
+Number of unique TX sequences (consecutive deduplicated): 14

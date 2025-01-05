@@ -1,0 +1,4 @@
+Reading 444 bytes from ./crashes/id:000000,sig:06,src:000395,time:735039,execs:15057208,EM-_____-D_____Z______________-____r-ac___-ADH_
+[BUG] controlled selfdestruct | selfdestruct to attacker 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+account 0xc04689c0c5d48cec7275152b3026b53f6f78d03d has balance 0x1000000000000000000000000000000000000000000000001( > 0x1000000000000000000000000000000000000000000000000)
+Execution successful.

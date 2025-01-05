@@ -1,0 +1,148 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [⏰🪙]
+    0x0()[];
+TX [⏰🪙]
+    0x0()[🪙];
+TX []
+    0x0()[];
+TX [🪙]
+    0x0()[🪙];
+TX []
+    0x1()[🪙];
+TX [⏰🪙]
+    0x20000000()[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+TX [#]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+    renounceOwnership()[↕️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+    transferOwnership(address)[];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    fallback()[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ];
+    renounceOwnership()[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[↕️ ↩️ ↩️ ];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[↕️ ↩️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX [#⏰🪙]
+    owner():(address)[];
+TX []
+    owner():(address)[🪙];
+TX []
+    reclaimToken(address)[];
+TX [#⏰🪙]
+    renounceOwnership()[🪙];
+TX []
+    renounceOwnership()[];
+TX [#⏰🪙]
+    transferOwnership(address)[🪙];
+TX []
+    transferOwnership(address)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+1 ==> 1
+20000000 ==> 1
+owner():(address) ==> 2
+transferOwnership(address) ==> 9
+renounceOwnership() ==> 17
+0 ==> 18
+reclaimToken(address) ==> 23
+buy(address,uint256,address,address[],bytes,uint256[],uint256[]) ==> 43
+
+Maximum ABI coverage with: ./m0/crashes/../queue/id:000029,src:000000,time:4019,execs:29009,EM-_____-____ml__s__AI__d____p-___E_-_c___-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 59
+Average number of TXs: 1.9322033898305084
+Number of unique TX sequences: 29
+Number of unique TX sequences (consecutive deduplicated): 24

@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/MyNewBank/3rdparty/CMakeFiles/rebuild_cache.dir

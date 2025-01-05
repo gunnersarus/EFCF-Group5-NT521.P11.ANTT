@@ -1,0 +1,19 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    IamMissing()[];
+    withdraw()[];
+TX [🪙]
+    IamMissing()[];
+    withdraw()[↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+IamMissing() ==> 3
+withdraw() ==> 3
+
+Maximum ABI coverage with: ./c1/crashes/../crashes_min/id:000000,sig:06,src:000002,time:2463,execs:78994,EM-____e-___________A_________-_____-_____-A_H_
+--------------------------------------------------------------
+Number of fuzzcases: 3
+Average number of TXs: 2
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

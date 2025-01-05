@@ -1,0 +1,92 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[];
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    increaseSupply(address,uint256,bool):(bool)[];
+    fallback()[];
+TX []
+    burn(uint256):(bool)[];
+TX []
+    burnFrom(address,uint256):(bool)[];
+TX []
+    burnFrom(address,uint256):(bool)[];
+    fallback()[];
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    depositEtherToContract()[🪙];
+TX []
+    destoryContract(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    freezeAccount(address,bool)[];
+TX []
+    freezeFunds(uint256):(bool)[];
+TX []
+    freezeFundsFrom(address,bool,uint256)[];
+TX []
+    increaseApproval(address,uint256):(bool)[];
+TX []
+    increaseApproval(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+TX []
+    transferEtherToOwner(uint256)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferOwner(address)[];
+TX []
+    transferTokenToOwner(uint256):(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+transferOwner(address) ==> 1
+transferEtherToOwner(uint256) ==> 1
+destoryContract(address) ==> 1
+freezeFundsFrom(address,bool,uint256) ==> 1
+freezeAccount(address,bool) ==> 1
+burn(uint256):(bool) ==> 2
+decreaseApproval(address,uint256):(bool) ==> 2
+burnFrom(address,uint256):(bool) ==> 2
+transferTokenToOwner(uint256):(uint256) ==> 2
+depositEtherToContract() ==> 2
+increaseSupply(address,uint256,bool):(bool) ==> 3
+transfer(address,uint256):(bool) ==> 3
+increaseApproval(address,uint256):(bool) ==> 3
+approve(address,uint256):(bool) ==> 4
+transferFrom(address,address,uint256):(bool) ==> 4
+freezeFunds(uint256):(bool) ==> 5
+0 ==> 7
+allowance(address,address):(uint256) ==> 0
+balanceOf(address):(uint256) ==> 0
+balanceOfAvailable(address):(uint256) ==> 0
+balanceOfFrozen(address):(uint256) ==> 0
+decimals():(uint8) ==> 0
+frozenAccount(address):(bool) ==> 0
+initialSupply():(uint256) ==> 0
+name():(string) ==> 0
+owner():(address) ==> 0
+symbol():(string) ==> 0
+totalSupply():(uint256) ==> 0
+
+Maximum ABI coverage with: ./e2/crashes/../queue/id:000033,src:000002,time:81,execs:537,EM-_____-___________A_____O__p-_____-_____-AD__
+--------------------------------------------------------------
+Number of fuzzcases: 39
+Average number of TXs: 1.1282051282051282
+Number of unique TX sequences: 22
+Number of unique TX sequences (consecutive deduplicated): 22

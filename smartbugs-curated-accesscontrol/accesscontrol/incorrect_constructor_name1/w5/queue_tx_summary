@@ -1,0 +1,28 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    0x54a47ff0()[];
+TX []
+    IamMissing()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+    IamMissing()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+withdraw() ==> 1
+54a47ff0 ==> 1
+IamMissing() ==> 3
+0 ==> 7
+
+Maximum ABI coverage with: ./w5/crashes/../queue/id:000005,src:000002,time:7,execs:108,EM-_____-D___ml_____A_L_______-____r-ac___-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 10
+Average number of TXs: 1.2
+Number of unique TX sequences: 5
+Number of unique TX sequences (consecutive deduplicated): 5

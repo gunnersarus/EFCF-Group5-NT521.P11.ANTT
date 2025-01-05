@@ -1,0 +1,27 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    newOwner(address):(bool)[];
+    withdrawAll()[↕️ ];
+TX [🪙]
+    newOwner(address):(bool)[];
+    withdrawAll()[];
+TX [🪙]
+    newOwner(address):(bool)[];
+    withdrawAll()[↕️ ];
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 2
+withdrawAll() ==> 50
+newOwner(address):(bool) ==> 50
+deleteOwner(address):(bool) ==> 0
+owners(address):(address) ==> 0
+root():(address) ==> 0
+
+Maximum ABI coverage with: ./e2/crashes/../crashes_min/id:000000,sig:06,src:000000,time:114,execs:3495,EM-____e-____m___s__A_____O___-____r-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 50
+Average number of TXs: 2.04
+Number of unique TX sequences: 2
+Number of unique TX sequences (consecutive deduplicated): 2

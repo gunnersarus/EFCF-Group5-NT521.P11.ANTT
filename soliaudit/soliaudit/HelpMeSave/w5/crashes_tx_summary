@@ -1,0 +1,19 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    MyTestWallet7()[];
+    withdraw()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+MyTestWallet7() ==> 2
+withdraw() ==> 2
+deposit() ==> 0
+owner():(address) ==> 0
+recovery(string,address):(uint256) ==> 0
+
+Maximum ABI coverage with: ./w5/crashes/../crashes_min/id:000000,sig:06,src:000002,time:1237,execs:26555,EM-____e-___M____s__A________p-_CF_r-_c__E-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 2
+Average number of TXs: 2
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

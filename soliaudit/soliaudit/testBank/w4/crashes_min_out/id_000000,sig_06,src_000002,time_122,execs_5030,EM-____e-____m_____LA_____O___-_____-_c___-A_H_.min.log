@@ -1,0 +1,82 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(2)] ✔️
+[Trimmer Stage: Transactions(1)] ❌
+[Trimmer Stage: Transactions(0)] ✔️
+[Trimmer Stage: TransactionWithValue(0)] ✔️
+[Trimmer Stage: TransactionHeader(0, CallValue(1000000000000000000))] ❌
+[Trimmer Stage: TransactionHeader(0, CallValue(100000))] ❌
+[Trimmer Stage: TransactionHeader(0, CallValue(100))] ❌
+[Trimmer Stage: TransactionHeader(0, CallValue(1))] ❌
+[Trimmer Stage: TransactionHeader(0, CallValue(0))] ❌
+[Trimmer Stage: TransactionHeader(0, BlockAdvance(0))] ✔️
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(0, 7)] ❌
+[Trimmer Stage: Sender(0, 6)] ❌
+[Trimmer Stage: Sender(0, 5)] ✔️
+[Trimmer Stage: Sender(0, 4)] ✔️
+[Trimmer Stage: Sender(0, 3)] ❌
+[Trimmer Stage: Sender(0, 2)] ❌
+[Trimmer Stage: Sender(0, 1)] ❌
+[Trimmer Stage: Sender(0, 0)] ❌
+[Trimmer Stage: Receiver(0, 20)] ✔️
+[Trimmer Stage: Receiver(0, 19)] ✔️
+[Trimmer Stage: Receiver(0, 18)] ✔️
+[Trimmer Stage: Receiver(0, 17)] ✔️
+[Trimmer Stage: Receiver(0, 16)] ✔️
+[Trimmer Stage: Receiver(0, 15)] ✔️
+[Trimmer Stage: Receiver(0, 14)] ✔️
+[Trimmer Stage: Receiver(0, 13)] ✔️
+[Trimmer Stage: Receiver(0, 12)] ✔️
+[Trimmer Stage: Receiver(0, 11)] ✔️
+[Trimmer Stage: Receiver(0, 10)] ✔️
+[Trimmer Stage: Receiver(0, 9)] ✔️
+[Trimmer Stage: Receiver(0, 8)] ✔️
+[Trimmer Stage: Receiver(0, 7)] ✔️
+[Trimmer Stage: Receiver(0, 6)] ✔️
+[Trimmer Stage: Receiver(0, 5)] ✔️
+[Trimmer Stage: Receiver(0, 4)] ✔️
+[Trimmer Stage: Receiver(0, 3)] ✔️
+[Trimmer Stage: Receiver(0, 2)] ✔️
+[Trimmer Stage: Receiver(0, 1)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(3814697265625))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(100000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(5))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(2))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(1))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(0))] ❌
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ we try sorting the transaction list ]
+reduced testcases from 96 to 60 bytes (by 38 %) edit distance 51
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 549755813888
+
+TX[0] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[1] with tx_sender[160]; tx_receiver[130]; call_value: 0x649d2c967d95000000000000000000; length: 4; block+=1; #returns=0
+  func: withdrawal() (0xd4e93292)
+  input: {  }
+TX[2] with tx_sender[238]; tx_receiver[0]; call_value: 0x0; length: 4; block+=1; #returns=0
+  func: kill() (0x41c0e1b5)
+  input: {  }
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 1
+
+TX[0] with tx_sender[4]; tx_receiver[0]; call_value: 0x649d2c967d95000000000000000000; length: 4; block+=0; #returns=0
+  func: withdrawal() (0xd4e93292)
+  input: {  }

@@ -1,0 +1,3 @@
+Reading 60 bytes from ./crashes/id:000000,sig:06,src:000002,time:0,execs:37,EM-_____-_____________________-_____-_c___-A___
+[BUG] controlled selfdestruct | selfdestruct to attacker 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+Execution successful.

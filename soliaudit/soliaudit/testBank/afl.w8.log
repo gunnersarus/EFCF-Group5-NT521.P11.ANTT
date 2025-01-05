@@ -1,0 +1,67 @@
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] loaded contract ABI with 5 functions
+[EthMutator] Dictionary Update => Dict(#values=69, #4bytes=9, #address=9, #bytes=23, #strings=14) (loaded from file "/tmp/efcf/testBank.bin.5fd71f4f8998b334f1eaaafb935618b8.8afmgeee.fuzz/fuzz/dict/testBank.dict") 
+[1;92m[+] [0mLoaded environment variable AFL_SKIP_CPUFREQ with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_AFFINITY with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_BENCH_UNTIL_CRASH with value True[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_UI with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_CUSTOM_MUTATOR_LIBRARY with value /efcf/src/ethmutator/target/release/libafl_ethmutator.so[0m
+[0;36mafl-fuzz++4.01a[0m based on afl by Michal Zalewski and a large online community
+[1;92m[+] [0mafl++ is maintained by Marc "van Hauser" Heuse, Heiko "hexcoder" Eißfeldt, Andrea Fioraldi and Dominik Maier[0m
+[1;92m[+] [0mafl++ is open source, get it at https://github.com/AFLplusplus/AFLplusplus[0m
+[1;92m[+] [0mNOTE: This is v3.x which changes defaults and behaviours - see README.md[0m
+[1;94m[*] [0mGetting to work...[0m
+[1;92m[+] [0mUsing rare edge focus power schedule (RARE)[0m
+[1;92m[+] [0mEnabled testcache with 50 MB[0m
+[1;92m[+] [0mGenerating fuzz data with a a length of min=1 max=1048576[0m
+[1;94m[*] [0mChecking core_pattern...[0m
+[1;92m[+] [0mDisabling the UI because AFL_NO_UI is set.[0m
+[1;92m[+] [0mYou have 12 CPU cores and 1 runnable tasks (utilization: 8%).[0m
+[1;92m[+] [0mTry parallel jobs - see /usr/local/share/doc/afl/parallel_fuzzing.md.[0m
+[1;94m[*] [0mSetting up output directories...[0m
+[1;93m[!] [1;97mWARNING: [0mNot binding to a CPU core (AFL_NO_AFFINITY set).[0m
+[1;93m[!] [1;97mWARNING: [0mno -M main node found. It is recommended to run exactly one main instance.[0m
+[1;94m[*] [0mLoading custom mutator library from '/efcf/src/ethmutator/target/release/libafl_ethmutator.so'...[0m
+[1;94m[*] [0moptional symbol 'afl_custom_post_process' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation_probability' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_queue_new_entry' not found[0m
+[1;92m[+] [0mCustom mutator '/efcf/src/ethmutator/target/release/libafl_ethmutator.so' installed successfully.[0m
+[1;94m[*] [0mScanning 'seeds'...[0m
+[1;92m[+] [0mLoaded a total of 3 seeds.[0m
+[1;94m[*] [0mCreating hard links for all input files...[0m
+[1;94m[*] [0mValidating target binary...[0m
+[1;92m[+] [0m[1;95mPersistent mode binary detected.[0m
+[1;92m[+] [0m[1;95mDeferred forkserver binary detected.[0m
+[1;94m[*] [0mSpinning up the fork server...[0m
+
+[1;91m[-] [0mWhoops, the target binary crashed suddenly, before receiving any input
+    from the fuzzer! You can try the following:
+
+    - The target binary crashes because necessary runtime conditions it needs
+      are not met. Try to:
+      1. Run again with AFL_DEBUG=1 set and check the output of the target
+         binary for clues.
+      2. Run again with AFL_DEBUG=1 and 'ulimit -c unlimited' and analyze the
+         generated core dump.
+
+    - The current memory limit (1.95 GB) is too restrictive, causing the
+      target to hit an OOM condition in the dynamic linker. Try bumping up
+      the limit with the -m setting in the command line. A simple way confirm
+      this diagnosis would be:
+
+      ( ulimit -Sd $[1999 << 10]; /path/to/fuzzed_app )
+
+      Tip: you can use https://jwilk.net/software/recidivm to
+      estimate the required amount of virtual memory for the binary.
+
+    - Possibly the target requires a huge coverage map and has CTORS.
+      Retry with setting AFL_MAP_SIZE=10000000.
+
+    - Less likely, there is a horrible bug in the fuzzer. If other options
+      fail, poke <afl-users@googlegroups.com> for troubleshooting tips.
+)B[?25h[0m[1;91m
+[-] PROGRAM ABORT : [0mFork server crashed with signal 9[1;91m
+         Location : [0mafl_fsrv_start(), src/afl-forkserver.c:1133
+

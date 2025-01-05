@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/rubixi/3rdparty/CMakeFiles/rebuild_cache.dir

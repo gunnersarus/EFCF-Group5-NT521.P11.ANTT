@@ -1,0 +1,3 @@
+Reading 408 bytes from ./queue/id:001556,src:001535,time:29522694,execs:132619014,op:havoc,rep:16,+cov
+Contract leaks ether to potentially controllable address: 0x12
+Execution successful.

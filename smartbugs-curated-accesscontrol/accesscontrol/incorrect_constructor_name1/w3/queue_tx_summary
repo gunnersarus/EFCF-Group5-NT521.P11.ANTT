@@ -1,0 +1,148 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    0x54a47ff0()[];
+TX []
+    0x7fffffff()[];
+    IamMissing()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    IamMissing()[];
+    0x54a47ff0()[];
+    IamMissing()[↕️ ↩️ ↩️ ];
+TX []
+    IamMissing()[↕️ ↩️ ];
+    IamMissing()[];
+    IamMissing()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    IamMissing()[];
+    IamMissing()[];
+    fallback()[];
+TX []
+    IamMissing()[];
+    fallback()[🪙];
+TX [🪙]
+    IamMissing()[];
+    fallback()[];
+    IamMissing()[];
+    IamMissing()[];
+    withdraw()[];
+TX []
+    IamMissing()[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    IamMissing()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    IamMissing()[];
+TX []
+    IamMissing()[];
+    fallback()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    IamMissing()[];
+    withdraw()[];
+    IamMissing()[];
+TX []
+    IamMissing()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+    IamMissing()[];
+TX []
+    IamMissing()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+    IamMissing()[];
+TX []
+    fallback()[];
+    IamMissing()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    IamMissing()[];
+    IamMissing()[];
+TX []
+    fallback()[];
+    IamMissing()[];
+    IamMissing()[↕️ ↩️ ↩️ ];
+    IamMissing()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[];
+    IamMissing()[];
+    IamMissing()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+TX [⏰]
+    fallback()[↕️ ↩️ ];
+    IamMissing()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    IamMissing()[↕️ ↩️ ↩️ ];
+TX []
+    fallback()[];
+    IamMissing()[];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    IamMissing()[];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    IamMissing()[];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+    withdraw()[];
+    withdraw()[];
+    IamMissing()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw()[↕️ ↩️ ];
+    fallback()[];
+    IamMissing()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+7fffffff ==> 1
+54a47ff0 ==> 2
+withdraw() ==> 24
+IamMissing() ==> 38
+0 ==> 43
+
+Maximum ABI coverage with: ./w3/crashes/../queue/id:000029,src:000002,time:139,execs:1822,EM-_____-___M_______A_________-_C___-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 34
+Average number of TXs: 3.176470588235294
+Number of unique TX sequences: 28
+Number of unique TX sequences (consecutive deduplicated): 17

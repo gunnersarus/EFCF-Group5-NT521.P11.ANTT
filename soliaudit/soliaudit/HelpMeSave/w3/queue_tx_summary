@@ -1,0 +1,552 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[🪙];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+TX [#⏰🪙]
+    fallback()[🪙];
+    0xf90000()[🪙];
+TX []
+    fallback()[🪙];
+    deposit()[🪙];
+    0xe30520df()[🪙↕️ ↩️ ↩️ ↩️ ];
+    MyTestWallet7()[];
+TX [🪙]
+    0x40000001()[🪙];
+TX []
+    0x7fffffff()[🪙];
+TX []
+    MyTestWallet7()[];
+TX []
+    MyTestWallet7()[🪙];
+TX []
+    MyTestWallet7()[];
+    0xffffffff()[↕️ ↩️ ↩️ ];
+    0xffffffff()[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+TX []
+    MyTestWallet7()[↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+    withdraw()[];
+TX []
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[];
+    deposit()[🪙];
+    withdraw()[];
+TX []
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[];
+    withdraw()[];
+TX []
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    MyTestWallet7()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    MyTestWallet7()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    MyTestWallet7()[↕️ ↩️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    MyTestWallet7()[];
+    fallback()[🪙];
+    withdraw()[];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ];
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    deposit()[🪙];
+    MyTestWallet7()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+    0x1010101()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙];
+    deposit()[🪙];
+TX []
+    fallback()[🪙];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    fallback()[🪙];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX [#⏰]
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[];
+    fallback()[🪙];
+    0x894cc46()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[];
+    fallback()[];
+    fallback()[🪙];
+TX [⏰]
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX [#]
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+    fallback()[🪙];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    deposit()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    MyTestWallet7()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    MyTestWallet7()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    withdraw()[🪙];
+    deposit()[🪙];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    MyTestWallet7()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    withdraw()[];
+    withdraw()[];
+    MyTestWallet7()[];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    0x54a47ff0()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[];
+    deposit()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    withdraw()[];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    withdraw()[];
+    MyTestWallet7()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    withdraw()[];
+    MyTestWallet7()[↕️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    fallback()[🪙];
+    recovery(string,address):(uint256)[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙];
+    withdraw()[];
+TX []
+    fallback()[🪙];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    recovery(string,address):(uint256)[];
+TX []
+    owner():(address)[];
+TX []
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[];
+TX []
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[↕️ ↩️ ];
+    owner():(address)[];
+TX []
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+    owner():(address)[];
+TX [#]
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX []
+    owner():(address)[↕️ ↩️ ↩️ ];
+    owner():(address)[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    owner():(address)[];
+TX []
+    owner():(address)[🪙];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+TX []
+    recovery(string,address):(uint256)[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+TX []
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    deposit()[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    deposit()[🪙];
+    withdraw()[];
+    withdraw()[];
+TX [🪙]
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+    withdraw()[];
+    withdraw()[];
+    recovery(string,address):(uint256)[];
+TX []
+    recovery(string,address):(uint256)[↕️ ];
+    deposit()[🪙];
+    MyTestWallet7()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[↕️ ];
+    deposit()[🪙];
+    MyTestWallet7()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    recovery(string,address):(uint256)[];
+    fallback()[🪙];
+TX []
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    fallback()[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[🪙↕️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    recovery(string,address):(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[↕️ ];
+    owner():(address)[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX [🪙]
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ];
+TX []
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+TX []
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    deposit()[🪙];
+    MyTestWallet7()[];
+    withdraw()[];
+TX []
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+    recovery(string,address):(uint256)[];
+TX []
+    withdraw()[];
+    MyTestWallet7()[];
+    withdraw()[];
+TX []
+    withdraw()[];
+    fallback()[🪙];
+    MyTestWallet7()[];
+    deposit()[🪙];
+TX []
+    withdraw()[];
+    recovery(string,address):(uint256)[↕️ ↩️ ];
+    MyTestWallet7()[];
+TX []
+    withdraw()[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    MyTestWallet7()[];
+    fallback()[🪙];
+TX []
+    withdraw()[];
+    recovery(string,address):(uint256)[];
+    deposit()[🪙];
+    MyTestWallet7()[↕️ ↩️ ];
+    MyTestWallet7()[];
+    recovery(string,address):(uint256)[];
+TX []
+    withdraw()[];
+    recovery(string,address):(uint256)[↕️ ↩️ ↩️ ];
+    recovery(string,address):(uint256)[];
+    MyTestWallet7()[];
+TX []
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    recovery(string,address):(uint256)[];
+    withdraw()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+f90000 ==> 1
+1010101 ==> 1
+894cc46 ==> 1
+40000001 ==> 1
+54a47ff0 ==> 1
+7fffffff ==> 1
+e30520df ==> 1
+ffffffff ==> 2
+owner():(address) ==> 23
+deposit() ==> 42
+withdraw() ==> 56
+MyTestWallet7() ==> 67
+recovery(string,address):(uint256) ==> 109
+0 ==> 130
+
+Maximum ABI coverage with: ./w3/crashes/../queue/id:000060,src:000000,time:170,execs:3833,EM-_____-_____l_____AI_____o__-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 110
+Average number of TXs: 3.963636363636364
+Number of unique TX sequences: 90
+Number of unique TX sequences (consecutive deduplicated): 61

@@ -1,0 +1,94 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(10)] ✔️
+[Trimmer Stage: Transactions(9)] ✔️
+[Trimmer Stage: Transactions(8)] ✔️
+[Trimmer Stage: Transactions(7)] ✔️
+[Trimmer Stage: Transactions(6)] ✔️
+[Trimmer Stage: Transactions(5)] ❌
+[Trimmer Stage: Transactions(4)] ❌
+[Trimmer Stage: Transactions(3)] ✔️
+[Trimmer Stage: Transactions(2)] ✔️
+[Trimmer Stage: Transactions(1)] ✔️
+[Trimmer Stage: Transactions(0)] ✔️
+[Trimmer Stage: Inputs(1, 0)] ❌
+[Trimmer Stage: Inputs(0, 4)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(1, 5)] ✔️
+[Trimmer Stage: Sender(1, 4)] ❌
+[Trimmer Stage: Sender(1, 3)] ❌
+[Trimmer Stage: Sender(1, 2)] ❌
+[Trimmer Stage: Sender(1, 1)] ❌
+[Trimmer Stage: Sender(1, 0)] ❌
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(1, 0)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(100000))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(10000))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(10))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(5))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(2))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(1))] ✔️
+[Trimmer Stage: BlockHeader(TimeStamp(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(100000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(5))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(2))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(1))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(0))] ❌
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ sender/receiver selector TX[1] ]
+[ we try sorting the transaction list ]
+reduced testcases from 444 to 112 bytes (by 75 %) edit distance 379
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 18374686479671623680
+  initial_ether: 14745599
+
+TX[0] with tx_sender[1]; tx_receiver[0]; call_value: 0xffffffff; length: 0; block+=0; #returns=0
+  input: 
+TX[1] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[2] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[3] with tx_sender[1]; tx_receiver[0]; call_value: 0x649d2c967d95000000000000000000; length: 0; block+=0; #returns=0
+  input: 
+TX[4] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc5442b23ea5ca66c3441e62bf6456f010646ae94),  }
+TX[5] with tx_sender[5]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: withdrawAll() (0x853828b6)
+  input: {  }
+TX[6] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[7] with tx_sender[0]; tx_receiver[0]; call_value: 0x100; length: 128; block+=0; #returns=0
+  func: fallback()
+  input: 2400000000000000000000000000000085952454000000000000000000000000 c4b803ea8bc3f494cc4672a9159ca000d377d9a3000000000100000064000000 0000000004000000040000000000000000020000953828bb0400010005000000 0000000000000000853828b60101200000000000000000000000000000000000 
+TX[8] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 0; block+=0; #returns=0
+  input: 
+TX[9] with tx_sender[247]; tx_receiver[0]; call_value: 0xffff00000000; length: 36; block+=1; #returns=0
+  func: deleteOwner(address):(bool) (0xcd5c4c70)
+  input: { address(0xd3442b23ea5ca66c3441e60a398fbbc468e8f550),  }
+TX[10] with tx_sender[157]; tx_receiver[117]; call_value: 0x7fffff0000000000000000000000000000; length: 24; block+=0; #returns=0
+  func: fallback()
+  input: ff3828b6ff00000001020000fa000000000000a0240000ba 
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 1
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc5442b23ea5ca66c3441e62bf6456f010646ae94),  }
+TX[1] with tx_sender[5]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: withdrawAll() (0x853828b6)
+  input: {  }

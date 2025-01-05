@@ -1,0 +1,10 @@
+time : 99
+total_time : 708
+total_execs_done : 3782096
+cumulative_execs_per_sec : 37372
+average_execs_per_sec : 5338
+total_crashes : 1
+total_hangs : 0
+evm-coverage: 82.64462809917356
+crashes - Number of unique TX sequences: 1
+queue - Number of unique TX sequences: 794

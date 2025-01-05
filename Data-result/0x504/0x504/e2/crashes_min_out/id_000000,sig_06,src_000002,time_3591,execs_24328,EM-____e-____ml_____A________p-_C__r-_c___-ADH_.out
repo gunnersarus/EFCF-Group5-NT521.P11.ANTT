@@ -1,0 +1,193 @@
+Reading 80 bytes from ./e2/crashes/../crashes_min/id:000000,sig:06,src:000002,time:3591,execs:24328,EM-____e-____ml_____A________p-_C__r-_c___-ADH_
+= Constructing global state =
+target contract address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+with 6 attacker accounts with initial funds: 0x1000000000000000000000000000000000000000000000000
+Running constructor transaction with total input length 5660 (built-in constructor code is 5660 + 0)
+constructor finished
+returned code of length 5511 (compare to built-in code size 5511)
+== GLOBAL STATE Block 100000 timestamp 1420066800 ==
+  ATTACKER address: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc2018c3f08417e77b94fb541fed2bf1e09093edd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  ATTACKER address: 0xc5442b23ea5ca66c3441e62bf6456f010646ae94 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  CREATOR  address: 0xcc079239d48f83be71dbbd18487f4acc279ee929 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  FRIEND   address: 0xcf7c6611373327e75f8ef1beef8227afb89816dd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 0
+  TARGET   address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d balance: 0x0 code length: 5511 specialized: 1 is_mocked: 0
+           address: 0xe0af163ebeab9bb2968fee294a22ca4fe2fa3a06 balance: 0x0 code length: 0 specialized: 0 is_mocked: 0
+
+running fuzzcase
+Block Header
+setting initial balance from 0 to 1
+
+-- TRANSACTION 0 --
+found input with length: 4
+Running Transaction 0
+input bytes: 0xb16f4a3a
+4byte sig: 0xb16f4a3a
+call value: 0x0
+from: 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 402
+LOGs: 0
+
+240 (1): DUP1
+stack before:
+ 0: 0xb16f4a3a
+
+251 (1): DUP1
+stack before:
+ 0: 0xb16f4a3a
+
+262 (1): DUP1
+stack before:
+ 0: 0xb16f4a3a
+
+1087 (1): JUMPDEST
+stack before:
+ 0: 0xb16f4a3a
+
+1099 (1): JUMPDEST
+stack before:
+ 0: 0x0
+ 1: 0xb16f4a3a
+
+3970 (1): JUMPDEST
+stack before:
+ 0: 0x192
+ 1: 0xb16f4a3a
+
+402 (1): JUMPDEST
+stack before:
+ 0: 0xb16f4a3a
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x1
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+
+-- TRANSACTION 1 --
+found input with length: 4
+Running Transaction 1
+input bytes: 0x3ccfd60b
+4byte sig: 0x3ccfd60b
+call value: 0x0
+from: 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+to: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+block num: 100000
+block ts: 1420066800
+== EVM TX Done ==
+return code: 1
+Exception: 
+last PC: 402
+LOGs: 0
+
+108 (1): DUP1
+stack before:
+ 0: 0x3ccfd60b
+
+700 (1): JUMPDEST
+stack before:
+ 0: 0x3ccfd60b
+
+712 (1): JUMPDEST
+stack before:
+ 0: 0x0
+ 1: 0x3ccfd60b
+
+2908 (1): JUMPDEST
+stack before:
+ 0: 0x192
+ 1: 0x3ccfd60b
+
+2936 (1): JUMPDEST
+stack before:
+ 0: 0x0
+ 1: 0x0
+ 2: 0x192
+ 3: 0x3ccfd60b
+
+3001 (1): JUMPDEST
+stack before:
+ 0: 0x0
+ 1: 0x1
+ 2: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+ 3: 0x192
+ 4: 0x3ccfd60b
+
+402 (1): JUMPDEST
+stack before:
+ 0: 0x3ccfd60b
+
+
+no response
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000001
+account 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3 has balance 0x1000000000000000000000000000000000000000000000001( > 0x1000000000000000000000000000000000000000000000000)
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+combined balance of fuzzer accounts is 37662610412320084583014736539245998496614132666784207077377 but expected a maximum of 37662610412320084583014736539245998496614132666784207077376
+
+[STATS] top-level transaction count: 2
+[STATS] all transaction count: 2
+[STATS] all mocked returns: 0
+
+[DONE] all transactions executed
+contract: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+balance = 0x0
+more than initial balance? no
+contract creator: 0xcc079239d48f83be71dbbd18487f4acc279ee929
+balance = 0x1000000000000000000000000000000000000000000000000
+more than initial balance? no
+checking balance of 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc2018c3f08417e77b94fb541fed2bf1e09093edd
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2
+= 0x1000000000000000000000000000000000000000000000000
+checking balance of 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+= 0x1000000000000000000000000000000000000000000000001
+account 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3 has balance 0x1000000000000000000000000000000000000000000000001( > 0x1000000000000000000000000000000000000000000000000)
+checking balance of 0xc5442b23ea5ca66c3441e62bf6456f010646ae94
+= 0x1000000000000000000000000000000000000000000000000
+combined balance of fuzzer accounts is 37662610412320084583014736539245998496614132666784207077377 but expected a maximum of 37662610412320084583014736539245998496614132666784207077376
+[BUG] balance gain | 1 wei (compare total 37662610412320084583014736539245998496614132666784207077377 > 37662610412320084583014736539245998496614132666784207077376 wei expected)
+Execution successful.

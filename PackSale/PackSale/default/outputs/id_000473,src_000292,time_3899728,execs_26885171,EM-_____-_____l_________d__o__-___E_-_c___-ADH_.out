@@ -1,0 +1,5 @@
+Reading 707 bytes from ./queue/id:000473,src:000292,time:3899728,execs:26885171,EM-_____-_____l_________d__o__-___E_-_c___-ADH_
+Contract leaks ether to potentially controllable address: 0xc2018c3f08637e77b94fb541fed2bf1e09093edd
+Contract leaks ether to potentially controllable address: 0xc2018c3f08417e77b94fb541fed2bfee09093edd
+Contract leaks ether to potentially controllable address: 0xc2018c3f08417e77b94fb541fed2bf1e09093e00
+Execution successful.

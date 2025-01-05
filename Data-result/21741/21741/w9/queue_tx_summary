@@ -1,0 +1,134 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [🪙]
+    0x0()[];
+TX []
+    0x0()[🪙];
+TX [#⏰🪙]
+    0x47()[🪙];
+TX []
+    0x54a47ff0()[];
+    reclaimToken(address)[];
+TX [#⏰]
+    0x64()[🪙];
+TX [#⏰🪙]
+    0x7b7b7b00()[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX [#⏰🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    fallback()[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[↕️ ↩️ ↩️ ];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    fallback()[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙↕️ ↩️ ];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+TX [🪙]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    reclaimToken(address)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    renounceOwnership()[];
+    transferOwnership(address)[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[];
+    reclaimToken(address)[];
+    renounceOwnership()[];
+TX [⏰]
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[];
+    renounceOwnership()[↕️ ↩️ ];
+    renounceOwnership()[];
+    reclaimToken(address)[];
+TX []
+    buy(address,uint256,address,address[],bytes,uint256[],uint256[])[🪙];
+    transferOwnership(address)[↕️ ↩️ ↩️ ];
+    transferOwnership(address)[↕️ ↩️ ↩️ ];
+    reclaimToken(address)[];
+    reclaimToken(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    reclaimToken(address)[];
+TX []
+    renounceOwnership()[];
+TX [#⏰🪙]
+    renounceOwnership()[🪙];
+TX [#⏰🪙]
+    transferOwnership(address)[🪙];
+TX []
+    transferOwnership(address)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+47 ==> 1
+64 ==> 1
+54a47ff0 ==> 1
+7b7b7b00 ==> 1
+0 ==> 9
+transferOwnership(address) ==> 9
+renounceOwnership() ==> 19
+reclaimToken(address) ==> 20
+buy(address,uint256,address,address[],bytes,uint256[],uint256[]) ==> 40
+owner():(address) ==> 0
+
+Maximum ABI coverage with: ./w9/crashes/../queue/id:000041,src:000002,time:9287,execs:53718,EM-_____-____m_____LAIL____o__-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 52
+Average number of TXs: 1.9423076923076923
+Number of unique TX sequences: 24
+Number of unique TX sequences (consecutive deduplicated): 23

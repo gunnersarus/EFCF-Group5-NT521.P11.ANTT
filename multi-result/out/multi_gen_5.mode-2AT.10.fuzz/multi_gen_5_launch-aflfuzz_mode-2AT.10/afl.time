@@ -1,0 +1,23 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/dict/multi_gen_5.dict CONTRACT_ABI=/tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/abi/multi_gen_5.abi EM_ALLOW_COMPTRACE=1 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/dict/multi_gen_5.dict -S c1 -c /tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/build/afuzz_cmplog/multi_gen_5/fuzz_multitx -l 2AT -p rare -V 172800 -- /tmp/efcf-fuzz/multi_gen_5.mode-2AT.10.NjXS7E.fuzz/fuzz/build/afuzz/multi_gen_5/fuzz_multitx"
+	User time (seconds): 10.61
+	System time (seconds): 73.31
+	Percent of CPU this job got: 47%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:57.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 152816
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 16492
+	Minor (reclaiming a frame) page faults: 7075
+	Voluntary context switches: 4958697
+	Involuntary context switches: 56098
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

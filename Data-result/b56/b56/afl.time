@@ -1,0 +1,23 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/GTIX.src.b24755bcc05505f0b217f6ee2894973d.du2dtzda.fuzz/fuzz/dict/GTIX.dict CONTRACT_ABI=/tmp/efcf/GTIX.src.b24755bcc05505f0b217f6ee2894973d.du2dtzda.fuzz/fuzz/abi/GTIX.abi EM_ALLOW_COMPTRACE=1 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/GTIX.src.b24755bcc05505f0b217f6ee2894973d.du2dtzda.fuzz/fuzz/dict/GTIX.dict -S c1 -c /tmp/efcf/GTIX.src.b24755bcc05505f0b217f6ee2894973d.du2dtzda.fuzz/fuzz/build/afuzz_cmplog/GTIX/fuzz_multitx -l 2AT -p rare -V 86400 -- /tmp/efcf/GTIX.src.b24755bcc05505f0b217f6ee2894973d.du2dtzda.fuzz/fuzz/build/afuzz/GTIX/fuzz_multitx"
+	User time (seconds): 2.40
+	System time (seconds): 11.71
+	Percent of CPU this job got: 62%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:22.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 138048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 34832
+	Voluntary context switches: 620029
+	Involuntary context switches: 11811
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

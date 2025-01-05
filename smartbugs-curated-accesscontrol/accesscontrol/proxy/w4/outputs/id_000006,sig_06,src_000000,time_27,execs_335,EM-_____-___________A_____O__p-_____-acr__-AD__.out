@@ -1,0 +1,3 @@
+Reading 428 bytes from ./crashes/id:000006,sig:06,src:000000,time:27,execs:335,EM-_____-___________A_____O__p-_____-acr__-AD__
+[BUG] controlled delegatecall | DELEGATECALL to attacker address 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3
+Execution successful.

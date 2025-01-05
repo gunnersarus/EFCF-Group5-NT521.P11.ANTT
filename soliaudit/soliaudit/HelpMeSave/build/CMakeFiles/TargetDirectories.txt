@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/HelpMeSave/3rdparty/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,167 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    0x7e6b0cb9()[];
+TX []
+    GPaid()[];
+TX []
+    GPaid()[];
+    approve(address,uint256):(bool)[];
+TX []
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    allowance(address,address):(uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    fallback()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    getTokens()[🪙];
+    fallback()[↕️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ];
+TX []
+    blacklist(address):(bool)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+    adminClaimAirdrop(address,uint256)[];
+TX []
+    fallback()[];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    burn(uint256)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[];
+    getTokens()[🪙];
+TX []
+    fallback()[];
+    transfer(address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    transferOwnership(address)[];
+TX []
+    fallback()[];
+    updateTokensPerEth(uint256)[];
+TX []
+    finishDistribution():(bool)[];
+    fallback()[];
+TX []
+    finishZeroDistribution():(bool)[];
+    fallback()[];
+TX []
+    getTokens()[🪙];
+    fallback()[];
+TX []
+    name():(string)[];
+TX []
+    symbol():(string)[];
+TX []
+    tokensPerEth():(uint256)[];
+TX []
+    transfer(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    withdraw()[];
+    fallback()[];
+TX []
+    withdrawForeignTokens(address):(bool)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+name():(string) ==> 1
+withdraw() ==> 1
+burn(uint256) ==> 1
+adminClaimAirdrop(address,uint256) ==> 1
+finishZeroDistribution():(bool) ==> 1
+7e6b0cb9 ==> 1
+symbol():(string) ==> 1
+finishDistribution():(bool) ==> 1
+tokensPerEth():(uint256) ==> 1
+allowance(address,address):(uint256) ==> 1
+withdrawForeignTokens(address):(bool) ==> 1
+transferOwnership(address) ==> 1
+blacklist(address):(bool) ==> 1
+updateTokensPerEth(uint256) ==> 2
+GPaid() ==> 2
+adminClaimAirdropMultiple(address[],uint256) ==> 5
+transfer(address,uint256):(bool) ==> 5
+getTokens() ==> 6
+transferFrom(address,address,uint256):(bool) ==> 11
+approve(address,uint256):(bool) ==> 19
+0 ==> 52
+balanceOf(address):(uint256) ==> 0
+decimals():(uint256) ==> 0
+distributionFinished():(bool) ==> 0
+getTokenBalance(address,address):(uint256) ==> 0
+maxTotalValue():(uint256) ==> 0
+minContribution():(uint256) ==> 0
+totalDistributed():(uint256) ==> 0
+totalRemaining():(uint256) ==> 0
+totalSupply():(uint256) ==> 0
+totalValue():(uint256) ==> 0
+value():(uint256) ==> 0
+zeroDistrFinished():(bool) ==> 0
+
+Maximum ABI coverage with: ./w8/crashes/../queue/id:000051,src:000002,time:232,execs:1404,EM-_____-____m___s_L_IL___O___-__F__-_____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 67
+Average number of TXs: 1.7164179104477613
+Number of unique TX sequences: 38
+Number of unique TX sequences (consecutive deduplicated): 37

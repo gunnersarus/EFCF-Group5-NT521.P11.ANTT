@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/baby_bank/3rdparty/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,412 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[];
+TX [#⏰🪙]
+    0x1000000()[];
+TX [#⏰🪙]
+    0x7a723058()[🪙];
+TX [⏰🪙]
+    0x7f0000()[🪙];
+TX []
+    0x80000000()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    0x80000000()[];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙↕️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    refund()[];
+TX []
+    deposit()[🪙];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    fallback()[🪙];
+TX []
+    deposit()[🪙];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    refund()[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    migrateTo(address)[↕️ ];
+    withdraw(uint256)[↕️ ];
+TX []
+    deposit()[🪙↕️ ];
+    refund()[];
+    refund()[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    fallback()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    refund()[↕️ ↩️ ];
+    refund()[];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    withdraw(uint256)[];
+TX [⏰]
+    deposit()[🪙];
+    refund()[↕️ ];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    refund()[];
+    withdraw(uint256)[];
+    fallback()[🪙↕️ ↩️ ];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    fallback()[↕️ ];
+    fallback()[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    fallback()[];
+    migrateTo(address)[];
+    refund()[];
+TX []
+    deposit()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+    withdraw(uint256)[];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[];
+    refund()[↕️ ↩️ ];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[↕️ ];
+TX []
+    deposit()[🪙];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    migrateTo(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    migrateTo(address)[];
+TX [🪙]
+    migrateTo(address)[🪙];
+TX [#⏰🪙]
+    migrateTo(address)[];
+TX []
+    refund()[];
+TX [#⏰🪙]
+    refund()[🪙];
+TX []
+    refund()[↕️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    deposit()[🪙];
+    deposit()[🪙];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ];
+    deposit()[🪙];
+    withdraw(uint256)[];
+    deposit()[🪙];
+    migrateTo(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    refund()[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    migrateTo(address)[];
+    deposit()[🪙];
+    refund()[];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+    refund()[];
+TX []
+    refund()[];
+    refund()[];
+    refund()[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+TX []
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[];
+TX []
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+    refund()[];
+    refund()[];
+    refund()[];
+    fallback()[🪙↕️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    refund()[↕️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[↕️ ↩️ ];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ];
+    refund()[];
+    withdraw(uint256)[];
+TX []
+    refund()[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    refund()[];
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    withdraw(uint256)[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    deposit()[🪙];
+    refund()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    refund()[];
+    refund()[];
+TX []
+    withdraw(uint256)[];
+    fallback()[];
+    migrateTo(address)[];
+    deposit()[🪙];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+    refund()[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[↕️ ↩️ ↩️ ];
+    refund()[];
+    refund()[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[↕️ ];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    migrateTo(address)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+    withdraw(uint256)[];
+TX []
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+7f0000 ==> 1
+1000000 ==> 1
+7a723058 ==> 1
+80000000 ==> 2
+0 ==> 16
+migrateTo(address) ==> 31
+withdraw(uint256) ==> 81
+deposit() ==> 93
+refund() ==> 94
+
+Maximum ABI coverage with: ./w4/crashes/../queue/id:000033,src:000002,time:83,execs:1643,EM-_____-____ml__s__AI________-____r-_c___-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 107
+Average number of TXs: 2.9906542056074765
+Number of unique TX sequences: 66
+Number of unique TX sequences (consecutive deduplicated): 38

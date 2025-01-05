@@ -1,0 +1,220 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [⏰🪙]
+    0x0()[];
+TX []
+    0x0()[];
+TX []
+    0x0()[];
+    f1(uint256)[];
+TX []
+    0x80080cc8()[];
+TX [#]
+    0x888888()[];
+TX []
+    echidna_oracle():(bool)[];
+TX []
+    echidna_oracle():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[↕️ ];
+    f1(uint256)[↕️ ];
+    f1(uint256)[↕️ ];
+    f1(uint256)[↕️ ];
+    f1(uint256)[↕️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    ether_oracle()[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f1(uint256)[];
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX [🪙]
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ];
+    f1(uint256)[↕️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    ether_oracle()[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[↕️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    ether_oracle()[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[];
+    ether_oracle()[↕️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f3(uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ];
+    ether_oracle()[];
+TX [🪙]
+    f1(uint256)[];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ↩️ ↩️ ];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    fallback()[];
+TX []
+    f1(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    f2(uint256,uint256,uint256,uint256)[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f3(uint256,uint256)[↕️ ↩️ ];
+    f5(uint256,uint256,uint256)[];
+    ether_oracle()[↕️ ↩️ ];
+TX []
+    f1(uint256)[];
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+    ether_oracle()[];
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f1(uint256)[];
+    fallback()[];
+TX []
+    f2(uint256,uint256,uint256,uint256)[];
+TX [⏰🪙]
+    f2(uint256,uint256,uint256,uint256)[];
+TX []
+    f3(uint256,uint256)[];
+TX [#⏰🪙]
+    f3(uint256,uint256)[];
+TX []
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX [#]
+    f4(uint256,uint256,uint256,uint256,uint256,uint256)[];
+TX []
+    f5(uint256,uint256,uint256)[];
+TX []
+    fallback()[🪙];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+888888 ==> 1
+80080cc8 ==> 1
+echidna_oracle():(bool) ==> 2
+f5(uint256,uint256,uint256) ==> 3
+f3(uint256,uint256) ==> 4
+ether_oracle() ==> 8
+0 ==> 10
+f4(uint256,uint256,uint256,uint256,uint256,uint256) ==> 14
+f2(uint256,uint256,uint256,uint256) ==> 31
+f1(uint256) ==> 97
+
+Maximum ABI coverage with: ./c1/crashes/../queue/id:000057,sync:m0,src:000060
+--------------------------------------------------------------
+Number of fuzzcases: 65
+Average number of TXs: 2.6307692307692307
+Number of unique TX sequences: 37
+Number of unique TX sequences (consecutive deduplicated): 26

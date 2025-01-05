@@ -1,0 +1,229 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    0x54a47ff0()[];
+    Incorrect_constructor_name2()[];
+TX []
+    0xffffffff()[];
+TX []
+    0xffffffff()[↕️ ↩️ ↩️ ];
+    0xffffffff()[];
+TX []
+    Incorrect_constructor_name2()[];
+TX []
+    Incorrect_constructor_name2()[🪙];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[];
+    Incorrect_constructor_name2()[];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[🪙];
+    withdraw()[];
+TX []
+    Incorrect_constructor_name2()[];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[];
+TX []
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+TX [🪙]
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[];
+TX []
+    Incorrect_constructor_name2()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+TX [⏰]
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+    withdraw()[];
+    Incorrect_constructor_name2()[];
+TX []
+    Incorrect_constructor_name2()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    fallback()[];
+TX []
+    fallback()[🪙];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ];
+TX []
+    fallback()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ];
+    Incorrect_constructor_name2()[↕️ ];
+    Incorrect_constructor_name2()[↕️ ];
+    Incorrect_constructor_name2()[↕️ ];
+    Incorrect_constructor_name2()[↕️ ];
+    Incorrect_constructor_name2()[↕️ ];
+TX []
+    fallback()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    withdraw()[];
+TX []
+    fallback()[];
+    Incorrect_constructor_name2()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ];
+TX [⏰]
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Incorrect_constructor_name2()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    Incorrect_constructor_name2()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+    Incorrect_constructor_name2()[];
+TX []
+    withdraw()[];
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+54a47ff0 ==> 1
+ffffffff ==> 3
+withdraw() ==> 28
+Incorrect_constructor_name2() ==> 65
+0 ==> 71
+
+Maximum ABI coverage with: ./c1/crashes/../queue/id:000031,src:000002,time:1592,execs:83392,EM-_____-____ml_____AIL_d_____-___E_-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 53
+Average number of TXs: 3.169811320754717
+Number of unique TX sequences: 38
+Number of unique TX sequences (consecutive deduplicated): 19

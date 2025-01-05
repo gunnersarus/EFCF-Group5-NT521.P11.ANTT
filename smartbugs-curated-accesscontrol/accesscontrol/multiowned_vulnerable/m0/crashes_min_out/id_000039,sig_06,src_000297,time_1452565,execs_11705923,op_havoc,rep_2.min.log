@@ -1,0 +1,151 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(24)] ✔️
+[Trimmer Stage: Transactions(23)] ✔️
+[Trimmer Stage: Transactions(22)] ✔️
+[Trimmer Stage: Transactions(21)] ✔️
+[Trimmer Stage: Transactions(20)] ✔️
+[Trimmer Stage: Transactions(19)] ✔️
+[Trimmer Stage: Transactions(18)] ✔️
+[Trimmer Stage: Transactions(17)] ✔️
+[Trimmer Stage: Transactions(16)] ✔️
+[Trimmer Stage: Transactions(15)] ✔️
+[Trimmer Stage: Transactions(14)] ✔️
+[Trimmer Stage: Transactions(13)] ✔️
+[Trimmer Stage: Transactions(12)] ✔️
+[Trimmer Stage: Transactions(11)] ✔️
+[Trimmer Stage: Transactions(10)] ✔️
+[Trimmer Stage: Transactions(9)] ✔️
+[Trimmer Stage: Transactions(8)] ✔️
+[Trimmer Stage: Transactions(7)] ✔️
+[Trimmer Stage: Transactions(6)] ✔️
+[Trimmer Stage: Transactions(5)] ✔️
+[Trimmer Stage: Transactions(4)] ✔️
+[Trimmer Stage: Transactions(3)] ✔️
+[Trimmer Stage: Transactions(2)] ✔️
+[Trimmer Stage: Transactions(1)] ❌
+[Trimmer Stage: Transactions(0)] ❌
+[Trimmer Stage: Returns(1, 0)] ❌
+[Trimmer Stage: ReturnData(1, 0, 0)] ✔️
+[Trimmer Stage: Inputs(1, 0)] ❌
+[Trimmer Stage: Inputs(0, 4)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(1, 1)] ✔️
+[Trimmer Stage: Sender(1, 0)] ❌
+[Trimmer Stage: Sender(0, 1)] ✔️
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(1, 0)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(100000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(5))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(2))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(1))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(0))] ❌
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ sender/receiver selector TX[1] ]
+[ we try sorting the transaction list ]
+reduced testcases from 2735 to 116 bytes (by 96 %) edit distance 2623
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 30064771072
+
+TX[0] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61),  }
+TX[1] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=1
+  func: withdrawAll() (0x853828b6)
+  input: {  }
+  returns:
+    return val: 1; allows reenter: 0; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+TX[2] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d),  }
+TX[3] with tx_sender[3]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[4] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[5] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: deleteOwner(address):(bool) (0xcd5c4c70)
+  input: { address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d),  }
+TX[6] with tx_sender[1]; tx_receiver[0]; call_value: 0x1; length: 9; block+=0; #returns=0
+  func: fallback()
+  input: 000000000000000000 
+TX[7] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[8] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[9] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[10] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[11] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[12] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d),  }
+TX[13] with tx_sender[4]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: withdrawAll() (0x853828b6)
+  input: {  }
+TX[14] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61),  }
+TX[15] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[16] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[17] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc2018c3f08417e77b94fb541fed2bf1e09093edd),  }
+TX[18] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[19] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc4b803ea8bc30894cc4672a9159ca000d377d9a3),  }
+TX[20] with tx_sender[4]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=0
+  func: withdrawAll() (0x853828b6)
+  input: {  }
+TX[21] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc04689c0c5d48cec7275152b3026b53f6f78d03d),  }
+TX[22] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 10; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: 000000000000  [failed to decode]
+TX[23] with tx_sender[0]; tx_receiver[0]; call_value: 0x46cc9408c38bea03; length: 0; block+=0; #returns=0
+  input: 
+TX[24] with tx_sender[160]; tx_receiver[156]; call_value: 0x100000024a3d9; length: 1580; block+=0; #returns=0
+  func: fallback()
+  input: 0000000000000000000085952454000000000000000000000000a2b0e2c57d7a 1232a80b59354f5a3d49c19c6c4a240000000100000000000000000000008595 2454000000000000000000000000c4b803ea8bc30894cc4672a9159ca000d377 d9a3240000000100000000000000000000008595245400000000000000000000 0000c1af1d7e20374a20d4d3914c1a1b0ddfef99cc6124000000000000000000 00000000000085952454000000000000000000000000c1af1d7e20374a20d4d3 914c1a1b0ddfef99cc6124000000000000000000000000000000859524540000 00000000000000000000c4b803ea8bc30894cc4672a9159ca000d377d9a30000 0000040000000100000000000000040000000400000000000000000000008538 28b6240000000400000000000000000000008595245400000000000000000000 0000deadbeefc5d48cec7275152b3026b53f6f78d03d24000000010000000000 00000000000085952454000000000000000000000000c4b803ea8bc30894cc46 72a9159ca000d377d9a304000000040000000000000000000000853828b60400 0000040000000000000000000000853828b60400000004000000000000000000 0000853828b60900000004000000010000000000000000000000000000000004 000000040000000000000000000000853828b604000000040000000000000000 000000853828b604000100010000000000000000000000853828b60100000024 000000000000000000000000000000cd5c4c70000000000000000000000000c0 4689c0c5d48cec7275152b3026b53f6f78d03d24000000040000000000000000 000000cd5c4c70000000000000000000000000deadbeefc5d48cec7275152b30 26b53f6f78d03d24000000010000000000000000000000859524540000000000 00000000000000c4b803ea8bc30894cc4672a9159ca000d377d9a32400000001 000000000000000000000085952454000000000000000000000000c4b803ea8b c30894cc4672a9159ca000d377d9a30400000004000000000000000000000085 3828b62400000000000000000000000000000085952454000000000000000000 000000c04689c0c5d48cec7275152b3026b53f6f78d03d240000000100000000 0000000000000085952454000000000000000000000000c4b803ea8bc30894cc 4672a9159ca000d377d9a3240000000100000000000000000000008595245400 0000000000000000000000a2b0e2c57d7a1232a80b59354f5a3d49c19c6c4a24 00000001000000000000000000000085952454000000000000000000000000c4 b803ea8bc30894cc4672a9159ca000d377d9a324000000010000000000000000 00000085952454000000000000000000000000c1af1d7e20374a20d4d3914c1a 1b0ddfef99cc6124000000000000000000000000000000859524540000000000 00000000000000c1af1d7e20374a20d4d3914c1a1b0ddfef99cc612400000000 000000000000000000000085952454000000000000000000000000c4b803ea8b c30894cc4672a9159ca000d377d9a30000000004000000010000000000000004 000000040000000000000000000000853828b624000000040000000000000000 00000085952454000000000000000000000000deadbeefc5d48cec7275152b30 26b53f6f78d03d24000000010000000000000000000000859524540000000000 00000000000000c5442b23ea5ca66c3441e62bf6456f010646ae940400000004 0000000000000000000000853828b60400000004000000000000000000000085 3828b604000000040000000000000000000000853828b6090000000100000000 0000000000000000000000000000000004000000040000000000000000000000 853828b604000000040000000000000000000000853828b60400010001000000 0000000000000000853828b60100000024000000000000000000000000000000 cd5c4c70000000000000000000000000c04689c0c5d48cec7275152b3026b53f 6f78d03d24000000040000000000000000000000cd5c4c700000000000000000 00000000deadbeefc5d48cec7275152b3026b53f6f78d03d2400000001000000 0000000000000000cd5c4c70000000000000000000000000c1af1d7e20374a20 d4d3914c1a1b0ddfef99cc61 
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 1
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 36; block+=0; #returns=0
+  func: newOwner(address):(bool) (0x85952454)
+  input: { address(0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61),  }
+TX[1] with tx_sender[1]; tx_receiver[0]; call_value: 0x0; length: 4; block+=0; #returns=1
+  func: withdrawAll() (0x853828b6)
+  input: {  }
+  returns:
+    return val: 1; allows reenter: 0; data: 0x

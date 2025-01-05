@@ -1,0 +1,2893 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[🪙];
+TX [⏰🪙]
+    0x0()[];
+TX [⏰🪙]
+    0x0()[↕️ ];
+TX []
+    0x0()[];
+TX []
+    0x0()[];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    LCOpenTimeout(bytes32)[];
+TX []
+    byzantineCloseChannel(bytes32)[];
+TX []
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    fallback()[];
+TX []
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    0x0()[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    fallback()[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    0x0()[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    byzantineCloseChannel(bytes32)[↕️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    0x67183082()[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    byzantineCloseChannel(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    byzantineCloseChannel(bytes32)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX [#]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    byzantineCloseChannel(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    LCOpenTimeout(bytes32)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ];
+    deposit(bytes32,address,uint256,bool)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    closeVirtualChannel(bytes32,bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙↕️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    deposit(bytes32,address,uint256,bool)[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX [#]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[↕️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    closeVirtualChannel(bytes32,bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[↕️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+TX [⏰]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[↕️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[↕️ ↩️ ↩️ ];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+    LCOpenTimeout(bytes32)[];
+TX [🪙]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ↩️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ↩️ ];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙↕️ ↩️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+    consensusCloseChannel(bytes32,uint256,uint256[4],string,string)[];
+    LCOpenTimeout(bytes32)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    LCOpenTimeout(bytes32)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+    joinChannel(bytes32,uint256[2])[🪙];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙];
+TX [#]
+    createChannel(bytes32,address,uint256,address,uint256[2])[🪙↕️ ↩️ ];
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[↕️ ↩️ ];
+TX []
+    deposit(bytes32,address,uint256,bool)[🪙];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string)[];
+TX []
+    joinChannel(bytes32,uint256[2])[🪙];
+TX []
+    joinChannel(bytes32,uint256[2])[🪙];
+    fallback()[];
+TX []
+    settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string)[];
+TX []
+    updateLCstate(bytes32,uint256[6],bytes32,string,string)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+67183082 ==> 1
+byzantineCloseChannel(bytes32) ==> 13
+0 ==> 14
+closeVirtualChannel(bytes32,bytes32) ==> 25
+settleVC(bytes32,bytes32,uint256,address,address,uint256[4],string) ==> 47
+updateLCstate(bytes32,uint256[6],bytes32,string,string) ==> 60
+consensusCloseChannel(bytes32,uint256,uint256[4],string,string) ==> 85
+initVCstate(bytes32,bytes32,bytes,address,address,uint256[2],uint256[4],string) ==> 100
+deposit(bytes32,address,uint256,bool) ==> 175
+LCOpenTimeout(bytes32) ==> 202
+joinChannel(bytes32,uint256[2]) ==> 624
+createChannel(bytes32,address,uint256,address,uint256[2]) ==> 1492
+Channels(bytes32):(uint256,uint256,bytes32,uint256,uint256,bool,bool,uint256,address) ==> 0
+NAME():(string) ==> 0
+VERSION():(string) ==> 0
+getChannel(bytes32):(address[2],uint256[4],uint256[4],uint256[2],uint256,uint256,bytes32,uint256,uint256,bool,bool,uint256) ==> 0
+getVirtualChannel(bytes32):(bool,bool,uint256,address,uint256,address,address,address,uint256[2],uint256[2],uint256[2]) ==> 0
+hexstrToBytes(string):(bytes) ==> 0
+isSignedBy(bytes32,string,address):(bool) ==> 0
+numChannels():(uint256) ==> 0
+parseInt16Char(string):(uint256) ==> 0
+recoverSigner(bytes32,string):(address) ==> 0
+substring(string,uint256,uint256):(string) ==> 0
+toEthereumSignedMessage(string):(bytes32) ==> 0
+uintToBytes32(uint256):(bytes) ==> 0
+uintToString(uint256):(string) ==> 0
+virtualChannels(bytes32):(bool,bool,uint256,address,uint256,address,address,address,address) ==> 0
+
+Maximum ABI coverage with: ./e2/crashes/../queue/id:000508,src:000459,time:177584,execs:2003753,EM-_____-____m_____LAI______R_-___E_-_c___-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 581
+Average number of TXs: 4.884681583476764
+Number of unique TX sequences: 314
+Number of unique TX sequences (consecutive deduplicated): 168

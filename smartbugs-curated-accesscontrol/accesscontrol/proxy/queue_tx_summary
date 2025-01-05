@@ -1,0 +1,153 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [🪙]
+    0x0()[🪙];
+TX []
+    0x0()[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    forward(address,bytes)[];
+TX [🪙]
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    fallback()[🪙];
+TX []
+    forward(address,bytes)[];
+    fallback()[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    fallback()[🪙];
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[↕️ ];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[↕️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX [🪙]
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX [⏰]
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX [⏰]
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[↕️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 66
+forward(address,bytes) ==> 221
+
+Maximum ABI coverage with: /tmp/efcf/proxy.bin.95ccac55dd0959733999f896f334237a.wzgw4m1k.fuzz/fuzz/out/proxy_launch-aflfuzz_/combined_queue/c1_id:000004,src:000002,time:2078,execs:85914,EM-_____-_____________________-_____-_c___-AD__,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 201
+Average number of TXs: 1.427860696517413
+Number of unique TX sequences: 13
+Number of unique TX sequences (consecutive deduplicated): 5

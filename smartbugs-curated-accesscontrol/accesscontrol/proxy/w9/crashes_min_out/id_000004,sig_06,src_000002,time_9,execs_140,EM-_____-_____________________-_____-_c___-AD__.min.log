@@ -1,0 +1,69 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(0)] ❌
+[Trimmer Stage: TransactionHeader(0, BlockAdvance(0))] ✔️
+[Trimmer Stage: Inputs(0, 562)] ✔️
+[Trimmer Stage: Inputs(0, 281)] ✔️
+[Trimmer Stage: Inputs(0, 140)] ✔️
+[Trimmer Stage: Inputs(0, 132)] ✔️
+[Trimmer Stage: Inputs(0, 100)] ✔️
+[Trimmer Stage: Inputs(0, 68)] ✔️
+[Trimmer Stage: Inputs(0, 36)] ❌
+[Trimmer Stage: Inputs(0, 4)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(0, 7)] ✔️
+[Trimmer Stage: Sender(0, 6)] ✔️
+[Trimmer Stage: Sender(0, 5)] ✔️
+[Trimmer Stage: Sender(0, 4)] ✔️
+[Trimmer Stage: Sender(0, 3)] ✔️
+[Trimmer Stage: Sender(0, 2)] ✔️
+[Trimmer Stage: Sender(0, 1)] ✔️
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(0, 20)] ✔️
+[Trimmer Stage: Receiver(0, 19)] ✔️
+[Trimmer Stage: Receiver(0, 18)] ✔️
+[Trimmer Stage: Receiver(0, 17)] ✔️
+[Trimmer Stage: Receiver(0, 16)] ✔️
+[Trimmer Stage: Receiver(0, 15)] ✔️
+[Trimmer Stage: Receiver(0, 14)] ✔️
+[Trimmer Stage: Receiver(0, 13)] ✔️
+[Trimmer Stage: Receiver(0, 12)] ✔️
+[Trimmer Stage: Receiver(0, 11)] ✔️
+[Trimmer Stage: Receiver(0, 10)] ✔️
+[Trimmer Stage: Receiver(0, 9)] ✔️
+[Trimmer Stage: Receiver(0, 8)] ✔️
+[Trimmer Stage: Receiver(0, 7)] ✔️
+[Trimmer Stage: Receiver(0, 6)] ✔️
+[Trimmer Stage: Receiver(0, 5)] ✔️
+[Trimmer Stage: Receiver(0, 4)] ✔️
+[Trimmer Stage: Receiver(0, 3)] ✔️
+[Trimmer Stage: Receiver(0, 2)] ✔️
+[Trimmer Stage: Receiver(0, 1)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ we try sorting the transaction list ]
+reduced testcases from 1180 to 124 bytes (by 90 %) edit distance 1061
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 0
+
+TX[0] with tx_sender[40]; tx_receiver[75]; call_value: 0x0; length: 1124; block+=1; #returns=0
+  func: forward(address,bytes) (0x6fadcf72)
+  input: { address(0xc2018c3f08417e77b94fb541fed2bf1e09093edd), bytes[1024](0x5bc0dcca6d1825bd3b4082537456015cff17634be67d51e3b1b6e342ceb82b1799be8b02c14bf830026dc68df78660d4a92bab46847fb3b51ae4207feea613373526eda66031afd7ec4fac36f53ff02d141c7b222e6b3a4719fed02e1d3a78240b1845b8679218512edb07b7b0081b1b911e7c1fdd4823634d73826b5f37c3c51b1206f3a8abf802927876acb5871e1500c7eba75ee8ec8f4a83f58d31529036b1ee5722439c64442cbba270f005485ede12c53acaad41b16b0d679e32ad6a5377d6785fbce896d935afa45ebe29ed88840885b2eaab89eb0ffbb75b3ed058a8cec11b99670d46d495dce3b06717dff80205dd67a77ea23ad18bbfd12f5965ef5fb5b92f9a1b5e82d4b975b07114dc8517c4a5fc547dc5fdf8bdc2b248bffe4c32efff289723ed3e7449a4a26a3f64caeaed932ca1fcf8911c4500527444f1e12c735943463bec970636effad3e41a1ea45af43e3d8bc96a4b3ee2c116ec9e254540dca2a46d326fe17d274fd1fdb5a7969c1a8bb0335652c134031ae8c52f4e00edb525c32c689442a4bdbd1140560dcfa7398ae671d2c3069460b7619dccd39aa2d37603f19e3453761b9fea6ee424430b9df0cfa25fca35934f042b2c8b325263b6ea0fa75e6dcb7f7cf1f0c0168aab11f50b23568a3cef46acac6193c50a69ca01f5e56eb73bae49c1b786e67ccedf8096fc89d304c9acd6b476b09e93927cebce64df8efb3e3085bb530d8ae609a8b1efba2d78044a2e4dd5d2fe46b0209926f98b8388297dbf845f67734a21ea0c778a1e212844be4580c32084d8a2c6ebdf33dcc1c9141d50e5da402b2939609ea84013854d62734f961a2b1357f459c42954c741d97f0d2312e10502bacc1f299a3970c4cc9d0de8709baee816800021e382b482a55e3d701b90e6d4a9f5a1decc3dbf0c3fecfb4bab3f292afd7b7cb3d17676a622cdff3e505f63d70bd6b4be03cccad884617c0df114785baa5789cffd18b2d9b1f415e1b535bf3370abe6b2274ece46a1c08e2cabdbf4a880f8c21eb2efe07bd71d08e272e34a8ca24b3f49c39e697e014f4676252dd581a13c560c40c44bb6a58e08397fe431d07cdcfea7b99e03697daa1063510943d7025c2009ecc574eb9c368dd5c2adbcf60e9e82480aede4eacf69fb0e91807053954f4ccc1035e15440571eaa8f1b1d897a8a7059f675a3ffdbe56fa8c08c15fcf4df2a32aafef606d932cbf856cc7b3bf6a1bd944693ed2a744bf8b4933bf513edfca89a77caadb0997125ea2d325c9fdf787c407add81b7cddab6df1915c6cf8e3fa21c9f8975f554c818011cc4f5695a1974a70c90f1c6b99547ff31a8756f1c1e1a3de55e12aafd966e673f3e3b1424df9d983f2e577f8c022571852c956c204d93bd9345e1b55a420e1ee2a1c82c972e0db7d8fb22b689ce4553cf879e941f5e14),  }
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 0
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 68; block+=0; #returns=0
+  func: forward(address,bytes) (0x6fadcf72)
+  input: 000000000000000000000000c2018c3f08417e77b94fb541fed2bf1e09093edd 0000000000000000000000000000000000000000000000000000000000000040  [failed to decode]

@@ -1,0 +1,185 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[];
+    withdraw()[↕️ ];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    0x67e56222()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+TX []
+    0xffffffff()[];
+TX []
+    Constructor()[];
+    0x18a8def2()[↕️ ↩️ ↩️ ↩️ ];
+    0x18a8def2()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+TX []
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    fallback()[🪙];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    Constructor()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    Constructor()[];
+    withdraw()[];
+    Constructor()[];
+    fallback()[↕️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    Constructor()[];
+    withdraw()[];
+    fallback()[];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Constructor()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[↕️ ↩️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    fallback()[];
+    Constructor()[];
+    Constructor()[];
+TX []
+    fallback()[];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+TX [🪙]
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+TX []
+    fallback()[];
+    Constructor()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    fallback()[🪙];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    Constructor()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+    Constructor()[↕️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    withdraw()[];
+    Constructor()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+67e56222 ==> 1
+ffffffff ==> 1
+18a8def2 ==> 2
+withdraw() ==> 36
+Constructor() ==> 42
+0 ==> 55
+
+Maximum ABI coverage with: ./w10/crashes/../queue/id:000028,src:000002,time:37,execs:1983,EM-_____-___Mm____S_A_____O___-____r-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 46
+Average number of TXs: 2.9782608695652173
+Number of unique TX sequences: 31
+Number of unique TX sequences (consecutive deduplicated): 20

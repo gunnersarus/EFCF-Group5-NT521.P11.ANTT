@@ -1,0 +1,241 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[🪙];
+    Set(address,uint256)[];
+TX []
+    0x3c3c3c3c()[];
+    changeOwner(address)[↕️ ];
+    changeOwner(address)[];
+    withdrawal()[🪙];
+TX []
+    0x7fffffff()[];
+TX []
+    0xffffffff()[↕️ ↩️ ↩️ ↩️ ];
+    0xffffffff()[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    Limit():(uint256)[];
+TX []
+    Set(address,uint256)[🪙];
+TX []
+    Set(address,uint256)[↕️ ↩️ ↩️ ↩️ ];
+    Set(address,uint256)[];
+TX []
+    changeOwner(address)[];
+TX []
+    changeOwner(address)[↕️ ↩️ ];
+    changeOwner(address)[];
+    kill()[];
+    withdrawal()[🪙];
+TX []
+    changeOwner(address)[];
+    changeOwner(address)[];
+    withdrawal()[🪙↕️ ↩️ ];
+    Set(address,uint256)[];
+TX []
+    changeOwner(address)[];
+    changeOwner(address)[];
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[];
+TX []
+    changeOwner(address)[];
+    fallback()[🪙↕️ ];
+TX []
+    changeOwner(address)[];
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    withdrawal()[🪙];
+TX []
+    changeOwner(address)[];
+    fallback()[];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    changeOwner(address)[];
+    kill()[🪙↕️ ↩️ ];
+    kill()[🪙];
+TX []
+    changeOwner(address)[];
+    withdrawal()[🪙];
+    Set(address,uint256)[];
+    kill()[↕️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    Limit():(uint256)[];
+    kill()[];
+TX []
+    fallback()[];
+    Set(address,uint256)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    changeOwner(address)[];
+    Set(address,uint256)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    changeOwner(address)[↕️ ↩️ ↩️ ];
+    changeOwner(address)[];
+    changeOwner(address)[];
+TX []
+    fallback()[];
+    changeOwner(address)[];
+    kill()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    kill()[];
+TX []
+    fallback()[];
+    kill()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    kill()[];
+    Set(address,uint256)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    fallback()[];
+    withdrawal()[🪙];
+TX []
+    fallback()[];
+    withdrawal()[🪙];
+    changeOwner(address)[↕️ ↩️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    changeOwner(address)[↕️ ];
+    kill()[];
+TX []
+    fallback()[🪙];
+    withdrawal()[🪙];
+    kill()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    fallback()[];
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[];
+    withdrawal()[🪙];
+    changeOwner(address)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+TX []
+    fallback()[];
+    withdrawal()[🪙];
+    withdrawal()[🪙];
+    changeOwner(address)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[↕️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    kill()[🪙↕️ ↩️ ];
+TX []
+    kill()[];
+    kill()[];
+    Set(address,uint256)[];
+    fallback()[];
+    changeOwner(address)[];
+TX []
+    withdrawal()[🪙];
+TX []
+    withdrawal()[🪙];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Set(address,uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    withdrawal()[🪙];
+    fallback()[];
+    withdrawal()[🪙↕️ ];
+TX []
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    kill()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    changeOwner(address)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    changeOwner(address)[];
+TX []
+    withdrawal()[🪙];
+    kill()[↕️ ↩️ ];
+    fallback()[];
+TX []
+    withdrawal()[];
+    withdrawal()[🪙];
+    kill()[];
+TX []
+    withdrawal()[🪙↕️ ↩️ ↩️ ↩️ ];
+    withdrawal()[🪙↕️ ↩️ ];
+    withdrawal()[🪙];
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+3c3c3c3c ==> 1
+7fffffff ==> 1
+Limit():(uint256) ==> 2
+ffffffff ==> 2
+Set(address,uint256) ==> 11
+kill() ==> 25
+changeOwner(address) ==> 31
+withdrawal() ==> 35
+0 ==> 67
+
+Maximum ABI coverage with: ./w6/crashes/../queue/id:000034,src:000002,time:40,execs:1638,EM-_____-_____l_____AILR__O___-____r-_____-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 64
+Average number of TXs: 2.734375
+Number of unique TX sequences: 49
+Number of unique TX sequences (consecutive deduplicated): 38

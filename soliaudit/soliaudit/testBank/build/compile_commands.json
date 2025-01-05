@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/disassembler.cpp.o -c /efcf/src/eEVM/src/disassembler.cpp",
+  "file": "/efcf/src/eEVM/src/disassembler.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/processor.cpp.o -c /efcf/src/eEVM/src/processor.cpp",
+  "file": "/efcf/src/eEVM/src/processor.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/stack.cpp.o -c /efcf/src/eEVM/src/stack.cpp",
+  "file": "/efcf/src/eEVM/src/stack.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/transaction.cpp.o -c /efcf/src/eEVM/src/transaction.cpp",
+  "file": "/efcf/src/eEVM/src/transaction.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/util.cpp.o -c /efcf/src/eEVM/src/util.cpp",
+  "file": "/efcf/src/eEVM/src/util.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/src/detector.cpp.o -c /efcf/src/eEVM/src/detector.cpp",
+  "file": "/efcf/src/eEVM/src/detector.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/eevm.dir/3rdparty/keccak/KeccakHash.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakHash.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakHash.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/eevm.dir/3rdparty/keccak/KeccakP-1600-opt64.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakP-1600-opt64.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakP-1600-opt64.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/eevm.dir/3rdparty/keccak/KeccakSpongeWidth1600.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakSpongeWidth1600.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakSpongeWidth1600.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/eevm.dir/3rdparty/keccak/SimpleFIPS202.c.o -c /efcf/src/eEVM/3rdparty/keccak/SimpleFIPS202.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/SimpleFIPS202.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/contracts/testBank.cpp.o -c /efcf/src/eEVM/contracts/testBank.cpp",
+  "file": "/efcf/src/eEVM/contracts/testBank.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/eevm.dir/3rdparty/intx/lib/intx/div.cpp.o -c /efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp",
+  "file": "/efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/samples/disassembler/main.cpp.o -c /efcf/src/eEVM/samples/disassembler/main.cpp",
+  "file": "/efcf/src/eEVM/samples/disassembler/main.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/src/simple/simpleaccount.cpp.o -c /efcf/src/eEVM/src/simple/simpleaccount.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simpleaccount.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/src/simple/simpleglobalstate.cpp.o -c /efcf/src/eEVM/src/simple/simpleglobalstate.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simpleglobalstate.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/src/simple/simplestorage.cpp.o -c /efcf/src/eEVM/src/simple/simplestorage.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simplestorage.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/src/simple/msgpacker.cpp.o -c /efcf/src/eEVM/src/simple/msgpacker.cpp",
+  "file": "/efcf/src/eEVM/src/simple/msgpacker.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/disassembler.dir/3rdparty/mpack/src/mpack/mpack.c.o -c /efcf/src/eEVM/3rdparty/mpack/src/mpack/mpack.c",
+  "file": "/efcf/src/eEVM/3rdparty/mpack/src/mpack/mpack.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DENABLE_DETECTOR -DENABLE_FUZZING -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/disassembler.dir/3rdparty/intx/lib/intx/div.cpp.o -c /efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp",
+  "file": "/efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -DTARGET_CONTRACT=testBank -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/fuzz/multitx/main.cpp.o -c /efcf/src/eEVM/fuzz/multitx/main.cpp",
+  "file": "/efcf/src/eEVM/fuzz/multitx/main.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -DTARGET_CONTRACT=testBank -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/fuzz/common/fuzz_init.cpp.o -c /efcf/src/eEVM/fuzz/common/fuzz_init.cpp",
+  "file": "/efcf/src/eEVM/fuzz/common/fuzz_init.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/simple/simpleaccount.cpp.o -c /efcf/src/eEVM/src/simple/simpleaccount.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simpleaccount.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/simple/simpleglobalstate.cpp.o -c /efcf/src/eEVM/src/simple/simpleglobalstate.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simpleglobalstate.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/simple/simplestorage.cpp.o -c /efcf/src/eEVM/src/simple/simplestorage.cpp",
+  "file": "/efcf/src/eEVM/src/simple/simplestorage.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/simple/msgpacker.cpp.o -c /efcf/src/eEVM/src/simple/msgpacker.cpp",
+  "file": "/efcf/src/eEVM/src/simple/msgpacker.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/fuzz_multitx.dir/3rdparty/mpack/src/mpack/mpack.c.o -c /efcf/src/eEVM/3rdparty/mpack/src/mpack/mpack.c",
+  "file": "/efcf/src/eEVM/3rdparty/mpack/src/mpack/mpack.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/disassembler.cpp.o -c /efcf/src/eEVM/src/disassembler.cpp",
+  "file": "/efcf/src/eEVM/src/disassembler.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/processor.cpp.o -c /efcf/src/eEVM/src/processor.cpp",
+  "file": "/efcf/src/eEVM/src/processor.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/stack.cpp.o -c /efcf/src/eEVM/src/stack.cpp",
+  "file": "/efcf/src/eEVM/src/stack.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/transaction.cpp.o -c /efcf/src/eEVM/src/transaction.cpp",
+  "file": "/efcf/src/eEVM/src/transaction.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/util.cpp.o -c /efcf/src/eEVM/src/util.cpp",
+  "file": "/efcf/src/eEVM/src/util.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/src/detector.cpp.o -c /efcf/src/eEVM/src/detector.cpp",
+  "file": "/efcf/src/eEVM/src/detector.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/fuzz_multitx.dir/3rdparty/keccak/KeccakHash.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakHash.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakHash.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/fuzz_multitx.dir/3rdparty/keccak/KeccakP-1600-opt64.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakP-1600-opt64.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakP-1600-opt64.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/fuzz_multitx.dir/3rdparty/keccak/KeccakSpongeWidth1600.c.o -c /efcf/src/eEVM/3rdparty/keccak/KeccakSpongeWidth1600.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/KeccakSpongeWidth1600.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -o CMakeFiles/fuzz_multitx.dir/3rdparty/keccak/SimpleFIPS202.c.o -c /efcf/src/eEVM/3rdparty/keccak/SimpleFIPS202.c",
+  "file": "/efcf/src/eEVM/3rdparty/keccak/SimpleFIPS202.c"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/contracts/testBank.cpp.o -c /efcf/src/eEVM/contracts/testBank.cpp",
+  "file": "/efcf/src/eEVM/contracts/testBank.cpp"
+},
+{
+  "directory": "/efcf/src/eEVM/fuzz/build/afuzz/testBank",
+  "command": "/usr/local/bin/afl-clang-lto++ -DDEOPTIMIZE_INTX=1 -DENABLE_DETECTOR -DENABLE_FUZZING -DENABLE_FUZZING=1 -I/efcf/src/eEVM/3rdparty -I/efcf/src/eEVM/3rdparty/parallel-hashmap -I/efcf/src/eEVM/3rdparty/mpack/src/mpack -I/efcf/src/eEVM/include -I/efcf/src/eEVM/fuzz/common -I/efcf/src/eEVM/3rdparty/intx/include -isystem /usr/local/include/mimalloc-2.0 -O2 -g -DNDEBUG -flto=thin -Wall -flto=full -O3 -march=native -mtune=native -fvisibility-inlines-hidden -g -std=gnu++17 -o CMakeFiles/fuzz_multitx.dir/3rdparty/intx/lib/intx/div.cpp.o -c /efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp",
+  "file": "/efcf/src/eEVM/3rdparty/intx/lib/intx/div.cpp"
+}
+]

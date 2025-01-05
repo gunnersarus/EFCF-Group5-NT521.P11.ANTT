@@ -1,0 +1,4 @@
+Reading 512 bytes from ./queue/id:000419,src:000283,time:2437167,execs:18052361,EM-_____-_____l__sSL__L____o__-_____-_c___-A_H_
+Contract leaks ether to potentially controllable address: 0x3bf8f560008a000000000001
+Contract leaks ether to potentially controllable address: 0x12
+Execution successful.

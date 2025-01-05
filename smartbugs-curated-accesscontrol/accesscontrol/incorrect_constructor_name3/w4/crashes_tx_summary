@@ -1,0 +1,19 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX [🪙]
+    Constructor()[];
+    withdraw()[↕️ ];
+TX [🪙]
+    Constructor()[];
+    withdraw()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+withdraw() ==> 2
+Constructor() ==> 2
+
+Maximum ABI coverage with: ./w4/crashes/../crashes_min/id:000000,sig:06,src:000002,time:191,execs:8934,EM-____e-________s__A___d_O___-___E_-_____-A_H_
+--------------------------------------------------------------
+Number of fuzzcases: 2
+Average number of TXs: 2
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

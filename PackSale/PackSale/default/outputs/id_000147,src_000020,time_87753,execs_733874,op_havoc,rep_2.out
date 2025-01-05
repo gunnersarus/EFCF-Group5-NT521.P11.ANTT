@@ -1,0 +1,3 @@
+Reading 124 bytes from ./queue/id:000147,src:000020,time:87753,execs:733874,op:havoc,rep:2
+Contract leaks ether to potentially controllable address: 0xdeadbeef00000000000000000000000000000000
+Execution successful.

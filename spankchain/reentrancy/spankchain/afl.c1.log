@@ -1,0 +1,109 @@
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] loaded contract ABI with 25 functions
+[EthMutator] Dictionary Update => Dict(#values=213, #4bytes=32, #address=9, #bytes=178, #strings=113) (loaded from file "/tmp/efcf/SpankChainLedgerChannel.src.b2f891793fd7d863a310af5123a1965c.sct6uq0n.fuzz/fuzz/dict/SpankChainLedgerChannel.dict") 
+[1;92m[+] [0mLoaded environment variable AFL_SKIP_CPUFREQ with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_AFFINITY with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_BENCH_UNTIL_CRASH with value True[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_UI with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_CUSTOM_MUTATOR_LIBRARY with value /efcf/src/ethmutator/target/release/libafl_ethmutator.so[0m
+[0;36mafl-fuzz++4.01a[0m based on afl by Michal Zalewski and a large online community
+[1;92m[+] [0mafl++ is maintained by Marc "van Hauser" Heuse, Heiko "hexcoder" Eißfeldt, Andrea Fioraldi and Dominik Maier[0m
+[1;92m[+] [0mafl++ is open source, get it at https://github.com/AFLplusplus/AFLplusplus[0m
+[1;92m[+] [0mNOTE: This is v3.x which changes defaults and behaviours - see README.md[0m
+[1;94m[*] [0mGetting to work...[0m
+[1;92m[+] [0mUsing rare edge focus power schedule (RARE)[0m
+[1;92m[+] [0mCmpLog level: 2[0m
+[1;92m[+] [0mEnabled testcache with 50 MB[0m
+[1;92m[+] [0mGenerating fuzz data with a a length of min=1 max=1048576[0m
+[1;94m[*] [0mChecking core_pattern...[0m
+[1;92m[+] [0mDisabling the UI because AFL_NO_UI is set.[0m
+[1;92m[+] [0mYou have 12 CPU cores and 3 runnable tasks (utilization: 25%).[0m
+[1;92m[+] [0mTry parallel jobs - see /usr/local/share/doc/afl/parallel_fuzzing.md.[0m
+[1;94m[*] [0mSetting up output directories...[0m
+[1;93m[!] [1;97mWARNING: [0mNot binding to a CPU core (AFL_NO_AFFINITY set).[0m
+[1;94m[*] [0mLoading custom mutator library from '/efcf/src/ethmutator/target/release/libafl_ethmutator.so'...[0m
+[1;94m[*] [0moptional symbol 'afl_custom_post_process' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation_probability' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_queue_new_entry' not found[0m
+[1;92m[+] [0mCustom mutator '/efcf/src/ethmutator/target/release/libafl_ethmutator.so' installed successfully.[0m
+[1;94m[*] [0mScanning 'seeds'...[0m
+[1;92m[+] [0mLoaded a total of 3 seeds.[0m
+[1;94m[*] [0mCreating hard links for all input files...[0m
+[1;94m[*] [0mValidating target binary...[0m
+[1;92m[+] [0m[1;95mPersistent mode binary detected.[0m
+[1;92m[+] [0m[1;95mDeferred forkserver binary detected.[0m
+[1;94m[*] [0mValidating target binary...[0m
+[1;92m[+] [0m[1;95mPersistent mode binary detected.[0m
+[1;92m[+] [0m[1;95mDeferred forkserver binary detected.[0m
+[1;94m[*] [0mSpinning up the fork server...[0m
+[1;92m[+] [0mAll right - fork server is up.[0m
+[1;94m[*] [0mUsing SHARED MEMORY FUZZING feature.[0m
+[1;94m[*] [0mTarget map size: 15649[0m
+[1;94m[*] [0mSpawning cmplog forkserver[0m
+[1;94m[*] [0mSpinning up the fork server...[0m
+[1;92m[+] [0mAll right - fork server is up.[0m
+[1;94m[*] [0mUsing SHARED MEMORY FUZZING feature.[0m
+[1;94m[*] [0mTarget map size: 20465[0m
+[1;92m[+] [0mCmplog forkserver successfully started[0m
+[1;94m[*] [0mNo auto-generated dictionary tokens to reuse.[0m
+[1;94m[*] [0mLoading extra dictionary from '/tmp/efcf/SpankChainLedgerChannel.src.b2f891793fd7d863a310af5123a1965c.sct6uq0n.fuzz/fuzz/dict/SpankChainLedgerChannel.dict' (level 0)...[0m
+[1;94m[*] [0mLoaded 173 extra tokens, size range 1 B to 32 B.[0m
+[1;92m[+] [0mLoaded a total of 180 extras.[0m
+[1;94m[*] [0mAttempting dry run with 'id:000000,time:0,execs:0,orig:receive.bin'...[0m
+[1;90m    len = 56, map size = 120, exec speed = 37 us
+[0m[1;94m[*] [0mAttempting dry run with 'id:000001,time:0,execs:0,orig:nullbyte'...[0m
+[1;90m    len = 1, map size = 4, exec speed = 28 us
+[0m[1;94m[*] [0mAttempting dry run with 'id:000002,time:0,execs:0,orig:fallback.bin'...[0m
+[1;90m    len = 56, map size = 113, exec speed = 48 us
+[0m[1;92m[+] [0mAll test cases processed.[0m
+[1;92m[+] [0mHere are some useful stats:
+
+[1;90m    Test case count : [0m3 favored, 0 variable, 0 ignored, 3 total
+[1;90m       Bitmap range : [0m4 to 120 bits (average: 79.00 bits)
+[1;90m        Exec timing : [0m28 to 48 us (average: 38 us)
+[0m
+[1;94m[*] [0mNo -t option specified, so I'll use an exec timeout of 50 ms.[0m
+[1;92m[+] [0mAll set and ready to roll![0m
+[1;94m[*] [0mEntering queue cycle 1.[0m
+[1;94m[*] [0mFuzzing test case #0 (3 total, 0 crashes saved, perf_score=220, exec_us=37, hits=0, map=120, ascii=1)...[0m
+[EthMutator] init trim with 56 bytes 56 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 894 μsec with 56 bytes
+[EthMutator] new queue entry with 56 bytes and 1 tx - total queue len 1
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 1126 rounds (Some(1126) base mutations, Some(60) deterministic round, and 160 additional havocs; fuzzer requested 563 rounds; queue size 1; previously fuzzed 0)
+[EthMutator][CMPTRACE] tracing => 0 traces in 6775 μsec; processing => 2 μsec; obtained 0 new values => Dict(#values=213, #4bytes=32, #address=9, #bytes=178, #strings=113)
+[1;94m[*] [0mFuzzing test case #37 (78 total, 0 crashes saved, perf_score=409, exec_us=50, hits=1, map=313, ascii=0)...[0m
+[EthMutator] init trim with 288 bytes 288 parsed bytes and 11 expected steps
+[EthMutator] trim finish in 3448 μsec with 288 bytes
+[EthMutator] new queue entry with 288 bytes and 1 tx - total queue len 2
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 2642 rounds (Some(2642) base mutations, Some(60) deterministic round, and 377 additional havocs; fuzzer requested 1047 rounds; queue size 2; previously fuzzed 0)
+[EthMutator][CMPTRACE] tracing => 4 traces in 6209 μsec; processing => 18 μsec; obtained 1 new values => Dict(#values=214, #4bytes=32, #address=9, #bytes=178, #strings=113)
+[1;94m[*] [0mFuzzing test case #140 (160 total, 0 crashes saved, perf_score=319, exec_us=55, hits=1, map=353, ascii=0)...[0m
+[EthMutator] init trim with 538 bytes 538 parsed bytes and 13 expected steps
+[EthMutator] trim finish in 5231 μsec with 534 bytes
+[EthMutator] new queue entry with 534 bytes and 2 tx - total queue len 3
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 2488 rounds (Some(2488) base mutations, Some(120) deterministic round, and 355 additional havocs; fuzzer requested 816 rounds; queue size 3; previously fuzzed 0)
+[EthMutator][CMPTRACE] tracing => 4 traces in 7907 μsec; processing => 9 μsec; obtained 0 new values => Dict(#values=214, #4bytes=32, #address=9, #bytes=178, #strings=113)
+[1;94m[*] [0mFuzzing test case #10 (183 total, 0 crashes saved, perf_score=489, exec_us=88, hits=448, map=233, ascii=1)...[0m
+[EthMutator] init trim with 444 bytes 444 parsed bytes and 8 expected steps
+[EthMutator] trim finish in 2629 μsec with 444 bytes
+[EthMutator] new queue entry with 444 bytes and 1 tx - total queue len 4
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 3158 rounds (Some(3158) base mutations, Some(60) deterministic round, and 451 additional havocs; fuzzer requested 1251 rounds; queue size 4; previously fuzzed 0)
+[EthMutator][CMPTRACE] tracing => 0 traces in 11040 μsec; processing => 2 μsec; obtained 0 new values => Dict(#values=214, #4bytes=32, #address=9, #bytes=178, #strings=113)
+[1;94m[*] [0mFuzzing test case #41 (196 total, 0 crashes saved, perf_score=439, exec_us=94, hits=1, map=251, ascii=0)...[0m
+[EthMutator] init trim with 252 bytes 252 parsed bytes and 9 expected steps
+[EthMutator] trim finish in 3566 μsec with 252 bytes
+[EthMutator] new queue entry with 252 bytes and 1 tx - total queue len 5
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 2835 rounds (Some(2835) base mutations, Some(60) deterministic round, and 405 additional havocs; fuzzer requested 1123 rounds; queue size 5; previously fuzzed 0)
+[EthMutator][CMPTRACE] tracing => 1 traces in 6637 μsec; processing => 3 μsec; obtained 0 new values => Dict(#values=214, #4bytes=32, #address=9, #bytes=178, #strings=113)
+[1;94m[*] [0mFuzzing test case #147 (197 total, 0 crashes saved, perf_score=109, exec_us=59, hits=1, map=353, ascii=0)...[0m
+[EthMutator] init trim with 540 bytes 540 parsed bytes and 13 expected steps
+[EthMutator] trim finish in 4115 μsec with 536 bytes
+[EthMutator] new queue entry with 536 bytes and 2 tx - total queue len 6
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 180 new corpus items found, 8.73% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 4 min, 35 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m

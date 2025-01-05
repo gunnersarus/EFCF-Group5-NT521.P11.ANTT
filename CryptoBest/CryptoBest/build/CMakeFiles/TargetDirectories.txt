@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/CryptoBets/3rdparty/CMakeFiles/rebuild_cache.dir

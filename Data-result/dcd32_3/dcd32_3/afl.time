@@ -1,0 +1,23 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/dict/BitherumToken.dict CONTRACT_ABI=/tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/abi/BitherumToken.abi EM_ALLOW_COMPTRACE=1 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/dict/BitherumToken.dict -S c1 -c /tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/build/afuzz_cmplog/BitherumToken/fuzz_multitx -l 2AT -p rare -V 86400 -- /tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/build/afuzz/BitherumToken/fuzz_multitx"
+	User time (seconds): 15.63
+	System time (seconds): 42.17
+	Percent of CPU this job got: 77%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:15.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 145308
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 72756
+	Voluntary context switches: 1708812
+	Involuntary context switches: 55769
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 5416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

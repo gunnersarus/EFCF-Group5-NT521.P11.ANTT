@@ -1,0 +1,10 @@
+Reading 2040 bytes from ./queue/id:000444,src:000404,time:2980730,execs:21364261,op:havoc,rep:16
+Contract leaks ether to potentially controllable address: 0xc2018c3f08417e77804fb541fed2bf1e09093edd
+Contract leaks ether to potentially controllable address: 0xc2018c3f08417e77b94fb550fed2bf1efc093edd
+Contract leaks ether to potentially controllable address: 0xc2018c3efd417e77b94fb541fed2bf1e09093edd
+Contract leaks ether to potentially controllable address: 0xc201403f08417e77b94fb541fed2bf1e09093edd
+Contract leaks ether to potentially controllable address: 0x2
+Contract leaks ether to potentially controllable address: 0x3bf8f560008a000000000001
+Contract leaks ether to potentially controllable address: 0xc2018c3f08107e77b94fb541fed2bf1e09093edd
+Contract leaks ether to potentially controllable address: 0x6084020000e00317608402000050e3e91afd7f00
+Execution successful.

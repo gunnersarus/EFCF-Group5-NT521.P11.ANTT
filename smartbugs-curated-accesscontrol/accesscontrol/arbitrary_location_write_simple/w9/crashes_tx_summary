@@ -1,0 +1,19 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+    PopBonusCode()[];
+    UpdateBonusCodeAt(uint256,uint256)[];
+    Destroy()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+UpdateBonusCodeAt(uint256,uint256) ==> 1
+PopBonusCode() ==> 1
+Destroy() ==> 1
+PushBonusCode(uint256) ==> 0
+
+Maximum ABI coverage with: ./w9/crashes/../crashes_min/id:000000,sig:06,src:000395,time:735039,execs:15057208,EM-_____-D_____Z______________-____r-ac___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 3
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1

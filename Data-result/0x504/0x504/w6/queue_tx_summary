@@ -1,0 +1,496 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    0x1aa91345()[];
+    transfer(address,uint256):(bool)[];
+TX []
+    0x7fffffff()[↕️ ↩️ ];
+    0x7fffffff()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    0xffffffff()[];
+TX []
+    GPaid()[];
+TX []
+    GPaid()[↕️ ↩️ ];
+    GPaid()[];
+TX []
+    GPaid()[];
+    fallback()[];
+    getTokens()[🪙];
+TX []
+    GPaid()[];
+    withdrawForeignTokens(address):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    adminClaimAirdrop(address,uint256)[];
+TX []
+    adminClaimAirdrop(address,uint256)[];
+    fallback()[];
+TX []
+    adminClaimAirdropMultiple(address[],uint256)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    adminClaimAirdropMultiple(address[],uint256)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    GPaid()[];
+    finishZeroDistribution():(bool)[];
+    withdraw()[];
+TX []
+    approve(address,uint256):(bool)[];
+    GPaid()[];
+    withdrawForeignTokens(address):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    fallback()[🪙];
+TX []
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    burn(uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[];
+    withdraw()[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    getTokens()[🪙];
+    burn(uint256)[];
+    withdraw()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    transferFrom(address,address,uint256):(bool)[];
+    withdraw()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    withdraw()[];
+TX []
+    approve(address,uint256):(bool)[];
+    getTokens()[🪙↕️ ↩️ ];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    totalDistributed():(uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+    totalRemaining():(uint256)[🪙];
+TX []
+    approve(address,uint256):(bool)[];
+    totalRemaining():(uint256)[↕️ ↩️ ↩️ ];
+    totalRemaining():(uint256)[];
+TX []
+    approve(address,uint256):(bool)[];
+    totalSupply():(uint256)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transfer(address,uint256):(bool)[];
+    fallback()[🪙];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    withdraw()[];
+TX []
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    balanceOf(address):(uint256)[];
+TX []
+    blacklist(address):(bool)[];
+TX []
+    burn(uint256)[];
+    fallback()[];
+TX []
+    decimals():(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    decimals():(uint256)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    withdrawForeignTokens(address):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    distributionFinished():(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+    GPaid()[];
+TX []
+    fallback()[];
+    GPaid()[↕️ ↩️ ];
+    GPaid()[↕️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX [⏰]
+    fallback()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[];
+    adminClaimAirdropMultiple(address[],uint256)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    getTokens()[🪙↕️ ↩️ ];
+    getTokens()[🪙];
+TX [#]
+    fallback()[];
+    approve(address,uint256):(bool)[];
+    transfer(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    getTokens()[🪙];
+    withdraw()[];
+TX []
+    fallback()[];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    updateTokensPerEth(uint256)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ];
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[↕️ ↩️ ];
+    getTokens()[🪙];
+TX []
+    fallback()[];
+    getTokens()[🪙↕️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[];
+    getTokens()[🪙];
+    getTokens()[🪙];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    getTokens()[🪙↕️ ↩️ ↩️ ];
+    getTokens()[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    transfer(address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ];
+    transfer(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[];
+    transferOwnership(address)[];
+    approve(address,uint256):(bool)[];
+TX []
+    fallback()[];
+    updateTokensPerEth(uint256)[];
+TX []
+    fallback()[];
+    withdraw()[];
+TX []
+    fallback()[];
+    withdrawForeignTokens(address):(bool)[];
+    approve(address,uint256):(bool)[];
+TX []
+    finishDistribution():(bool)[];
+    fallback()[];
+TX []
+    finishZeroDistribution():(bool)[];
+    fallback()[];
+TX []
+    getTokenBalance(address,address):(uint256)[];
+    approve(address,uint256):(bool)[];
+TX []
+    getTokenBalance(address,address):(uint256)[];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    getTokens()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    fallback()[];
+    getTokens()[];
+    withdraw()[];
+TX []
+    maxTotalValue():(uint256)[↕️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    minContribution():(uint256)[];
+TX []
+    name():(string)[];
+TX []
+    name():(string)[↕️ ↩️ ↩️ ];
+    name():(string)[↕️ ↩️ ];
+TX []
+    symbol():(string)[];
+TX []
+    tokensPerEth():(uint256)[];
+TX []
+    totalDistributed():(uint256)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    totalRemaining():(uint256)[];
+TX []
+    totalRemaining():(uint256)[🪙↕️ ↩️ ];
+    totalRemaining():(uint256)[🪙];
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    totalSupply():(uint256)[↕️ ↩️ ];
+TX []
+    transfer(address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transfer(address,uint256):(bool)[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+    withdraw()[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+    fallback()[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    finishZeroDistribution():(bool)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ↩️ ];
+    transferFrom(address,address,uint256):(bool)[↕️ ↩️ ];
+TX []
+    value():(uint256)[];
+TX []
+    value():(uint256)[🪙↕️ ↩️ ];
+TX []
+    value():(uint256)[↕️ ↩️ ];
+    value():(uint256)[];
+TX []
+    withdraw()[🪙];
+    adminClaimAirdropMultiple(address[],uint256)[];
+TX []
+    zeroDistrFinished():(bool)[];
+TX []
+    zeroDistrFinished():(bool)[↕️ ↩️ ↩️ ↩️ ];
+    approve(address,uint256):(bool)[];
+    transferFrom(address,address,uint256):(bool)[↕️ ];
+--------------------------------------------------------------
+== ABI coverage: ==
+1aa91345 ==> 1
+balanceOf(address):(uint256) ==> 1
+symbol():(string) ==> 1
+finishDistribution():(bool) ==> 1
+minContribution():(uint256) ==> 1
+distributionFinished():(bool) ==> 1
+tokensPerEth():(uint256) ==> 1
+transferOwnership(address) ==> 1
+maxTotalValue():(uint256) ==> 1
+blacklist(address):(bool) ==> 1
+totalSupply():(uint256) ==> 2
+decimals():(uint256) ==> 2
+adminClaimAirdrop(address,uint256) ==> 2
+zeroDistrFinished():(bool) ==> 2
+7fffffff ==> 2
+updateTokensPerEth(uint256) ==> 2
+getTokenBalance(address,address):(uint256) ==> 2
+totalDistributed():(uint256) ==> 2
+ffffffff ==> 2
+name():(string) ==> 3
+burn(uint256) ==> 3
+finishZeroDistribution():(bool) ==> 3
+value():(uint256) ==> 4
+withdrawForeignTokens(address):(bool) ==> 4
+adminClaimAirdropMultiple(address[],uint256) ==> 6
+totalRemaining():(uint256) ==> 6
+GPaid() ==> 11
+transfer(address,uint256):(bool) ==> 13
+withdraw() ==> 14
+getTokens() ==> 14
+transferFrom(address,address,uint256):(bool) ==> 43
+0 ==> 93
+approve(address,uint256):(bool) ==> 108
+allowance(address,address):(uint256) ==> 0
+totalValue():(uint256) ==> 0
+
+Maximum ABI coverage with: ./w6/crashes/../queue/id:000105,src:000002,time:893,execs:5377,EM-_____-_U_________AIL_______-_____-_____-ADH_,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 136
+Average number of TXs: 2.5955882352941178
+Number of unique TX sequences: 102
+Number of unique TX sequences (consecutive deduplicated): 84

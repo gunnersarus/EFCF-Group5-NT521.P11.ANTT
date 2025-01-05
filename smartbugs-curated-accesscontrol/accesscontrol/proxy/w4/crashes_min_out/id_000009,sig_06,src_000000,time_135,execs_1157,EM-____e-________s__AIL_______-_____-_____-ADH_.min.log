@@ -1,0 +1,77 @@
+[using trimmer code]
+[Trimmer Stage: Start]
+[Trimmer Stage: Transactions(2)] ✔️
+[Trimmer Stage: Transactions(1)] ❌
+[Trimmer Stage: Transactions(0)] ✔️
+[Trimmer Stage: TransactionHeader(0, BlockAdvance(0))] ✔️
+[Trimmer Stage: Returns(0, 1)] ✔️
+[Trimmer Stage: Returns(0, 0)] ✔️
+[Trimmer Stage: Inputs(0, 196)] ✔️
+[Trimmer Stage: Inputs(0, 164)] ✔️
+[Trimmer Stage: Inputs(0, 132)] ✔️
+[Trimmer Stage: Inputs(0, 100)] ✔️
+[Trimmer Stage: Inputs(0, 68)] ✔️
+[Trimmer Stage: Inputs(0, 36)] ❌
+[Trimmer Stage: Inputs(0, 4)] ❌
+[Trimmer Stage: Inputs(0, 0)] ❌
+[Trimmer Stage: Sender(0, 7)] ✔️
+[Trimmer Stage: Sender(0, 6)] ✔️
+[Trimmer Stage: Sender(0, 5)] ✔️
+[Trimmer Stage: Sender(0, 4)] ✔️
+[Trimmer Stage: Sender(0, 3)] ✔️
+[Trimmer Stage: Sender(0, 2)] ✔️
+[Trimmer Stage: Sender(0, 1)] ✔️
+[Trimmer Stage: Sender(0, 0)] ✔️
+[Trimmer Stage: Receiver(0, 8)] ✔️
+[Trimmer Stage: Receiver(0, 7)] ✔️
+[Trimmer Stage: Receiver(0, 6)] ✔️
+[Trimmer Stage: Receiver(0, 5)] ✔️
+[Trimmer Stage: Receiver(0, 4)] ✔️
+[Trimmer Stage: Receiver(0, 3)] ✔️
+[Trimmer Stage: Receiver(0, 2)] ✔️
+[Trimmer Stage: Receiver(0, 1)] ✔️
+[Trimmer Stage: Receiver(0, 0)] ✔️
+[Trimmer Stage: BlockHeader(Number(0))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(3814697265625))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(100000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10000))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(10))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(5))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(2))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(1))] ✔️
+[Trimmer Stage: BlockHeader(InitialEther(0))] ✔️
+[minimizing difficulty]
+[ sender/receiver selector TX[0] ]
+[ we try sorting the transaction list ]
+reduced testcases from 748 to 124 bytes (by 84 %) edit distance 654
+=== Before minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 10000000000000000000
+
+TX[0] with tx_sender[13]; tx_receiver[180]; call_value: 0x0; length: 164; block+=1; #returns=0
+  func: forward(address,bytes) (0x6fadcf72)
+  input: { address(0xcc079239d48f83be71dbbd18487f4acc279ee929), bytes[34](0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c),  }
+TX[1] with tx_sender[171]; tx_receiver[8]; call_value: 0x0; length: 228; block+=1; #returns=2
+  func: forward(address,bytes) (0x6fadcf72)
+  input: { address(0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61), bytes[127](0x96b97b705def03d284c6c46101c4050cebf08ac0f8580190136d4fb870488a7555a23e5f50b9cabcc48b0db68c92d99d60b5ea05ff17e51385793e53910dc81d0fe5b8574534d65911bcddc16d5704b9c945b9a272892099e19835a369e84fdee7fd215ad32981978cffbc46ab08880d3aabf6dd28d7fcd5e23a877dbacdcc),  }
+  returns:
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+    return val: 1; allows reenter: 1; data: 0x0000000000000000000000000000000000000000000000000000000000000000
+TX[2] with tx_sender[47]; tx_receiver[55]; call_value: 0x0; length: 196; block+=1; #returns=0
+  func: forward(address,bytes) (0x6fadcf72)
+  input: { address(0xc5442b23ea5ca66c3441e62bf6456f010646ae94), bytes[77](0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c),  }
+=== After minimizing: ===
+Block header:
+  number: 0
+  difficulty: 0
+  gas_limit: 0
+  timestamp: 0
+  initial_ether: 0
+
+TX[0] with tx_sender[0]; tx_receiver[0]; call_value: 0x0; length: 68; block+=0; #returns=0
+  func: forward(address,bytes) (0x6fadcf72)
+  input: 000000000000000000000000c1af1d7e20374a20d4d3914c1a1b0ddfef99cc61 0000000000000000000000000000000000000000000000000000000000000040  [failed to decode]

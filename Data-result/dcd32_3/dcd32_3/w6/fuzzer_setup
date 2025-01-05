@@ -1,0 +1,12 @@
+# environment variables:
+AFL_BENCH_UNTIL_CRASH=True
+AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_NO_AFFINITY=1
+AFL_NO_AUTODICT=1
+AFL_NO_UI=1
+AFL_MAP_SIZE=262144
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-m' '2000' '-i' 'seeds' '-o' '.' '-x' '/tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/dict/BitherumToken.dict' '-S' 'w6' '-p' 'fast' '-V' '86400' '--' '/tmp/efcf/BitherumToken.src.b72f089bfd6baef09636e3648fb00b7e.qx5j5qh3.fuzz/fuzz/build/afuzz/BitherumToken/fuzz_multitx'

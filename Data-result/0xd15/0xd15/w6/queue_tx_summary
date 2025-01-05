@@ -1,0 +1,213 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseEther(address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    disperseEther(address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    disperseToken(address,address[],uint256[])[];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    fallback()[↕️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[];
+    disperseTokenSimple(address,address[],uint256[])[];
+    fallback()[↕️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseEther(address[],uint256[])[🪙];
+    fallback()[];
+TX []
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+TX []
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseToken(address,address[],uint256[])[];
+    fallback()[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseEther(address[],uint256[])[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+    fallback()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    disperseToken(address,address[],uint256[])[];
+    fallback()[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[];
+    fallback()[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ↩️ ↩️ ];
+    fallback()[↕️ ];
+    disperseToken(address,address[],uint256[])[];
+TX []
+    disperseTokenSimple(address,address[],uint256[])[↕️ ];
+    fallback()[↕️ ];
+    disperseToken(address,address[],uint256[])[];
+    disperseEther(address[],uint256[])[🪙];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 12
+disperseEther(address[],uint256[]) ==> 57
+disperseTokenSimple(address,address[],uint256[]) ==> 59
+disperseToken(address,address[],uint256[]) ==> 60
+
+Maximum ABI coverage with: ./w6/crashes/../queue/id:000093,src:000002,time:918,execs:2721,EM-_____-____ml_____AIL_______-____r-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 94
+Average number of TXs: 2
+Number of unique TX sequences: 39
+Number of unique TX sequences (consecutive deduplicated): 29

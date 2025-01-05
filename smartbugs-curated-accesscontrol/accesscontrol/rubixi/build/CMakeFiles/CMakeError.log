@@ -1,0 +1,18 @@
+CXX compiler IPO check failed with the following output:
+Change Dir: /efcf/src/eEVM/fuzz/build/afuzz/rubixi/CMakeFiles/_CMakeLTOTest-CXX/bin
+
+Run Build Command(s):/usr/bin/ninja && [1/4] Building CXX object CMakeFiles/foo.dir/foo.cpp.o
+[2/4] Building CXX object CMakeFiles/boo.dir/main.cpp.o
+[3/4] Linking CXX static library libfoo.a
+[4/4] Linking CXX executable boo
+FAILED: boo 
+: && /usr/local/bin/afl-clang-lto++ -flto=thin  CMakeFiles/boo.dir/main.cpp.o -o boo  libfoo.a && :
+Error: init function could not be found (this should not happen)
+Error: init function could not be found (this should not happen)
+pure virtual method called
+terminate called without an active exception
+clang: error: unable to execute command: Aborted
+clang: error: linker command failed due to signal (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+

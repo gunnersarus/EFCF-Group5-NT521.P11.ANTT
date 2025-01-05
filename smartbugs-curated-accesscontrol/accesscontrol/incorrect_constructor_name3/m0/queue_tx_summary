@@ -1,0 +1,178 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [🪙]
+    fallback()[🪙];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+TX [⏰🪙]
+    0x1000000()[];
+TX [🪙]
+    0x1000000()[🪙];
+TX []
+    0x54a47ff0()[🪙];
+    withdraw()[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    0x80000000()[🪙];
+TX []
+    Constructor()[🪙];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    0xac7e15e4()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    0xac7e15e4()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Constructor()[];
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+TX []
+    Constructor()[];
+    Constructor()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    fallback()[🪙];
+    Constructor()[↕️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    Constructor()[];
+    withdraw()[];
+TX []
+    Constructor()[];
+    fallback()[🪙];
+    withdraw()[];
+TX [#]
+    Constructor()[];
+    fallback()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[];
+TX []
+    Constructor()[];
+    fallback()[🪙];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Constructor()[];
+    withdraw()[];
+    fallback()[🪙];
+TX []
+    Constructor()[];
+    withdraw()[];
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    Constructor()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    Constructor()[];
+TX []
+    Constructor()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    Constructor()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    Constructor()[↕️ ↩️ ];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙];
+    Constructor()[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX [⏰]
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙↕️ ];
+    fallback()[🪙↕️ ];
+    Constructor()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ↩️ ↩️ ];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[];
+TX []
+    fallback()[🪙↕️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw()[🪙];
+TX []
+    withdraw()[];
+    fallback()[🪙];
+--------------------------------------------------------------
+== ABI coverage: ==
+54a47ff0 ==> 1
+80000000 ==> 1
+1000000 ==> 2
+ac7e15e4 ==> 2
+withdraw() ==> 29
+Constructor() ==> 35
+0 ==> 60
+
+Maximum ABI coverage with: ./m0/crashes/../queue/id:000044,src:000000,time:604,execs:24402,EM-_____-___M_l__s__A___d_O_R_-b__E_-acr__-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 46
+Average number of TXs: 2.8260869565217392
+Number of unique TX sequences: 31
+Number of unique TX sequences (consecutive deduplicated): 18

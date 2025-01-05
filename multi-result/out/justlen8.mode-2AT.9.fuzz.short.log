@@ -1,0 +1,201 @@
+exec: /usr/bin/time -v -o /efcf/out/justlen8.mode-2AT.9.fuzz.time ./fuzz/launch-aflfuzz.sh justlen8 172800 mode-2AT.9
+[AFL] sanity check
+[AFL] good - running in SOURCE_DIR=/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz
+[AFL] utilizing 7 cores
+[AFL] fuzzing time is 172800
+Using afl-fuzz from: /usr/local/bin/afl-fuzz
++ sysctl -w kernel.core_pattern=core
+sysctl: setting key "kernel.core_pattern", ignoring: Read-only file system
++ set +x
++ sysctl -w kernel.core_uses_pid=0
+sysctl: setting key "kernel.core_uses_pid", ignoring: Read-only file system
++ set +x
+[+] checking build
+/efcf/src/ethmutator /tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz
+/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz
+[+] running afl-fuzz in directory: /tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz/fuzz/out/justlen8_launch-aflfuzz_mode-2AT.9
+cp: cannot stat '/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz/fuzz/generic_seeds/*.efcf': No such file or directory
+===========================================================
+testing harness binary with empty seed input:
+Reading 1 bytes from seeds/nullbyte
+= Constructing global state =
+target contract address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d
+with 6 attacker accounts with initial funds: 0x1000000000000000000000000000000000000000000000000
+Running constructor transaction with total input length 1617 (built-in constructor code is 1617 + 0)
+constructor finished
+returned code of length 1571 (compare to built-in code size 1571)
+== GLOBAL STATE Block 100000 timestamp 1420066800 ==
+  ATTACKER address: 0xc04689c0c5d48cec7275152b3026b53f6f78d03d balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc1af1d7e20374a20d4d3914c1a1b0ddfef99cc61 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc2018c3f08417e77b94fb541fed2bf1e09093edd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc3cf2af7ea37d6d9d0a23bdf84c71e8c099d03c2 balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 1
+  ATTACKER address: 0xc4b803ea8bc30894cc4672a9159ca000d377d9a3 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  ATTACKER address: 0xc5442b23ea5ca66c3441e62bf6456f010646ae94 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  CREATOR  address: 0xcc079239d48f83be71dbbd18487f4acc279ee929 balance: 0x1000000000000000000000000000000000000000000000000 code length: 0 specialized: 0 is_mocked: 0
+  FRIEND   address: 0xcf7c6611373327e75f8ef1beef8227afb89816dd balance: 0x1000000000000000000000000000000000000000000000000 code length: 1 specialized: 0 is_mocked: 0
+  TARGET   address: 0xdeadbeefc5d48cec7275152b3026b53f6f78d03d balance: 0x0 code length: 1571 specialized: 1 is_mocked: 0
+           address: 0xe0af163ebeab9bb2968fee294a22ca4fe2fa3a06 balance: 0x0 code length: 0 specialized: 0 is_mocked: 0
+
+running fuzzcase
+Block Header
+setting initial balance from 0 to 0
+
+[STATS] top-level transaction count: 0
+[STATS] all transaction count: 0
+[STATS] all mocked returns: 0
+Execution successful.
+===========================================================
+[INFO] increasing stack-size limit to: unlimited
+[ENSEMBLE] main (with deterministic)
+[ENSEMBLE] compare instance (with cmpare logging/tracing enabled)
+[ENSEMBLE] custom mutator only
+[ENSEMBLE] worker 3 (with -p fast)
+[ENSEMBLE] worker 4 (with -p explore)
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] loaded contract ABI with 13 functions
+[EthMutator] loaded contract ABI with 13 functions
+[EthMutator] Dictionary Update => Dict(#values=74, #4bytes=17, #address=9, #bytes=30, #strings=14) (loaded from file "/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz/fuzz/dict/justlen8.dict") 
+[EthMutator] Dictionary Update => Dict(#values=74, #4bytes=17, #address=9, #bytes=30, #strings=14) (loaded from file "/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz/fuzz/dict/justlen8.dict") 
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] loaded contract ABI with 13 functions
+[EthMutator] Dictionary Update => Dict(#values=74, #4bytes=17, #address=9, #bytes=30, #strings=14) (loaded from file "/tmp/efcf-fuzz/justlen8.mode-2AT.9.chGkt0.fuzz/fuzz/dict/justlen8.dict") 
+[1;92m[+] [0mLoaded environment variable AFL_SKIP_CPUFREQ with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_AFFINITY with value 1[0m
+[1;93m[!] [1;97mWARNING: [0mPotentially mistyped AFL environment variable: USE_CUSTOM_MUTATOR=1, did you mean AFL_USE_CUSTOM_MUTATOR=1?[0m
+[1;92m[+] [0mLoaded environment variable AFL_BENCH_UNTIL_CRASH with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_UI with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_CUSTOM_MUTATOR_LIBRARY with value /efcf/src/ethmutator/target/release/libafl_ethmutator.so[0m
+[0;36mafl-fuzz++4.01a[0m based on afl by Michal Zalewski and a large online community
+[1;92m[+] [0mafl++ is maintained by Marc "van Hauser" Heuse, Heiko "hexcoder" Eißfeldt, Andrea Fioraldi and Dominik Maier[0m
+[1;92m[+] [0mafl++ is open source, get it at https://github.com/AFLplusplus/AFLplusplus[0m
+[1;92m[+] [0mNOTE: This is v3.x which changes defaults and behaviours - see README.md[0m
+[1;94m[*] [0mGetting to work...[0m
+[1;92m[+] [0mUsing rare edge focus power schedule (RARE)[0m
+[1;92m[+] [0mEnabled testcache with 50 MB[0m
+[1;92m[+] [0mGenerating fuzz data with a a length of min=1 max=1048576[0m
+[1;94m[*] [0mChecking core_pattern...[0m
+[1;92m[+] [0mDisabling the UI because AFL_NO_UI is set.[0m
+[1;92m[+] [0mYou have 8 CPU cores and 1 runnable tasks (utilization: 12%).[0m
+[1;92m[+] [0mTry parallel jobs - see /usr/local/share/doc/afl/parallel_fuzzing.md.[0m
+[1;94m[*] [0mSetting up output directories...[0m
+[1;93m[!] [1;97mWARNING: [0mNot binding to a CPU core (AFL_NO_AFFINITY set).[0m
+[1;94m[*] [0mLoading custom mutator library from '/efcf/src/ethmutator/target/release/libafl_ethmutator.so'...[0m
+[1;94m[*] [0moptional symbol 'afl_custom_post_process' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation_probability' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_queue_new_entry' not found[0m
+[1;92m[+] [0mCustom mutator '/efcf/src/ethmutator/target/release/libafl_ethmutator.so' installed successfully.[0m
+[1;94m[*] [0mScanning 'seeds'...[0m
+[1;92m[+] [0mLoaded a total of 3 seeds.[0m
+[1;94m[*] [0mCreating hard links for all input files...[0m
+[1;94m[*] [0mValidating target binary...[0m
+[1;92m[+] [0m[1;95mPersistent mode binary detected.[0m
+[1;92m[+] [0m[1;95mDeferred forkserver binary detected.[0m
+[1;94m[*] [0mSpinning up the fork server...[0m
+[1;92m[+] [0mAll right - fork server is up.[0m
+[1;94m[*] [0mUsing SHARED MEMORY FUZZING feature.[0m
+[1;94m[*] [0mTarget map size: 5777[0m
+[1;94m[*] [0mNo auto-generated dictionary tokens to reuse.[0m
+----------- [SNIP] ------------
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 1591 rounds (Some(1591) base mutations, Some(60) deterministic round, and 227 additional havocs; fuzzer requested 663 rounds; queue size 2; previously fuzzed 0)
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 112 new corpus items found, 10.54% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 11 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 120 new corpus items found, 10.54% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 12 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 124 new corpus items found, 10.97% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 13 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 109 new corpus items found, 10.71% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 14 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 113 new corpus items found, 10.54% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 15 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[?25h[1;91m
+
++++ Testing aborted by user +++
+[0m[1;94m[*] [0mStatistics: 1 new corpus items found, 2.37% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 0 hrs, 0 min, 15 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m
+[+] computing EVM-block coverage
+seeds.evmcov BB-Coverage Percent: 3.5398230088495577
+all.evmcov BB-Coverage Percent: 83.18584070796462
+rm: cannot remove 'queue_tx_summary': No such file or directory
+rm: cannot remove 'crashes_tx_summary': No such file or directory
+[+] post-processing AFL results
+    |-> analyzing dir ./c1/crashes of c1
+    |-> minimizing dir ./c1/crashes of c1
+    |-> summarizing dir ./c1/crashes/../queue/ of c1
+    |-> analyzing dir ./e2/crashes of e2
+    |-> minimizing dir ./e2/crashes of e2
+    |-> summarizing dir ./e2/crashes/../queue/ of e2
+    |-> analyzing dir ./m0/crashes of m0
+    |-> minimizing dir ./m0/crashes of m0
+    .
+    |-> summarizing dir ./m0/crashes/../queue/ of m0
+    |-> summarizing dir ./m0/crashes/../crashes_min of m0
+    |-> analyzing dir ./w3/crashes of w3
+    |-> minimizing dir ./w3/crashes of w3
+    |-> summarizing dir ./w3/crashes/../queue/ of w3
+    |-> analyzing dir ./w4/crashes of w4
+    |-> minimizing dir ./w4/crashes of w4
+    |-> summarizing dir ./w4/crashes/../queue/ of w4
+    |-> analyzing dir ./w5/crashes of w5
+    |-> minimizing dir ./w5/crashes of w5
+    |-> summarizing dir ./w5/crashes/../queue/ of w5
+    |-> analyzing dir ./w6/crashes of w6
+    |-> minimizing dir ./w6/crashes of w6
+    |-> summarizing dir ./w6/crashes/../queue/ of w6
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+    turn_on_length_checking()[];
+    plus5(address)[];
+    double(address)[];
+    test_long_8()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+plus5(address) ==> 1
+double(address) ==> 1
+test_long_8() ==> 1
+turn_on_length_checking() ==> 1
+decimate() ==> 0
+echidna_oracle():(bool) ==> 0
+empty1() ==> 0
+empty2() ==> 0
+empty3() ==> 0
+halve() ==> 0
+pop_1() ==> 0
+push_1(address) ==> 0
+turn_off_length_checking() ==> 0
+
+Maximum ABI coverage with: ./crashes_min/m0_id:000000,sig:06,src:000000,time:12373,execs:58876,EM-_____-____ml_____AI____O__p-_____-_c___-ADH_
+--------------------------------------------------------------
+Number of fuzzcases: 1
+Average number of TXs: 4
+Number of unique TX sequences: 1
+Number of unique TX sequences (consecutive deduplicated): 1
+[BUG] controlled selfdestruct | selfdestruct to attacker 0xc04689c0c5d48cec7275152b3026b53f6f78d03d
+[+] cleanup
+... killing remaining harness processes
+... clean up core files
+[./fuzz/launch-aflfuzz.sh justlen8 172800 mode-2AT.9] is done

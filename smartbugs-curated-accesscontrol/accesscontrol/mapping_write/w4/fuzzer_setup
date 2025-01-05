@@ -1,0 +1,11 @@
+# environment variables:
+AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_NO_AFFINITY=1
+AFL_NO_AUTODICT=1
+AFL_NO_UI=1
+AFL_MAP_SIZE=262144
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-m' '2000' '-i' 'seeds' '-o' '.' '-x' '/tmp/efcf/mapping_write.bin.3626c567d37ed42f497714becae921d3.dz4qug2t.fuzz/fuzz/dict/mapping_write.dict' '-S' 'w4' '-p' 'explore' '-V' '7200' '--' '/tmp/efcf/mapping_write.bin.3626c567d37ed42f497714becae921d3.dz4qug2t.fuzz/fuzz/build/afuzz/mapping_write/fuzz_multitx'

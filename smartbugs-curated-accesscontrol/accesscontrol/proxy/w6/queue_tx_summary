@@ -1,0 +1,50 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ];
+    forward(address,bytes)[↕️ ↩️ ];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[↕️ ↩️ ↩️ ↩️ ];
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[↕️ ];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 11
+forward(address,bytes) ==> 40
+
+Maximum ABI coverage with: ./w6/crashes/../queue/id:000003,src:000002,time:1,execs:37,EM-_____-_____________________-_____-_c___-AD__,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 32
+Average number of TXs: 1.59375
+Number of unique TX sequences: 7
+Number of unique TX sequences (consecutive deduplicated): 4

@@ -1,0 +1,11 @@
+# environment variables:
+AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_NO_AFFINITY=1
+AFL_NO_AUTODICT=1
+AFL_NO_UI=1
+AFL_MAP_SIZE=262144
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-m' '2000' '-i' 'seeds' '-o' '.' '-x' '/tmp/efcf/multiowned_vulnerable.bin.63bcd4343fc4790828ae3dde710c5725.r5vt23ma.fuzz/fuzz/dict/multiowned_vulnerable.dict' '-S' 'w3' '-p' 'fast' '-V' '7200' '--' '/tmp/efcf/multiowned_vulnerable.bin.63bcd4343fc4790828ae3dde710c5725.r5vt23ma.fuzz/fuzz/build/afuzz/multiowned_vulnerable/fuzz_multitx'

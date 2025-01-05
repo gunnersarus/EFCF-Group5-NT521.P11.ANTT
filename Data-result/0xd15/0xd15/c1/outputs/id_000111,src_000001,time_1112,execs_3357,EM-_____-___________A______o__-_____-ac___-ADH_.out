@@ -1,0 +1,3 @@
+Reading 1812 bytes from ./queue/id:000111,src:000001,time:1112,execs:3357,EM-_____-___________A______o__-_____-ac___-ADH_
+Contract leaks ether to potentially controllable address: 0xffffffffffffffffffffffffffffffffffffffff
+Execution successful.

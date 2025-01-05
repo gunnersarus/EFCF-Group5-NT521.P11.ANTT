@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/GTIX/3rdparty/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,629 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX [⏰]
+    0x0()[];
+TX [⏰🪙]
+    0x0()[🪙];
+TX [⏰]
+    0x28()[🪙];
+TX []
+    0x436e6e4f()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    balance(address):(uint256)[🪙];
+TX [#⏰🪙]
+    balance(address):(uint256)[];
+TX []
+    balance(address):(uint256)[];
+TX [#⏰🪙]
+    balance(address):(uint256)[🪙];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[];
+TX []
+    balance(address):(uint256)[↕️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ↩️ ];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    withdraw()[];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    withdraw()[];
+TX []
+    balance(address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    deposit(uint256,address,string)[];
+TX []
+    deposit(uint256,address,string)[🪙];
+TX [🪙]
+    deposit(uint256,address,string)[🪙];
+TX []
+    fallback()[🪙];
+TX [#⏰🪙]
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    signup(string)[];
+TX [⏰🪙]
+    signup(string)[🪙];
+TX []
+    signup(string)[];
+    0xaa3c59fa()[🪙];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    0x40b0a914()[🪙];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[];
+TX [#]
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+    signup(string)[];
+    withdraw()[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    signup(string)[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+TX [#⏰🪙]
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX [⏰🪙]
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX [🪙]
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX [#]
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX [#]
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    fallback()[];
+TX []
+    signup(string)[];
+    fallback()[];
+    fallback()[🪙];
+    fallback()[🪙];
+    0x0()[];
+    fallback()[🪙↕️ ];
+TX [⏰🪙]
+    signup(string)[↕️ ];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[🪙];
+    fallback()[];
+    fallback()[];
+    deposit(uint256,address,string)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    signup(string)[];
+TX []
+    signup(string)[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX []
+    signup(string)[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    signup(string)[];
+    signup(string)[];
+TX []
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+TX []
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    withdraw()[];
+TX [🪙]
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+TX [⏰]
+    signup(string)[↕️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[];
+    signup(string)[];
+    fallback()[];
+TX []
+    signup(string)[];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+    signup(string)[];
+    withdraw()[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    signup(string)[];
+    withdraw()[↕️ ↩️ ↩️ ];
+    signup(string)[];
+TX []
+    signup(string)[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[];
+TX []
+    signup(string)[];
+    withdraw()[];
+    fallback()[];
+TX []
+    signup(string)[];
+    withdraw()[];
+    signup(string)[];
+    signup(string)[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    withdraw()[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+TX []
+    signup(string)[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    signup(string)[];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+TX [#⏰🪙]
+    user(address):(bytes32)[↕️ ↩️ ];
+TX []
+    user(address):(bytes32)[];
+TX [#⏰🪙]
+    user(address):(bytes32)[🪙];
+TX []
+    user(address):(bytes32)[↕️ ↩️ ];
+    user(address):(bytes32)[];
+TX []
+    user(address):(bytes32)[↕️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ];
+    user(address):(bytes32)[↕️ ];
+TX []
+    user(address):(bytes32)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+TX []
+    user(address):(bytes32)[↕️ ↩️ ];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    signup(string)[];
+    withdraw()[];
+TX []
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    user(address):(bytes32)[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX [#⏰🪙]
+    withdraw()[🪙];
+TX []
+    withdraw()[];
+TX []
+    withdraw()[];
+    balance(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    balance(address):(uint256)[];
+    signup(string)[];
+TX []
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+    fallback()[↕️ ↩️ ↩️ ];
+TX []
+    withdraw()[];
+    fallback()[];
+TX []
+    withdraw()[];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    withdraw()[];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX [🪙]
+    withdraw()[];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    withdraw()[↕️ ↩️ ];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw()[];
+    signup(string)[];
+    fallback()[];
+TX []
+    withdraw()[];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    withdraw()[];
+    signup(string)[];
+    signup(string)[];
+    signup(string)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙];
+TX []
+    withdraw()[];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+    signup(string)[];
+TX []
+    withdraw()[];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    signup(string)[];
+TX []
+    withdraw()[];
+    signup(string)[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ↩️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ↩️ ];
+    signup(string)[];
+TX []
+    withdraw()[];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+    user(address):(bytes32)[↕️ ↩️ ↩️ ];
+TX []
+    withdraw()[];
+    withdraw()[↕️ ↩️ ];
+    fallback()[↕️ ↩️ ];
+TX []
+    withdraw()[];
+    withdraw()[];
+    signup(string)[↕️ ↩️ ↩️ ↩️ ];
+    signup(string)[↕️ ↩️ ];
+    deposit(uint256,address,string)[🪙↕️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+    fallback()[];
+TX [🪙]
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    withdraw()[↕️ ↩️ ];
+    signup(string)[];
+    withdraw()[↕️ ↩️ ];
+TX []
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+TX []
+    withdraw()[↕️ ↩️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    deposit(uint256,address,string)[🪙];
+TX []
+    withdraw()[↕️ ↩️ ];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[];
+    withdraw()[↕️ ↩️ ↩️ ↩️ ];
+    withdraw()[];
+    signup(string)[];
+TX []
+    withdraw()[];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw()[];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ];
+    withdraw()[];
+TX []
+    withdraw_time(address):(uint256)[🪙];
+TX []
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw_time(address):(uint256)[↕️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ];
+    withdraw()[];
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw()[];
+    signup(string)[];
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+TX []
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[↕️ ↩️ ];
+    withdraw_time(address):(uint256)[↕️ ↩️ ↩️ ];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+    withdraw_time(address):(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+28 ==> 1
+40b0a914 ==> 1
+436e6e4f ==> 1
+aa3c59fa ==> 1
+0 ==> 28
+user(address):(bytes32) ==> 32
+withdraw_time(address):(uint256) ==> 42
+balance(address):(uint256) ==> 48
+deposit(uint256,address,string) ==> 136
+withdraw() ==> 138
+signup(string) ==> 144
+
+Maximum ABI coverage with: ./default/crashes/../queue/id:000122,src:000084,time:199910,execs:1326967,EM-_____-_______________d_____-___E_-_____-____
+--------------------------------------------------------------
+Number of fuzzcases: 144
+Average number of TXs: 3.9722222222222223
+Number of unique TX sequences: 90
+Number of unique TX sequences (consecutive deduplicated): 48

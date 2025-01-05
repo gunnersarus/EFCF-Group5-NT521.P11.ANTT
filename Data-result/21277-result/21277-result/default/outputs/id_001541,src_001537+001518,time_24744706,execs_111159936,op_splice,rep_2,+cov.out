@@ -1,0 +1,3 @@
+Reading 1188 bytes from ./queue/id:001541,src:001537+001518,time:24744706,execs:111159936,op:splice,rep:2,+cov
+Contract leaks ether to potentially controllable address: 0x1
+Execution successful.

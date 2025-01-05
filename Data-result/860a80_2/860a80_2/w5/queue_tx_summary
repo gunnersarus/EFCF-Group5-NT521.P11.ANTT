@@ -1,0 +1,72 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    approve(address,uint256):(bool)[];
+TX []
+    burn(uint256):(bool)[];
+TX []
+    decreaseApproval(address,uint256):(bool)[];
+TX []
+    depositEtherToContract()[🪙];
+TX []
+    destoryContract(address)[];
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    freezeAccount(address,bool)[];
+TX []
+    freezeFunds(uint256):(bool)[];
+TX []
+    freezeFundsFrom(address,bool,uint256)[];
+TX []
+    increaseSupply(address,uint256,bool):(bool)[];
+TX []
+    transfer(address,uint256):(bool)[];
+TX []
+    transferEtherToOwner(uint256)[];
+TX []
+    transferFrom(address,address,uint256):(bool)[];
+TX []
+    transferOwner(address)[];
+TX []
+    transferTokenToOwner(uint256):(uint256)[];
+--------------------------------------------------------------
+== ABI coverage: ==
+increaseSupply(address,uint256,bool):(bool) ==> 1
+transferOwner(address) ==> 1
+transferEtherToOwner(uint256) ==> 1
+transferTokenToOwner(uint256):(uint256) ==> 1
+destoryContract(address) ==> 1
+transfer(address,uint256):(bool) ==> 1
+freezeFundsFrom(address,bool,uint256) ==> 1
+freezeAccount(address,bool) ==> 1
+approve(address,uint256):(bool) ==> 2
+freezeFunds(uint256):(bool) ==> 2
+decreaseApproval(address,uint256):(bool) ==> 2
+depositEtherToContract() ==> 2
+0 ==> 3
+transferFrom(address,address,uint256):(bool) ==> 3
+burn(uint256):(bool) ==> 3
+allowance(address,address):(uint256) ==> 0
+balanceOf(address):(uint256) ==> 0
+balanceOfAvailable(address):(uint256) ==> 0
+balanceOfFrozen(address):(uint256) ==> 0
+burnFrom(address,uint256):(bool) ==> 0
+decimals():(uint8) ==> 0
+frozenAccount(address):(bool) ==> 0
+increaseApproval(address,uint256):(bool) ==> 0
+initialSupply():(uint256) ==> 0
+name():(string) ==> 0
+owner():(address) ==> 0
+symbol():(string) ==> 0
+totalSupply():(uint256) ==> 0
+
+Maximum ABI coverage with: ./w5/crashes/../queue/id:000025,src:000002,time:33,execs:259,EM-_____-_____________________-_____-_c___-AD__
+--------------------------------------------------------------
+Number of fuzzcases: 26
+Average number of TXs: 0.9615384615384616
+Number of unique TX sequences: 16
+Number of unique TX sequences (consecutive deduplicated): 16

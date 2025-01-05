@@ -1,0 +1,29 @@
+	Command being timed: "env AFL_NO_UI=1 AFL_CUSTOM_MUTATOR_LIBRARY=/efcf/src/ethmutator/target/release/libafl_ethmutator.so CONTRACT_DICT=/tmp/efcf/mycontract.bin.9bed9a2458c9424f3e09787e02928cdf.wy8eg65p.fuzz/fuzz/dict/mycontract.dict CONTRACT_ABI=/tmp/efcf/mycontract.bin.9bed9a2458c9424f3e09787e02928cdf.wy8eg65p.fuzz/fuzz/abi/mycontract.abi EM_ALLOW_COMPTRACE=0 EVM_CREATE_TX_INPUT= afl-fuzz -m 2000 -i seeds -o . -x /tmp/efcf/mycontract.bin.9bed9a2458c9424f3e09787e02928cdf.wy8eg65p.fuzz/fuzz/dict/mycontract.dict -S w10 -p explore -V 7200 -- /tmp/efcf/mycontract.bin.9bed9a2458c9424f3e09787e02928cdf.wy8eg65p.fuzz/fuzz/build/afuzz/mycontract/fuzz_multitx"
+	User time (seconds): 789.12
+	System time (seconds): 2951.42
+	Percent of CPU this job got: 51%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:59:55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 204204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 15
+	Minor (reclaiming a frame) page faults: 71625
+	Voluntary context switches: 683461624
+	Involuntary context switches: 20290644
+	Swaps: 0
+	File system inputs: 144
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+utputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

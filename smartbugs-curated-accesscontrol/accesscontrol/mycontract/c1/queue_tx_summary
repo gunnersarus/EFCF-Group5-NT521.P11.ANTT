@@ -1,0 +1,41 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    0x0()[🪙];
+TX []
+    0x0()[];
+TX []
+    0x1007f()[🪙];
+TX []
+    0x1a1a1a1a()[🪙];
+TX []
+    0x75c9e3ab()[🪙];
+TX [🪙]
+    0x927755f8()[🪙];
+TX []
+    0xff7f0000()[🪙];
+TX []
+    fallback()[];
+TX []
+    fallback()[🪙];
+TX []
+    sendTo(address,uint256)[];
+TX []
+    sendTo(address,uint256)[🪙];
+--------------------------------------------------------------
+== ABI coverage: ==
+1007f ==> 1
+1a1a1a1a ==> 1
+75c9e3ab ==> 1
+927755f8 ==> 1
+ff7f0000 ==> 1
+0 ==> 9
+sendTo(address,uint256) ==> 18
+
+Maximum ABI coverage with: ./c1/crashes/../queue/id:000019,sync:m0,src:000015,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 33
+Average number of TXs: 0.9696969696969697
+Number of unique TX sequences: 8
+Number of unique TX sequences (consecutive deduplicated): 8

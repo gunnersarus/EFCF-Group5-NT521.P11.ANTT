@@ -1,0 +1,377 @@
+[EthMutator] initialized with dictionary Dict(#values=55, #4bytes=4, #address=9, #bytes=5, #strings=2)
+[EthMutator] loaded contract ABI with 2 functions
+[EthMutator] Dictionary Update => Dict(#values=63, #4bytes=6, #address=9, #bytes=15, #strings=7) (loaded from file "/tmp/efcf/phishable.bin.fed91d2ba960fdc9afb8a8cbb79babcd.a1ndl_jd.fuzz/fuzz/dict/phishable.dict") 
+[1;92m[+] [0mLoaded environment variable AFL_SKIP_CPUFREQ with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_AFFINITY with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_BENCH_UNTIL_CRASH with value True[0m
+[1;92m[+] [0mLoaded environment variable AFL_NO_UI with value 1[0m
+[1;92m[+] [0mLoaded environment variable AFL_CUSTOM_MUTATOR_LIBRARY with value /efcf/src/ethmutator/target/release/libafl_ethmutator.so[0m
+[0;36mafl-fuzz++4.01a[0m based on afl by Michal Zalewski and a large online community
+[1;92m[+] [0mafl++ is maintained by Marc "van Hauser" Heuse, Heiko "hexcoder" Eißfeldt, Andrea Fioraldi and Dominik Maier[0m
+[1;92m[+] [0mafl++ is open source, get it at https://github.com/AFLplusplus/AFLplusplus[0m
+[1;92m[+] [0mNOTE: This is v3.x which changes defaults and behaviours - see README.md[0m
+[1;94m[*] [0mGetting to work...[0m
+[1;92m[+] [0mUsing rare edge focus power schedule (RARE)[0m
+[1;92m[+] [0mEnabled testcache with 50 MB[0m
+[1;92m[+] [0mGenerating fuzz data with a a length of min=1 max=1048576[0m
+[1;94m[*] [0mChecking core_pattern...[0m
+[1;92m[+] [0mDisabling the UI because AFL_NO_UI is set.[0m
+[1;92m[+] [0mYou have 12 CPU cores and 2 runnable tasks (utilization: 17%).[0m
+[1;92m[+] [0mTry parallel jobs - see /usr/local/share/doc/afl/parallel_fuzzing.md.[0m
+[1;94m[*] [0mSetting up output directories...[0m
+[1;93m[!] [1;97mWARNING: [0mNot binding to a CPU core (AFL_NO_AFFINITY set).[0m
+[1;94m[*] [0mLoading custom mutator library from '/efcf/src/ethmutator/target/release/libafl_ethmutator.so'...[0m
+[1;94m[*] [0moptional symbol 'afl_custom_post_process' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_havoc_mutation_probability' not found.[0m
+[1;94m[*] [0moptional symbol 'afl_custom_queue_new_entry' not found[0m
+[1;92m[+] [0mCustom mutator '/efcf/src/ethmutator/target/release/libafl_ethmutator.so' installed successfully.[0m
+[1;94m[*] [0mScanning 'seeds'...[0m
+[1;92m[+] [0mLoaded a total of 3 seeds.[0m
+[1;94m[*] [0mCreating hard links for all input files...[0m
+[1;94m[*] [0mValidating target binary...[0m
+[1;92m[+] [0m[1;95mPersistent mode binary detected.[0m
+[1;92m[+] [0m[1;95mDeferred forkserver binary detected.[0m
+[1;94m[*] [0mSpinning up the fork server...[0m
+[1;92m[+] [0mAll right - fork server is up.[0m
+[1;94m[*] [0mUsing SHARED MEMORY FUZZING feature.[0m
+[1;94m[*] [0mTarget map size: 4329[0m
+[1;94m[*] [0mNo auto-generated dictionary tokens to reuse.[0m
+[1;94m[*] [0mLoading extra dictionary from '/tmp/efcf/phishable.bin.fed91d2ba960fdc9afb8a8cbb79babcd.a1ndl_jd.fuzz/fuzz/dict/phishable.dict' (level 0)...[0m
+[1;94m[*] [0mLoaded 10 extra tokens, size range 1 B to 27 B.[0m
+[1;92m[+] [0mLoaded a total of 10 extras.[0m
+[1;94m[*] [0mAttempting dry run with 'id:000000,time:0,execs:0,orig:receive.bin'...[0m
+[1;90m    len = 56, map size = 88, exec speed = 87 us
+[0m[1;94m[*] [0mAttempting dry run with 'id:000001,time:0,execs:0,orig:nullbyte'...[0m
+[1;90m    len = 1, map size = 4, exec speed = 23 us
+[0m[1;94m[*] [0mAttempting dry run with 'id:000002,time:0,execs:0,orig:fallback.bin'...[0m
+[1;90m    len = 56, map size = 79, exec speed = 24 us
+[0m[1;92m[+] [0mAll test cases processed.[0m
+[1;92m[+] [0mHere are some useful stats:
+
+[1;90m    Test case count : [0m3 favored, 0 variable, 0 ignored, 3 total
+[1;90m       Bitmap range : [0m4 to 88 bits (average: 57.00 bits)
+[1;90m        Exec timing : [0m23 to 87 us (average: 45 us)
+[0m
+[1;94m[*] [0mNo -t option specified, so I'll use an exec timeout of 50 ms.[0m
+[1;92m[+] [0mAll set and ready to roll![0m
+[1;94m[*] [0mEntering queue cycle 1.[0m
+[1;94m[*] [0mFuzzing test case #0 (3 total, 0 crashes saved, perf_score=0, exec_us=87, hits=0, map=88, ascii=0)...[0m
+[EthMutator] init trim with 56 bytes 56 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 723 μsec with 56 bytes
+[EthMutator] new queue entry with 56 bytes and 1 tx - total queue len 1
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 5068 rounds (Some(5068) base mutations, Some(60) deterministic round, and 724 additional havocs; fuzzer requested 2534 rounds; queue size 1; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #1 (111 total, 0 crashes saved, perf_score=0, exec_us=23, hits=0, map=4, ascii=0)...[0m
+[EthMutator] init trim with 1 bytes 40 parsed bytes and 0 expected steps
+[EthMutator] starting fuzzing round on FuzzCase with 0 tx with 332 rounds (Some(332) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 166 rounds; queue size 1; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #3 (113 total, 0 crashes saved, perf_score=0, exec_us=16, hits=12152, map=92, ascii=0)...[0m
+[EthMutator] init trim with 56 bytes 56 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 304 μsec with 56 bytes
+[EthMutator] new queue entry with 56 bytes and 1 tx - total queue len 2
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 700 rounds (Some(700) base mutations, Some(60) deterministic round, and 100 additional havocs; fuzzer requested 350 rounds; queue size 2; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #4 (120 total, 0 crashes saved, perf_score=0, exec_us=19, hits=982, map=89, ascii=0)...[0m
+[EthMutator] init trim with 56 bytes 56 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 808 μsec with 56 bytes
+[EthMutator] new queue entry with 56 bytes and 1 tx - total queue len 3
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 660 rounds (Some(660) base mutations, Some(60) deterministic round, and 94 additional havocs; fuzzer requested 330 rounds; queue size 3; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #9 (125 total, 0 crashes saved, perf_score=0, exec_us=21, hits=27, map=112, ascii=0)...[0m
+[EthMutator] init trim with 83 bytes 83 parsed bytes and 8 expected steps
+[EthMutator] trim finish in 2127 μsec with 83 bytes
+[EthMutator] new queue entry with 83 bytes and 1 tx - total queue len 4
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 558 rounds (Some(558) base mutations, Some(60) deterministic round, and 79 additional havocs; fuzzer requested 279 rounds; queue size 4; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #12 (129 total, 0 crashes saved, perf_score=0, exec_us=23, hits=13, map=119, ascii=0)...[0m
+[EthMutator] init trim with 83 bytes 83 parsed bytes and 10 expected steps
+[EthMutator] trim finish in 4829 μsec with 83 bytes
+[EthMutator] new queue entry with 83 bytes and 2 tx - total queue len 5
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 558 rounds (Some(558) base mutations, Some(120) deterministic round, and 79 additional havocs; fuzzer requested 279 rounds; queue size 5; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #15 (132 total, 0 crashes saved, perf_score=0, exec_us=22, hits=7, map=119, ascii=0)...[0m
+[EthMutator] init trim with 83 bytes 83 parsed bytes and 10 expected steps
+[EthMutator] trim finish in 2914 μsec with 83 bytes
+[EthMutator] new queue entry with 83 bytes and 2 tx - total queue len 6
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 710 rounds (Some(710) base mutations, Some(120) deterministic round, and 101 additional havocs; fuzzer requested 355 rounds; queue size 6; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #16 (132 total, 0 crashes saved, perf_score=0, exec_us=25, hits=1, map=102, ascii=0)...[0m
+[EthMutator] init trim with 76 bytes 76 parsed bytes and 8 expected steps
+[EthMutator] trim finish in 482 μsec with 76 bytes
+[EthMutator] new queue entry with 76 bytes and 1 tx - total queue len 7
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 558 rounds (Some(558) base mutations, Some(60) deterministic round, and 79 additional havocs; fuzzer requested 279 rounds; queue size 7; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #18 (133 total, 0 crashes saved, perf_score=0, exec_us=25, hits=6545, map=180, ascii=0)...[0m
+[EthMutator] init trim with 144 bytes 144 parsed bytes and 11 expected steps
+[EthMutator] trim finish in 1161 μsec with 108 bytes
+[EthMutator] new queue entry with 108 bytes and 2 tx - total queue len 8
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1006 rounds (Some(1006) base mutations, Some(120) deterministic round, and 143 additional havocs; fuzzer requested 399 rounds; queue size 8; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #20 (134 total, 0 crashes saved, perf_score=0, exec_us=25, hits=34, map=147, ascii=0)...[0m
+[EthMutator] init trim with 92 bytes 92 parsed bytes and 8 expected steps
+[EthMutator] trim finish in 482 μsec with 92 bytes
+[EthMutator] new queue entry with 92 bytes and 1 tx - total queue len 9
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 833 rounds (Some(833) base mutations, Some(60) deterministic round, and 119 additional havocs; fuzzer requested 330 rounds; queue size 9; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #34 (137 total, 0 crashes saved, perf_score=0, exec_us=23, hits=205, map=131, ascii=0)...[0m
+[EthMutator] init trim with 92 bytes 92 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 379 μsec with 92 bytes
+[EthMutator] new queue entry with 92 bytes and 1 tx - total queue len 10
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 2512 rounds (Some(2512) base mutations, Some(60) deterministic round, and 358 additional havocs; fuzzer requested 995 rounds; queue size 10; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #49 (137 total, 0 crashes saved, perf_score=0, exec_us=38, hits=3, map=124, ascii=0)...[0m
+[EthMutator] init trim with 110 bytes 110 parsed bytes and 12 expected steps
+[EthMutator] trim finish in 3389 μsec with 110 bytes
+[EthMutator] new queue entry with 110 bytes and 3 tx - total queue len 11
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 506 rounds (Some(506) base mutations, Some(180) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 11; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #59 (137 total, 0 crashes saved, perf_score=0, exec_us=45, hits=7, map=158, ascii=0)...[0m
+[EthMutator] init trim with 1364 bytes 1364 parsed bytes and 81 expected steps
+[EthMutator] trim finish in 1046 μsec with 60 bytes
+[EthMutator] new queue entry with 60 bytes and 1 tx - total queue len 12
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 6014 rounds (Some(6014) base mutations, Some(60) deterministic round, and 859 additional havocs; fuzzer requested 2506 rounds; queue size 12; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #69 (138 total, 0 crashes saved, perf_score=0, exec_us=51, hits=5, map=159, ascii=0)...[0m
+[EthMutator] init trim with 864 bytes 864 parsed bytes and 51 expected steps
+[EthMutator] trim finish in 1580 μsec with 92 bytes
+[EthMutator] new queue entry with 92 bytes and 1 tx - total queue len 13
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 961 rounds (Some(961) base mutations, Some(60) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 13; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #103 (138 total, 0 crashes saved, perf_score=0, exec_us=45, hits=115, map=182, ascii=0)...[0m
+[EthMutator] init trim with 108 bytes 107 parsed bytes and 9 expected steps
+[EthMutator] trim finish in 1539 μsec with 107 bytes
+[EthMutator] new queue entry with 107 bytes and 2 tx - total queue len 14
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1026 rounds (Some(1026) base mutations, Some(120) deterministic round, and 146 additional havocs; fuzzer requested 407 rounds; queue size 14; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #104 (138 total, 0 crashes saved, perf_score=0, exec_us=39, hits=7, map=181, ascii=0)...[0m
+[EthMutator] init trim with 88 bytes 88 parsed bytes and 9 expected steps
+[EthMutator] trim finish in 560 μsec with 88 bytes
+[EthMutator] new queue entry with 88 bytes and 2 tx - total queue len 15
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1026 rounds (Some(1026) base mutations, Some(120) deterministic round, and 146 additional havocs; fuzzer requested 407 rounds; queue size 15; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #105 (138 total, 0 crashes saved, perf_score=0, exec_us=43, hits=11, map=181, ascii=0)...[0m
+[EthMutator] init trim with 100 bytes 100 parsed bytes and 9 expected steps
+[EthMutator] trim finish in 1381 μsec with 100 bytes
+[EthMutator] new queue entry with 100 bytes and 2 tx - total queue len 16
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1026 rounds (Some(1026) base mutations, Some(120) deterministic round, and 146 additional havocs; fuzzer requested 407 rounds; queue size 16; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #106 (138 total, 0 crashes saved, perf_score=0, exec_us=44, hits=10, map=181, ascii=0)...[0m
+[EthMutator] init trim with 80 bytes 80 parsed bytes and 9 expected steps
+[EthMutator] trim finish in 1243 μsec with 80 bytes
+[EthMutator] new queue entry with 80 bytes and 2 tx - total queue len 17
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1350 rounds (Some(1350) base mutations, Some(120) deterministic round, and 192 additional havocs; fuzzer requested 535 rounds; queue size 17; previously fuzzed 0)
+[1;94m[*] [0mEntering queue cycle 2.[0m
+[1;94m[*] [0mFuzzing test case #0 (138 total, 0 crashes saved, perf_score=990, exec_us=87, hits=0, map=88, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 4684 rounds (Some(4684) base mutations, Some(60) deterministic round, and 669 additional havocs; fuzzer requested 2342 rounds; queue size 17; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #1 (138 total, 0 crashes saved, perf_score=65, exec_us=23, hits=0, map=4, ascii=0)...[0m
+[1;94m[*] [0mFuzzing test case #3 (138 total, 0 crashes saved, perf_score=137, exec_us=16, hits=32877, map=92, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 726 rounds (Some(726) base mutations, Some(60) deterministic round, and 103 additional havocs; fuzzer requested 363 rounds; queue size 17; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #4 (138 total, 0 crashes saved, perf_score=129, exec_us=19, hits=16193, map=89, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 522 rounds (Some(522) base mutations, Some(60) deterministic round, and 74 additional havocs; fuzzer requested 261 rounds; queue size 17; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #9 (138 total, 0 crashes saved, perf_score=109, exec_us=21, hits=22036, map=112, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 542 rounds (Some(542) base mutations, Some(60) deterministic round, and 77 additional havocs; fuzzer requested 271 rounds; queue size 17; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #11 (138 total, 0 crashes saved, perf_score=0, exec_us=21, hits=412, map=107, ascii=0)...[0m
+[EthMutator] init trim with 60 bytes 60 parsed bytes and 7 expected steps
+[EthMutator] trim finish in 644 μsec with 60 bytes
+[EthMutator] new queue entry with 60 bytes and 1 tx - total queue len 18
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 1530 rounds (Some(1530) base mutations, Some(60) deterministic round, and 218 additional havocs; fuzzer requested 765 rounds; queue size 18; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #12 (138 total, 0 crashes saved, perf_score=109, exec_us=23, hits=15970, map=119, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 546 rounds (Some(546) base mutations, Some(120) deterministic round, and 78 additional havocs; fuzzer requested 273 rounds; queue size 18; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #15 (138 total, 0 crashes saved, perf_score=139, exec_us=22, hits=17369, map=119, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 696 rounds (Some(696) base mutations, Some(120) deterministic round, and 99 additional havocs; fuzzer requested 348 rounds; queue size 18; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #16 (138 total, 0 crashes saved, perf_score=109, exec_us=25, hits=13208, map=102, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 546 rounds (Some(546) base mutations, Some(60) deterministic round, and 78 additional havocs; fuzzer requested 273 rounds; queue size 18; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #18 (138 total, 0 crashes saved, perf_score=156, exec_us=25, hits=9185, map=180, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1012 rounds (Some(1012) base mutations, Some(120) deterministic round, and 144 additional havocs; fuzzer requested 401 rounds; queue size 18; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #19 (138 total, 0 crashes saved, perf_score=0, exec_us=26, hits=6, map=90, ascii=0)...[0m
+[EthMutator] init trim with 356 bytes 356 parsed bytes and 25 expected steps
+[EthMutator] trim finish in 2482 μsec with 136 bytes
+[EthMutator] new queue entry with 136 bytes and 6 tx - total queue len 19
+[EthMutator] starting fuzzing round on FuzzCase with 6 tx with 506 rounds (Some(506) base mutations, Some(360) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 19; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #20 (139 total, 0 crashes saved, perf_score=129, exec_us=25, hits=22201, map=147, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 812 rounds (Some(812) base mutations, Some(60) deterministic round, and 116 additional havocs; fuzzer requested 322 rounds; queue size 19; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #21 (139 total, 0 crashes saved, perf_score=0, exec_us=25, hits=216, map=90, ascii=0)...[0m
+[EthMutator] init trim with 140 bytes 140 parsed bytes and 15 expected steps
+[EthMutator] trim finish in 1486 μsec with 104 bytes
+[EthMutator] new queue entry with 104 bytes and 4 tx - total queue len 20
+[EthMutator] starting fuzzing round on FuzzCase with 4 tx with 506 rounds (Some(506) base mutations, Some(240) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 20; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #24 (139 total, 0 crashes saved, perf_score=0, exec_us=26, hits=92, map=182, ascii=0)...[0m
+[EthMutator] init trim with 356 bytes 356 parsed bytes and 25 expected steps
+[EthMutator] trim finish in 2520 μsec with 140 bytes
+[EthMutator] new queue entry with 140 bytes and 4 tx - total queue len 21
+[EthMutator] starting fuzzing round on FuzzCase with 4 tx with 961 rounds (Some(961) base mutations, Some(240) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 21; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #25 (139 total, 0 crashes saved, perf_score=0, exec_us=29, hits=36, map=184, ascii=0)...[0m
+[EthMutator] init trim with 740 bytes 740 parsed bytes and 30 expected steps
+[EthMutator] trim finish in 2079 μsec with 124 bytes
+[EthMutator] new queue entry with 124 bytes and 3 tx - total queue len 22
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 961 rounds (Some(961) base mutations, Some(180) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 22; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #26 (139 total, 0 crashes saved, perf_score=0, exec_us=25, hits=43, map=178, ascii=0)...[0m
+[EthMutator] init trim with 2108 bytes 2108 parsed bytes and 51 expected steps
+[EthMutator] trim finish in 2711 μsec with 144 bytes
+[EthMutator] new queue entry with 144 bytes and 2 tx - total queue len 23
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 638 rounds (Some(638) base mutations, Some(120) deterministic round, and 91 additional havocs; fuzzer requested 253 rounds; queue size 23; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #29 (139 total, 0 crashes saved, perf_score=0, exec_us=20, hits=10, map=103, ascii=0)...[0m
+[EthMutator] init trim with 2832 bytes 2832 parsed bytes and 17 expected steps
+[EthMutator] trim finish in 1594 μsec with 144 bytes
+[EthMutator] new queue entry with 144 bytes and 2 tx - total queue len 24
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 506 rounds (Some(506) base mutations, Some(120) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 24; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #32 (139 total, 0 crashes saved, perf_score=0, exec_us=23, hits=2, map=184, ascii=0)...[0m
+[EthMutator] init trim with 428 bytes 428 parsed bytes and 18 expected steps
+[EthMutator] trim finish in 4127 μsec with 160 bytes
+[EthMutator] new queue entry with 160 bytes and 3 tx - total queue len 25
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 961 rounds (Some(961) base mutations, Some(180) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 25; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #33 (139 total, 0 crashes saved, perf_score=0, exec_us=23, hits=29, map=186, ascii=0)...[0m
+[EthMutator] init trim with 160 bytes 160 parsed bytes and 13 expected steps
+[EthMutator] trim finish in 772 μsec with 124 bytes
+[EthMutator] new queue entry with 124 bytes and 3 tx - total queue len 26
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 961 rounds (Some(961) base mutations, Some(180) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 26; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #34 (139 total, 0 crashes saved, perf_score=389, exec_us=23, hits=19200, map=131, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 2403 rounds (Some(2403) base mutations, Some(60) deterministic round, and 343 additional havocs; fuzzer requested 952 rounds; queue size 26; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #36 (139 total, 0 crashes saved, perf_score=0, exec_us=30, hits=8, map=182, ascii=0)...[0m
+[EthMutator] init trim with 360 bytes 360 parsed bytes and 37 expected steps
+[EthMutator] trim finish in 7279 μsec with 284 bytes
+[EthMutator] new queue entry with 284 bytes and 13 tx - total queue len 27
+[EthMutator] starting fuzzing round on FuzzCase with 13 tx with 961 rounds (Some(961) base mutations, Some(780) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 27; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #37 (139 total, 0 crashes saved, perf_score=0, exec_us=26, hits=4, map=186, ascii=0)...[0m
+[EthMutator] init trim with 284 bytes 284 parsed bytes and 25 expected steps
+[EthMutator] trim finish in 2179 μsec with 172 bytes
+[EthMutator] new queue entry with 172 bytes and 6 tx - total queue len 28
+[EthMutator] starting fuzzing round on FuzzCase with 6 tx with 961 rounds (Some(961) base mutations, Some(360) deterministic round, and 137 additional havocs; fuzzer requested 381 rounds; queue size 28; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #42 (139 total, 0 crashes saved, perf_score=0, exec_us=28, hits=35, map=93, ascii=0)...[0m
+[EthMutator] init trim with 524 bytes 524 parsed bytes and 36 expected steps
+[EthMutator] trim finish in 1209 μsec with 88 bytes
+[EthMutator] new queue entry with 88 bytes and 3 tx - total queue len 29
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 506 rounds (Some(506) base mutations, Some(180) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 29; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #43 (139 total, 0 crashes saved, perf_score=0, exec_us=29, hits=2, map=103, ascii=0)...[0m
+[EthMutator] init trim with 308 bytes 308 parsed bytes and 13 expected steps
+[EthMutator] trim finish in 382 μsec with 144 bytes
+[EthMutator] new queue entry with 144 bytes and 2 tx - total queue len 30
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 506 rounds (Some(506) base mutations, Some(120) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 30; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #47 (139 total, 0 crashes saved, perf_score=0, exec_us=67, hits=2, map=117, ascii=0)...[0m
+[EthMutator] init trim with 93 bytes 93 parsed bytes and 12 expected steps
+[EthMutator] trim finish in 3287 μsec with 93 bytes
+[EthMutator] new queue entry with 93 bytes and 3 tx - total queue len 31
+[EthMutator] starting fuzzing round on FuzzCase with 3 tx with 506 rounds (Some(506) base mutations, Some(180) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 31; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #57 (139 total, 0 crashes saved, perf_score=0, exec_us=55, hits=4, map=94, ascii=0)...[0m
+[EthMutator] init trim with 339 bytes 332 parsed bytes and 33 expected steps
+[EthMutator] trim finish in 7540 μsec with 328 bytes
+[EthMutator] new queue entry with 328 bytes and 18 tx - total queue len 32
+[EthMutator] starting fuzzing round on FuzzCase with 18 tx with 506 rounds (Some(506) base mutations, Some(1080) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 32; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #59 (140 total, 0 crashes saved, perf_score=979, exec_us=45, hits=442, map=158, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 4970 rounds (Some(4970) base mutations, Some(60) deterministic round, and 710 additional havocs; fuzzer requested 2071 rounds; queue size 32; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #69 (141 total, 0 crashes saved, perf_score=149, exec_us=51, hits=17909, map=159, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 1 tx with 954 rounds (Some(954) base mutations, Some(60) deterministic round, and 136 additional havocs; fuzzer requested 378 rounds; queue size 32; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #74 (141 total, 0 crashes saved, perf_score=0, exec_us=49, hits=5, map=131, ascii=0)...[0m
+[EthMutator] init trim with 381 bytes 381 parsed bytes and 33 expected steps
+[EthMutator] trim finish in 9757 μsec with 305 bytes
+[EthMutator] new queue entry with 305 bytes and 12 tx - total queue len 33
+[EthMutator] starting fuzzing round on FuzzCase with 12 tx with 506 rounds (Some(506) base mutations, Some(720) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 33; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #76 (141 total, 0 crashes saved, perf_score=0, exec_us=236, hits=7, map=115, ascii=0)...[0m
+[EthMutator] init trim with 4304 bytes 4304 parsed bytes and 279 expected steps
+[EthMutator] trim finish in 206689 μsec with 3614 bytes
+[EthMutator] new queue entry with 3614 bytes and 217 tx - total queue len 34
+[EthMutator] starting fuzzing round on FuzzCase with 217 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 34; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #86 (170 total, 0 crashes saved, perf_score=0, exec_us=151, hits=7, map=115, ascii=0)...[0m
+[EthMutator] init trim with 4282 bytes 4281 parsed bytes and 141 expected steps
+[EthMutator] trim finish in 79438 μsec with 2112 bytes
+[EthMutator] new queue entry with 2112 bytes and 123 tx - total queue len 35
+[EthMutator] starting fuzzing round on FuzzCase with 123 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 35; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #87 (171 total, 0 crashes saved, perf_score=0, exec_us=173, hits=7, map=114, ascii=0)...[0m
+[EthMutator] init trim with 4394 bytes 4394 parsed bytes and 137 expected steps
+[EthMutator] trim finish in 77736 μsec with 2116 bytes
+[EthMutator] new queue entry with 2116 bytes and 123 tx - total queue len 36
+[EthMutator] starting fuzzing round on FuzzCase with 123 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 36; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #91 (171 total, 0 crashes saved, perf_score=0, exec_us=264, hits=7, map=118, ascii=0)...[0m
+[EthMutator] init trim with 4304 bytes 4304 parsed bytes and 272 expected steps
+[EthMutator] trim finish in 235060 μsec with 4176 bytes
+[EthMutator] new queue entry with 4176 bytes and 250 tx - total queue len 37
+[EthMutator] starting fuzzing round on FuzzCase with 250 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 37; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #92 (174 total, 0 crashes saved, perf_score=0, exec_us=142, hits=5, map=119, ascii=0)...[0m
+[EthMutator] init trim with 4313 bytes 4313 parsed bytes and 170 expected steps
+[EthMutator] trim finish in 75934 μsec with 1945 bytes
+[EthMutator] new queue entry with 1945 bytes and 112 tx - total queue len 38
+[EthMutator] starting fuzzing round on FuzzCase with 112 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 38; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #96 (174 total, 0 crashes saved, perf_score=0, exec_us=276, hits=7, map=111, ascii=0)...[0m
+[EthMutator] init trim with 4273 bytes 4273 parsed bytes and 274 expected steps
+[EthMutator] trim finish in 242625 μsec with 4236 bytes
+[EthMutator] new queue entry with 4236 bytes and 256 tx - total queue len 39
+[EthMutator] starting fuzzing round on FuzzCase with 256 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 39; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #97 (174 total, 0 crashes saved, perf_score=0, exec_us=76, hits=7, map=115, ascii=0)...[0m
+[EthMutator] init trim with 4780 bytes 4780 parsed bytes and 69 expected steps
+[EthMutator] trim finish in 14757 μsec with 575 bytes
+[EthMutator] new queue entry with 575 bytes and 33 tx - total queue len 40
+[EthMutator] starting fuzzing round on FuzzCase with 33 tx with 506 rounds (Some(506) base mutations, Some(1980) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 40; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #100 (174 total, 0 crashes saved, perf_score=0, exec_us=108, hits=9, map=120, ascii=0)...[0m
+[EthMutator] init trim with 4750 bytes 4750 parsed bytes and 113 expected steps
+[EthMutator] trim finish in 57915 μsec with 1255 bytes
+[EthMutator] new queue entry with 1255 bytes and 71 tx - total queue len 41
+[EthMutator] starting fuzzing round on FuzzCase with 71 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 41; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #103 (174 total, 0 crashes saved, perf_score=159, exec_us=45, hits=19586, map=182, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 703 rounds (Some(703) base mutations, Some(120) deterministic round, and 100 additional havocs; fuzzer requested 279 rounds; queue size 41; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #104 (174 total, 0 crashes saved, perf_score=159, exec_us=39, hits=15986, map=181, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 703 rounds (Some(703) base mutations, Some(120) deterministic round, and 100 additional havocs; fuzzer requested 279 rounds; queue size 41; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #105 (174 total, 0 crashes saved, perf_score=159, exec_us=43, hits=19993, map=181, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 703 rounds (Some(703) base mutations, Some(120) deterministic round, and 100 additional havocs; fuzzer requested 279 rounds; queue size 41; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #106 (174 total, 0 crashes saved, perf_score=209, exec_us=44, hits=15992, map=181, ascii=0)...[0m
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 1026 rounds (Some(1026) base mutations, Some(120) deterministic round, and 146 additional havocs; fuzzer requested 407 rounds; queue size 41; previously fuzzed 1)
+[1;94m[*] [0mFuzzing test case #108 (174 total, 0 crashes saved, perf_score=0, exec_us=43, hits=10, map=183, ascii=0)...[0m
+[EthMutator] init trim with 108 bytes 108 parsed bytes and 12 expected steps
+[EthMutator] trim finish in 1946 μsec with 79 bytes
+[EthMutator] new queue entry with 79 bytes and 2 tx - total queue len 42
+[EthMutator] starting fuzzing round on FuzzCase with 2 tx with 896 rounds (Some(896) base mutations, Some(120) deterministic round, and 128 additional havocs; fuzzer requested 355 rounds; queue size 42; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #115 (174 total, 0 crashes saved, perf_score=0, exec_us=51, hits=6, map=193, ascii=0)...[0m
+[EthMutator] init trim with 280 bytes 280 parsed bytes and 16 expected steps
+[EthMutator] trim finish in 1463 μsec with 192 bytes
+[EthMutator] new queue entry with 192 bytes and 6 tx - total queue len 43
+[EthMutator] starting fuzzing round on FuzzCase with 6 tx with 739 rounds (Some(739) base mutations, Some(360) deterministic round, and 105 additional havocs; fuzzer requested 253 rounds; queue size 43; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #117 (174 total, 0 crashes saved, perf_score=0, exec_us=102, hits=6, map=129, ascii=0)...[0m
+[EthMutator] init trim with 4687 bytes 4687 parsed bytes and 110 expected steps
+[EthMutator] trim finish in 49952 μsec with 1284 bytes
+[EthMutator] new queue entry with 1284 bytes and 56 tx - total queue len 44
+[EthMutator] starting fuzzing round on FuzzCase with 56 tx with 506 rounds (Some(506) base mutations, Some(3360) deterministic round, and 72 additional havocs; fuzzer requested 253 rounds; queue size 44; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #122 (174 total, 0 crashes saved, perf_score=0, exec_us=284, hits=5, map=117, ascii=0)...[0m
+[EthMutator] init trim with 4271 bytes 4271 parsed bytes and 285 expected steps
+[EthMutator] trim finish in 254874 μsec with 4251 bytes
+[EthMutator] new queue entry with 4251 bytes and 255 tx - total queue len 45
+[EthMutator] starting fuzzing round on FuzzCase with 255 tx with 506 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 253 rounds; queue size 45; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #124 (174 total, 0 crashes saved, perf_score=0, exec_us=71, hits=3, map=189, ascii=0)...[0m
+[EthMutator] init trim with 391 bytes 391 parsed bytes and 30 expected steps
+[EthMutator] trim finish in 2795 μsec with 207 bytes
+[EthMutator] new queue entry with 207 bytes and 5 tx - total queue len 46
+[EthMutator] starting fuzzing round on FuzzCase with 5 tx with 638 rounds (Some(638) base mutations, Some(300) deterministic round, and 91 additional havocs; fuzzer requested 253 rounds; queue size 46; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #129 (174 total, 0 crashes saved, perf_score=0, exec_us=65, hits=7, map=193, ascii=0)...[0m
+[EthMutator] init trim with 548 bytes 548 parsed bytes and 31 expected steps
+[EthMutator] trim finish in 3162 μsec with 312 bytes
+[EthMutator] new queue entry with 312 bytes and 12 tx - total queue len 47
+[EthMutator] starting fuzzing round on FuzzCase with 12 tx with 233 rounds (Some(233) base mutations, Some(720) deterministic round, and 33 additional havocs; fuzzer requested 253 rounds; queue size 47; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #133 (174 total, 0 crashes saved, perf_score=0, exec_us=79, hits=6, map=190, ascii=0)...[0m
+[EthMutator] init trim with 548 bytes 548 parsed bytes and 63 expected steps
+[EthMutator] trim finish in 14423 μsec with 508 bytes
+[EthMutator] new queue entry with 508 bytes and 27 tx - total queue len 48
+[EthMutator] starting fuzzing round on FuzzCase with 27 tx with 638 rounds (Some(638) base mutations, Some(1620) deterministic round, and 91 additional havocs; fuzzer requested 253 rounds; queue size 48; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #134 (174 total, 0 crashes saved, perf_score=0, exec_us=70, hits=7, map=181, ascii=0)...[0m
+[EthMutator] init trim with 492 bytes 492 parsed bytes and 35 expected steps
+[EthMutator] trim finish in 3848 μsec with 420 bytes
+[EthMutator] new queue entry with 420 bytes and 9 tx - total queue len 49
+[EthMutator] starting fuzzing round on FuzzCase with 9 tx with 638 rounds (Some(638) base mutations, Some(540) deterministic round, and 91 additional havocs; fuzzer requested 253 rounds; queue size 49; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #139 (174 total, 0 crashes saved, perf_score=0, exec_us=78, hits=6, map=189, ascii=0)...[0m
+[EthMutator] init trim with 799 bytes 799 parsed bytes and 50 expected steps
+[EthMutator] trim finish in 5932 μsec with 766 bytes
+[EthMutator] new queue entry with 766 bytes and 21 tx - total queue len 50
+[EthMutator] starting fuzzing round on FuzzCase with 21 tx with 1284 rounds (Some(1284) base mutations, Some(1260) deterministic round, and 183 additional havocs; fuzzer requested 509 rounds; queue size 50; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #144 (174 total, 0 crashes saved, perf_score=0, exec_us=74, hits=4, map=216, ascii=0)...[0m
+[EthMutator] init trim with 1605 bytes 1605 parsed bytes and 95 expected steps
+[EthMutator] trim finish in 19080 μsec with 1533 bytes
+[EthMutator] new queue entry with 1533 bytes and 41 tx - total queue len 51
+[EthMutator] starting fuzzing round on FuzzCase with 41 tx with 2333 rounds (Some(2333) base mutations, Some(2460) deterministic round, and 333 additional havocs; fuzzer requested 765 rounds; queue size 51; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #147 (174 total, 0 crashes saved, perf_score=0, exec_us=114, hits=10, map=216, ascii=0)...[0m
+[EthMutator] init trim with 2705 bytes 2705 parsed bytes and 136 expected steps
+[EthMutator] trim finish in 49083 μsec with 2705 bytes
+[EthMutator] new queue entry with 2705 bytes and 65 tx - total queue len 52
+[EthMutator] starting fuzzing round on FuzzCase with 65 tx with 1530 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 765 rounds; queue size 52; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #156 (174 total, 0 crashes saved, perf_score=0, exec_us=301, hits=10, map=226, ascii=0)...[0m
+[EthMutator] init trim with 6498 bytes 6498 parsed bytes and 337 expected steps
+[EthMutator] trim finish in 261166 μsec with 6498 bytes
+[EthMutator] new queue entry with 6498 bytes and 181 tx - total queue len 53
+[EthMutator] starting fuzzing round on FuzzCase with 181 tx with 1530 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 765 rounds; queue size 53; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #157 (174 total, 0 crashes saved, perf_score=0, exec_us=564, hits=8, map=226, ascii=0)...[0m
+[EthMutator] init trim with 9825 bytes 9825 parsed bytes and 510 expected steps
+[EthMutator] trim finish in 529063 μsec with 9793 bytes
+[EthMutator] new queue entry with 9793 bytes and 266 tx - total queue len 54
+[EthMutator] starting fuzzing round on FuzzCase with 266 tx with 1530 rounds (Some(0) base mutations, Some(0) deterministic round, and 0 additional havocs; fuzzer requested 765 rounds; queue size 54; previously fuzzed 0)
+[1;94m[*] [0mFuzzing test case #159 (174 total, 0 crashes saved, perf_score=0, exec_us=626, hits=9, map=226, ascii=0)...[0m
+[EthMutator] init trim with 105132 bytes 105132 parsed bytes and 5764 expected steps
+[EthMutator] trim finish in 2181695 μsec with 9002 bytes
+[EthMutator] new queue entry with 9002 bytes and 266 tx - total queue len 55
+[?25h[1;91m
+
++++ Testing aborted programmatically +++
+[0m[1;93m[!] [0mTime limit was reached
+[1;94m[*] [0mStatistics: 58 new corpus items found, 5.66% coverage achieved, 0 crashes saved, 0 timeouts saved, total runtime 0 days, 1 hrs, 0 min, 0 sec[0m
+[1;92m[+] [0mWe're done here. Have a nice day!
+[0m

@@ -1,0 +1,27 @@
+Transactions Sequences:
+--------------------------------------------------------------
+TX []
+TX []
+    fallback()[🪙];
+TX []
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+TX []
+    forward(address,bytes)[];
+    fallback()[];
+TX []
+    forward(address,bytes)[];
+    forward(address,bytes)[];
+    fallback()[];
+--------------------------------------------------------------
+== ABI coverage: ==
+0 ==> 7
+forward(address,bytes) ==> 24
+
+Maximum ABI coverage with: ./e2/crashes/../queue/id:000003,src:000002,time:1,execs:37,EM-_____-_____________________-_____-_c___-AD__,+cov
+--------------------------------------------------------------
+Number of fuzzcases: 27
+Average number of TXs: 1.1481481481481481
+Number of unique TX sequences: 5
+Number of unique TX sequences (consecutive deduplicated): 4

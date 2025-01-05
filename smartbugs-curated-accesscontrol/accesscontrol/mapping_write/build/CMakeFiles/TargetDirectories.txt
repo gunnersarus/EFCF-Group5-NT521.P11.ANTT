@@ -1,0 +1,7 @@
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/CMakeFiles/eevm.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/CMakeFiles/disassembler.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/CMakeFiles/fuzz_multitx.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/CMakeFiles/rebuild_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/3rdparty/CMakeFiles/edit_cache.dir
+/efcf/src/eEVM/fuzz/build/afuzz/mapping_write/3rdparty/CMakeFiles/rebuild_cache.dir
